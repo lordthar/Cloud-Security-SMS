@@ -1,0 +1,126 @@
+\documentclass[journal]{IEEEtran}
+
+% Paquete para soporte del idioma español
+% Importante para que la compilación de términos generados automaticamente se haga en español.
+\usepackage[spanish]{babel}
+% Use natbib for compressed citations
+\usepackage[numbers,compress]{natbib}
+\usepackage[utf8]{inputenc}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{xcolor}
+
+%Paquetes para hacer cálculos.
+\usepackage{calc}
+\usepackage{xfp} % For more precise floating point calculations
+
+
+\usepackage{multirow, array} % para las tablas
+\usepackage{graphicx}
+\usepackage{enumitem}
+
+\usepackage{tabularx}
+
+\usepackage{titlesec}
+% Force line breaks after subsubsections
+\titleformat{\subsubsection}
+{\normalfont\normalsize\itshape}{\thesubsubsection}{1em}{}[\vspace{1ex}]
+\titlespacing{\subsubsection}
+{0pt} % left indentation
+{3ex plus 1ex minus 0.5ex} % space before de subsubsection
+{1ex plus 0.5ex minus 0.2ex} % space after de subsubsection
+% ------ explaining the latter part: -----------
+% 2ex = Base spacing (2 times the height of letter "x" in current font)
+% plus 0.5ex = Maximum additional space LaTeX can add if needed
+% minus 0.2ex = Maximum space LaTeX can remove if needed
+
+
+
+% --- PAQUETE PARA HIPERVÍNCULOS ---
+% La finalidad de su uso en este proyecto es otorgar enlaces a las citas hechas a traves del documento.
+\usepackage{hyperref} % <---- Load this package LAST!
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,    % Color for internal links (e.g., sections)
+    citecolor=blue,    % Color for citations
+    filecolor=blue,    % Color for file links
+    urlcolor=blue,     % Color for external URLs
+}
+% ---------------------------------
+
+% Redefinir el nombre de las palabras clave a español
+\renewcommand{\IEEEkeywordsname}{Palabras Clave}
+
+% Redefinir el nombre de las tablas al español - CORRECT WAY with babel
+\addto\captionsspanish{\renewcommand{\tablename}{Tabla}}
+
+% Comando artesanal para escribir texto con dos propiedades
+% italica y negrilla.
+% uso -> \bolditalic{su texto aquí!!!!!!!}
+\newcommand{\bolditalic}[1]{\textbf{\textit{#1}}}
+
+% Estructura del documento como referencia para el futuro
+%\part           Optional - for very large documents
+%  \chapter      Top-level division
+%    \section
+%      \subsection
+%        \subsubsection
+%          \paragraph
+%            \subparagraph
+
+
+% !!! Importante
+% Para la nomemclatura de archivos
+% 1) Aquellos archivos (no incluye directorios) que empiezan con "00" deben ser considerados como
+%    el archivo "main" de esa sección
+
+\begin{document}
+
+    \title{
+        Seguridad en la nube\\
+        Estudio de mapeo sistematico
+    }
+
+    \author{
+        Miguel Angel Garcia Osorio,~\IEEEmembership{Estudiante de pregrado, Universidad del Quindío}, \\
+        Huendy Caicedo Tangarife,~\IEEEmembership{Estudiante de pregrado, Universidad del Quindío} \\
+        Luis Eduardo Sepúlveda Rodríguez,~\IEEEmembership{PhD, Universidad del Quindío} y \\
+        Christian Andres Candela Uribe,~\IEEEmembership{Dr, Universidad del Quindío}
+    }
+
+% The paper headers
+    %!TODO Colocar el nombre de la revista una vez lo sepamos.
+    \markboth{Revista LA REVISTA,~Vol.~XX, No.~YY, Abril~2026}{Header de la derecha}
+
+
+    \maketitle
+
+    \begin{abstract}
+        This document describes the most common article elements and how to use the IEEEtran class with \LaTeX \ to produce files that are suitable for submission to the IEEE.  IEEEtran can produce conference, journal, and technical note (correspondence) papers with a suitable choice of class options.
+    \end{abstract}
+
+    \begin{IEEEkeywords}
+        Article submission, IEEE, IEEEtran, journal, \LaTeX, paper, template, typesetting.
+    \end{IEEEkeywords}
+
+%Seccion introducción
+    \input{Secciones/01-Introduccion/00-introduccion}
+
+%Sección motivación
+    \input{Secciones/02-Motivacion/00-motivacion}
+
+%Sección trabajos relacionados
+    \input{Secciones/03-Trabajos-Relacionados/00-trabajos-relacionados}
+
+
+% --- REFERENCIAS ---
+% Estilo de la bibliografía
+    \bibliographystyle{IEEEtran}
+% Archivo .bib donde se encuentran las referencias
+%    \bibliography{resources/references.bib}
+% -------------------
+
+
+% ########################### FIN DE LAS SECCIONES ###########################
+
+\end{document}
