@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main_sms.aux
+The style file: IEEEtran.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 13878 items from 5000.
+Database file #1: resources/referencias.bib
+Warning--I didn't find a database entry for "sms-builder-own-container"
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+
+Done.
+You've used 192 entries,
+            4087 wiz_defined-function locations,
+            1919 strings with 48737 characters,
+and the built_in function-call counts, 152104 in all, are:
+= -- 13102
+> -- 3515
+< -- 1331
++ -- 2063
+- -- 764
+* -- 7312
+:= -- 22705
+add.period$ -- 387
+call.type$ -- 192
+change.case$ -- 193
+chr.to.int$ -- 2889
+cite$ -- 192
+duplicate$ -- 11094
+empty$ -- 11053
+format.name$ -- 773
+if$ -- 35417
+int.to.chr$ -- 0
+int.to.str$ -- 192
+missing$ -- 1745
+newline$ -- 615
+num.names$ -- 192
+pop$ -- 3809
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 11900
+stack$ -- 0
+substring$ -- 7881
+swap$ -- 9410
+text.length$ -- 368
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 192
+warning$ -- 0
+while$ -- 665
+width$ -- 195
+write$ -- 1950
+(There was 1 warning)

@@ -1,0 +1,39 @@
+%% Definición de variables
+\newcommand{\totalStudies}{181}
+\newcommand{\databaseStudies}{166}
+\newcommand{\snowballStudies}{15}
+%Que yo recuerde en nuestro trabajo aún no hicimos inclusión directa de trabajos, sin embargo lo coloco aquí para el futuro.
+\newcommand{\directInclusionStudies}{0}
+
+
+% subseccion 4.2 ------- BUSQUEDA DE ESTUDIOS.
+\subsection{Etapa 2: Búsqueda de Estudios}
+
+Esta etapa presentan las estrategias de búsqueda utilizadas en el SMS\@. Estas estrategias serán definidas y descritas en detalle en las subsecciones~\ref{subsubsec:busqueda-bases-datos} hasta~\ref{subsubsec:resultados-busqueda}. Ver Figura~\ref{fig:busqueda-estudios}.
+El resultado de esta etapa fueron \totalStudies{} estudios obtenidos. De los cuales hubo \databaseStudies{} estudios por bases de datos y  \snowballStudies{} estudios por bola de nieve.
+
+
+% -------- Tabla : Actividades de la etapa de búsqueda de estudios. ------------
+\begin{figure}[htbp]
+	\centering
+	\vspace{10pt}
+	\includegraphics[scale=0.33]{resources/images/Planeacion/Estrategias_busqueda.png}
+		\caption{Actividades de la etapa de búsqueda de estudios.}\label{fig:busqueda-estudios}
+\end{figure}
+
+\subsubsection{Definiendo la Estrategia de Búsqueda}
+
+Para desarrollar este SMS, se ha implementado una metodología híbrida. Esta metodología tiene como objetivo conseguir una cantidad más amplia de estudios indexados y procedentes de múltiples fuentes, superando los resultados que ofrecen en las bases de datos. De esta manera, integramos dos técnicas de búsqueda. La técnica inicial se denomina ``Búsqueda en bases de datos'' la cual consiste en realizar una búsqueda automatizada dentro de bases de datos académicas indexadas~\cite{Jalai-01}. La técnica secundaria recibe el nombre de \textit{Snowballing} o bola de nieve y representa un procedimiento manual fundamentado en una previa recolección de textos iniciales para identificar investigaciones adicionales mediante sus bibliografías y citaciones~\cite{Jalai-01,Goodman-01}.
+Para apoyar el proceso llevado a cabo en este SMS, hemos utilizado los siguientes elementos: Bases de datos académicas, El software SMS-Builder desarrollado por~\cite{Candela2022100935} diseñado específicamente para facilitar la construcción de estudios de mapeo sistemático, Herramientas para apoyar la gestión de referencias como Mendeley y la busqueda de las mismas como Google Scholar.
+
+
+%sub-subseccion 4.2.1 ----- BUSQUEDA POR BASES DE DATOS 
+\input{Secciones/04-Metodo-revision/02-Busqueda-de-trabajos/01-estrategia-busqueda-base-datos.tex}
+
+
+% sub-subsetion for 4.2.2 --- BUSQUEDA POR SNOWBALL 
+\input{Secciones/04-Metodo-revision/02-Busqueda-de-trabajos/02-estrategia-snowball.tex}
+
+
+% sub-subsetion for 4.2.3 -- RESULTADOS DE LA BUSQUEDA DE ESTUDIOS
+\input{Secciones/04-Metodo-revision/02-Busqueda-de-trabajos/03-resultados-busqueda-trabajos.tex}

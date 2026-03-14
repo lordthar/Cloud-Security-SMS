@@ -1,0 +1,61 @@
+% subseccion 4.4 ------- EXTRACCION DE DATOS
+\subsection{Stage 4: Data Extraction}\label{sec:extraccion-de-datos}
+
+Tras aplicar los procedimientos de búsqueda y selección de estudios, así como su evaluación de calidad, se muestran los estudios primarios de \totalEtapaDos{}.
+Estos estudios se etiquetaron con el prefijo SPS (Estudio Primario Seleccionado) seguido de un número. La lista completa de estos estudios se puede encontrar en la Tabla~\ref{table:selected_primary_studies}.
+A partir de los SPS de \totalEtapaDos{}, se diseñaron y completaron formularios para obtener datos relevantes para el SMS.\@ La información contenida en los SPS se relacionó con las preguntas de investigación 
+a través de los temas definidos en la etapa de planificación y se registró utilizando los modelos GQM y PICOC.\@ Además, se extrajeron metadatos, como palabras clave, para identificar los aspectos subyacentes de los SPS.\@
+
+% -------- Tabla : Estudios Primarios Seleccionados (SPSs) ------------
+\begin{table*}[htbp]
+	\centering
+	\caption{Los \totalStudies{} estudios primarios seleccionados (SPSs)}\label{table:selected_primary_studies}
+	\renewcommand{\arraystretch}{1.2}
+	\setlength{\tabcolsep}{4pt} % Reduce space between columns
+	\begin{tabular*}{\textwidth}{l @{\extracolsep{\fill}} r l @{\extracolsep{\fill}} r l @{\extracolsep{\fill}} r l @{\extracolsep{\fill}} r l @{\extracolsep{\fill}} r}
+		\toprule
+		\textbf{ID} & \textbf{Ref} 							& \textbf{ID} & \textbf{Ref} 								& \textbf{ID} & \textbf{Ref} 								& \textbf{ID} & \textbf{Ref} 								 & \textbf{ID} & \textbf{Ref} 						 	 \\
+		\midrule
+		SPS001      &~\cite{Nespoli2021}          			& SPS002      &~\cite{Robertson2022}         				& SPS003      &~\cite{Sharma2025}          					& SPS004      &~\cite{Aslam2024}          					 & SPS005      &~\cite{Pavithra2024}          		 	 \\
+		SPS006      &~\cite{Jangjou2022}          			& SPS007      &~\cite{Gioiosa2025}          				& SPS008      &~\cite{Mohan2023}          					& SPS009      &~\cite{Vardhan2024}          				 & SPS010      &~\cite{Thakkar2023}         			 \\
+		SPS011      &~\cite{Badie2023}   					& SPS012      &~\cite{Singh2025}       						& SPS013      &~\cite{Jimenez2021}         					& SPS014      &~\cite{Henriques2024}         				 & SPS015      &~\cite{Gupta2023}         			 	 \\
+		SPS016      &~\cite{Bose2023HealthDataPrivacySurvey}& SPS017      &~\cite{Yu2020}  								& SPS018      &~\cite{Silva2025}         					& SPS019      &~\cite{Stoyanova2020} 						 & SPS020      &~\cite{Alsuwaiyan2025}         		 	 \\
+		SPS021      &~\cite{Gill2024}         				& SPS022      &~\cite{Kumar2023IDS}         				& SPS023      &~\cite{Guerron2020}         					& SPS024      &~\cite{Zhukabayeva2024}         				 & SPS025      &~\cite{Rajesh2024}   				 	 \\
+		SPS026      &~\cite{Ghanmi2025}         			& SPS027      &~\cite{Liu2021}         						& SPS028      &~\cite{Yu2025}         						& SPS029      &~\cite{Dahiya2024}         					 & SPS030      &~\cite{Akremi2021}     				 	 \\
+		SPS031      &~\cite{Hozouri2025IDSsurvey}       	& SPS032      &~\cite{Khraisat2021IoTIDSReview}  			& SPS033      &~\cite{Kumar2025BlockchainHealthcare}		& SPS034      &~\cite{Marwan2020BlockchainIoT}      		 & SPS035      &~\cite{Mawgoud2022SteganographyCloud} 	 \\
+		SPS036      &~\cite{Hu2024MetaheuristicIDS}      	& SPS037      &~\cite{Tariq2024FogEdgeIDS}         			& SPS038      &~\cite{Tiwari2025BlockchainHealthcareIPFS}   & SPS039      &~\cite{Saini2024HybridMLCloudPrivacy}		 & SPS040      &~\cite{Altherwi2025CloudEhealthSecurity} \\
+		SPS041      &~\cite{Chen2025CloudAttackMitigation}  & SPS042      &~\cite{Kaur2023FogSecurityAHP} 				& SPS043      &~\cite{Merdassi2023LTMAABE}         			& SPS044      &~\cite{Thushara2023HybridEncryptionMedical}   & SPOX45      &~\cite{Kocaman2022CVEanalysis}         	 \\
+		SPS046      &~\cite{Hasan2022BlockchainIIoT}        & SPS047      &~\cite{Reddy2025DLcloudSecurity}     		& SPS048      &~\cite{Wang2022ExtremeLearningIDS}         	& SPS049      &~\cite{Anilkumar2021AccessControlCloud}       & SPS050      &~\cite{Alam2022IoTauthentication}        \\
+		SPS051      &~\cite{Adel2025ICTfailures}         	& SPS052      &~\cite{Kioskli2025HealthcareRiskFramework}   & SPS053      &~\cite{Lu2022CryptoBigDataSurvey}   			& SPS054      &~\cite{Raval2024CriticalInfrastructureSurvey} & SPS055      &~\cite{Tabrizchi2020CloudSecuritySurvey} \\
+		SPS056      &~\cite{Nasim2025CloudIDSreview}        & SPS057      &~\cite{Kundiya2025InsiderThreatNLP}         	& SPS058      &~\cite{Edo2024ZeroTrustHealth}      			& SPS059      &~\cite{Almotiri2025AIoMTsecurity}      		 & SPS060      &~\cite{Alotaibi2025SDNIoTIDS}         	 \\
+		SPS061      &~\cite{Sharma2025}         			& SPS062      &~\cite{Ouhssini2024DDoSCloudReview}      	& SPS063      &~\cite{Mallidi2025AIIDSIoT}      			& SPS064      &~\cite{Hussain2025WSNIDS}         			 & SPS065      &~\cite{Ray2023DDoSMHealth}         		 \\
+		SPS066      &~\cite{Wedamuni2026CyberThreatIntel}   & SPS067      &~\cite{Lyu2025DPRKThreatLandscape}      		& SPS068      &~\cite{Songa2024SDNDDoS}         			& SPS069      &~\cite{Kure2022CyberRiskFramework}      		 & SPS070      &~\cite{Henge2023InsiderAttackDetection}  \\
+		SPS071      &~\cite{Tian2025MalwarePropagationGame} & SPS072      &~\cite{Kaur2023AICybersecurityReview}        & SPS073      &~\cite{Choksy2023ABACIoTHealthcare}         	& SPS074      &~\cite{Yang2025BERTIDS}      				 & SPS075      &~\cite{Sable2025CloudThreatIntel}        \\
+		SPS076      &~\cite{Islam2024ExplainableIDS}        & SPS077      &~\cite{Meriah2025SecurityOntology}         	& SPS078      &~\cite{Psathas2022COREM2}     				& SPS079      &~\cite{Sardar2025WoTSecurityReview}         	 & SPS080      &~\cite{Verma2020CloudStakeholder}        \\
+		SPS081      &~\cite{Butt2023CloudSecuritySurvey}    & SPS082      &~\cite{Shahzad2022CloudAnomalyEnsemble}      & SPS083      &~\cite{Hadi2024CybersecurityToolsSurvey}     & SPS084      &~\cite{Tissir2021CloudCybersecurityManagement}& SPS085      &~\cite{Kanber2022ApplicationLayerDDoS}   \\
+		SPS086      &~\cite{Aldweesh2020DeepLearningIDS}    & SPS087      &~\cite{Radoglou2022IIoTSecurity}      		& SPS088      &~\cite{Wang2022ExtremeLearningIDS}         	& SPS089      &~\cite{Kirubavathi2025TransformerDDoS}      	 & SPS090      &~\cite{Doğan2025SDNIDSReview}         	 \\
+		SPS091      &~\cite{Obidallah2025RansomwareSMPC}    & SPS092      &~\cite{Kim2024CloudIDS}      				& SPS093      &~\cite{Belgacem2022CloudResourceTaxonomy}    & SPS094      &~\cite{Benmohamed2024ESDNN}         			 & SPS095      &~\cite{Kumar2025EdgeGuardIA}         	 \\
+		SPS096      &~\cite{Chen2023SRUTabNetIDS}         	& SPS097      &~\cite{Rehman2025BlockchainIoTAuth}         	& SPS098      &~\cite{Folino2024FederatedLearning}      	& SPS099      &~\cite{Alansary2025AIThreats}         		 & SPS100      &~\cite{Ali2024CloudTrends}        		 \\
+		SPS101      &~\cite{Reddy2024CloudEncryption}       & SPS102      &~\cite{Jalali2025Federated5GIoT}        		& SPS103      &~\cite{Swathi2025CloudAuthentication}      	& SPS104      &~\cite{Khan2024PrivacyAHP}      				 & SPS105      &~\cite{Zhang2025RansomwareDetection}     \\
+		SPS106      &~\cite{Pinto2024InfrastructureSecurity}& SPS107      &~\cite{Saidi2025FederatedPrivacyIDS}        	& SPS108      &~\cite{Chatterjee2023CloudLMS}        		& SPS109      &~\cite{AlShehari2024InsiderThreat}        	 & SPS110      &~\cite{Sherin2026HybridIDS}        		 \\
+		SPS111      &~\cite{Kandoussi2024BayesianDefense}   & SPS112      &~\cite{Preethi2025MultiCloudSecurity}        & SPS113      &~\cite{Quan2025SituationalAwareness}         & SPS114      &~\cite{Mani2025MemoryIDS}        			 & SPS115      &~\cite{Saeed2025CloudResilienceReview}   \\
+		SPS116	    &~\cite{Mahboubi2024ThreatHuntingReview}& SPS117      &~\cite{Bhurani2025ExBCIL}     				& SPS118      &~\cite{Sarker2024ExplainableCybersecurity}   & SPS119      &~\cite{Gharbi2025IoTRansomwareSurvey}         & SPS120      &~\cite{RajeshKanna2024AttackDetection}   \\
+		SPS121      &~\cite{Buyuktanir2025FederatedIDS}		& SPS122      &~\cite{Srinivasan2025FederatedCryptography}  & SPS123      &~\cite{Galle2025CyberResilienceBoard}        & SPS124      &~\cite{Du2025CostSensitiveTraffic}      		 & SPS125      &~\cite{Alotaibi2025SDNIoTIDS}        	 \\
+		SPS126      &~\cite{Rana2024HeatmapAttacks}		 	& SPS127      &~\cite{Bouganim2023PrivacyQueries}         	& SPS128      &~\cite{Mamidala2025HybridCloudSecurity}      & SPS129      &~\cite{Vaneeta2026IDPSWOAXGBoost}         	 & SPS130      &~\cite{De2022ThreatModelingCloud}        \\
+		SPS131      &~\cite{Pramudya2022SnortIDS}		 	& SPS132      &~\cite{Ecabert2024CyberIncidentReporting}	& SPS133      &~\cite{Alashjaee2024DigitalForensics}   		& SPS134      &~\cite{UlloaZamora2025MedicalDevicesSecurity} & SPS135      &~\cite{Mughaid2024IoTCloudSecurity}      \\
+		SPS136      &~\cite{Dwivedi2024BibliometricIJIS}	& SPS137      &~\cite{Adiwal2023OpenStackIDS}         		& SPS138      &~\cite{Liu2022CloudIDSReview}      			& SPS139	  &~\cite{Pirbhulal2024IoT5GSecuritySLR}      	 & SPS140      &~\cite{Shukla2024IoTDDoSReview}          \\
+		SPS141      &~\cite{Ammi2022CloudThreatIntelligence}& SPS142      &~\cite{Sophie2025MultiLayerSecurity}      	& SPS143      &~\cite{Mohammadi2025DenialWallet}      		& SPS144      &~\cite{Jaiswal2025InsiderThreatReview}		 & SPS145      &~\cite{Aboukadri2024IAMSurvey}        	 \\
+		SPS146      &~\cite{Tebbaa2026SDNDDoSSLR}      		& SPS147      &~\cite{MartinezBeltran2024FederatedDefense}  & SPS148      &~\cite{Ullah2025ContentPoisoningSurvey}   	& SPS149      &~\cite{Bistene2025TrafficGeneratorsSLR}       & SPS150      &~\cite{Zhang2025CloudDatabaseSecurity}   \\
+		SPS151      &~\cite{Bennaceur2026MultiDimTrust}		& SPS152      &~\cite{Henge2025MultiLayerAccessControl} 	& SPS153      &~\cite{Samah2024CyberespionageWFH}         	& SPS154      &~\cite{Gambo2025SaudiCybersecurity}      	 & SPS155      &~\cite{Zhao2024SituationalAwareness}     \\
+		SPS156      &~\cite{Li2025ThreatDetectionFusion}	& SPS157      &~\cite{Benkhelifa2025NextGenPentesting}		& SPS158      &~\cite{Batra2025MultiCloudDataLoss}		 	& SPS159      &~\cite{Ting2021TrustModeling}         		 & SPS160      &~\cite{Kumar2025HPCCloudSLR}        	 \\
+		SPS161      &~\cite{John2024DigitalTwinTrust}		& SPS162      &~\cite{Velmurugan2024SelectiveSharing}		& SPS163      &~\cite{Chen2021QShield}   					& SPS164      &~\cite{Ahmad2022CASBSLR}		 				 & SPS165      &~\cite{Ahamed2022OsqueryDetection}       \\
+		SPS166      &~\cite{Alzoubi2024MLCloudSecurity}		& SPS167      &~\cite{Alqahtani2023CloudThreatReview}       & SPS168      &~\cite{Coppolino2022SIEMEHealth}      		& SPS169      &~\cite{Ardebili2024CyberResilience}      	 & SPS170      &~\cite{Chimuco2023MobileCloudSecurity}   \\
+		SPS171      &~\cite{Kamble2025SecureIoTTransmission}& SPS172      &~\cite{Vijay2025TrustReputationCloud}      	& SPS173      &~\cite{ElKafhali2022CloudSecurityReview}     & SPS174      &~\cite{Vashishth2024CloudEducationSecurity}	 & SPS175      &~\cite{Nagarchi2025MultiCloudSecurity}   \\
+		SPS176      &~\cite{Bader2023CyberThreatStudy}      & SPS177      &~\cite{Ray2021CloudIoTSecurity}		 		& SPS178      &~\cite{Wu2023SpaceNetworkThreats}   			& SPS179      &~\cite{Ullah2026CyberDefenseReview}      	 & SPS180      &~\cite{Stojalowski2024ZeroTrust}         \\
+		SPS181      &~\cite{Ahmad2023ZeroDaySLR} 		 	& ---      	  & ---      									& ---      	  & ---         								& ---      	  & ---      									 & ---         & ---        							 \\
+		\bottomrule
+	\end{tabular*}
+\end{table*}
+% --------------------------------------------------------------
+
+El proceso se apoyó en diversas herramientas informáticas, como hojas de cálculo, software especializado para la gestión de referencias bibliográficas como Mendeley y SMS-Builder~\cite{Candela-Uribe2022} para la construcción del análisis de datos. Toda la información de este SMS se ha publicado en el sitio~\cite{sms-builder-own-container} y los métodos de acceso se describen en la sección~\ref{sec:reproducibilidad}.

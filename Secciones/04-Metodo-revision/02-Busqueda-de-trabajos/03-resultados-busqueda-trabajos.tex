@@ -1,0 +1,29 @@
+%sub-subseccion 4.2.3 
+\subsubsection{Resultados de la Búsqueda de Estudios}\label{subsubsec:resultados-busqueda}
+
+\newcommand{\totalEtapaDos}{\fpeval{\screenTot+\snowballNewStudies}}
+\newcommand{\dbPercentEtapa}{\fpeval{round (\screenTot*100/\totalEtapaDos,2)}}
+\newcommand{\snowPercentEtapa}{\fpeval{round (\snowballNewStudies*100/\totalEtapaDos,2)}}
+
+Finalmente, al sumar los estudios \snowballNewStudies{} obtenidos en el proceso de bola de nieve al \screenTot{} 
+obtenido previamente con la estrategia de búsqueda en la base de datos, se obtiene un total de \totalEtapaDos{} 
+estudios para esta etapa. Véase la Tabla~\ref{table:resultados_etapa_2}.
+
+% -------- Table : Results of stage 2: Study search ------------
+\begin{table}[htbp]
+	\centering
+	\caption{Results of stage 2: Search for studies}\label{table:resultados_etapa_2}
+	\renewcommand{\arraystretch}{1}  % Increase row height globally
+	\begin{tabular}{p{2.5cm}p{2.6cm}p{2.5cm}}
+		\toprule
+		\textbf{Strategy} & \textbf{Studies}      & \textbf{\%}           \\
+		\midrule
+		Databases         & \screenTot{}          & \dbPercentEtapa{}\%   \\
+		\addlinespace[0.8em]
+		Snowballing       & \snowballNewStudies{} & \snowPercentEtapa{}\% \\
+		\addlinespace[0.8em]
+		Total             & \totalEtapaDos{}      &  100\%                 \\
+		\bottomrule
+	\end{tabular}
+\end{table}
+% --------------------------------------------------------------
