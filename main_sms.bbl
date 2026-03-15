@@ -7,7 +7,8 @@
 \providecommand{\BIBentrySTDinterwordspacing}{\spaceskip=0pt\relax}
 \providecommand{\BIBentryALTinterwordstretchfactor}{4}
 \providecommand{\BIBentryALTinterwordspacing}{\spaceskip=\fontdimen2\font plus
-\BIBentryALTinterwordstretchfactor\fontdimen3\font minus \fontdimen4\font\relax}
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
 \providecommand{\BIBforeignlanguage}[2]{{%
 \expandafter\ifx\csname l@#1\endcsname\relax
 \typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
@@ -21,595 +22,1058 @@
 \BIBdecl
 
 \bibitem{Runeson2009}
-P.~Runeson and M.~H{\"o}st, ``Guidelines for conducting and reporting case study research in software engineering,'' \emph{Empirical Software Engineering}, vol.~14, no.~2, pp. 131--164, 2009.
+P.~Runeson and M.~H{\"o}st, ``Guidelines for conducting and reporting case
+  study research in software engineering,'' \emph{Empirical Software
+  Engineering}, vol.~14, no.~2, pp. 131--164, 2009.
 
 \bibitem{Kitchenham2010}
-B.~Kitchenham, R.~Pretorius, D.~Budgen, O.~P. Brereton, M.~Turner, M.~Niazi, and S.~Linkman, ``Systematic literature reviews in software engineering: A tertiary study,'' \emph{Information and Software Technology}, vol.~52, no.~8, pp. 792--805, 2010.
+B.~Kitchenham, R.~Pretorius, D.~Budgen, O.~P. Brereton, M.~Turner, M.~Niazi,
+  and S.~Linkman, ``Systematic literature reviews in software engineering: A
+  tertiary study,'' \emph{Information and Software Technology}, vol.~52, no.~8,
+  pp. 792--805, 2010.
 
 \bibitem{Petersen2008}
-K.~Petersen, R.~Feldt, S.~Mujtaba, and M.~Mattsson, ``Systematic mapping studies in software engineering,'' in \emph{Proceedings of the 12th International Conference on Evaluation and Assessment in Software Engineering (EASE)}, 2008, pp. 68--77.
+K.~Petersen, R.~Feldt, S.~Mujtaba, and M.~Mattsson, ``Systematic mapping
+  studies in software engineering,'' in \emph{Proceedings of the 12th
+  International Conference on Evaluation and Assessment in Software Engineering
+  (EASE)}, 2008, pp. 68--77.
 
 \bibitem{Sepulveda-Rodriguez2021}
-L.~E. Sep{\'{u}}lveda-Rodr{\'{i}}guez, J.~L. Garrido, J.~C. Chavarro-Porras, J.~A. Sanabria-Ordo{\~{n}}ez, C.~A. Candela-Uribe, C.~Rodr{\'{i}}guez-Dom{\'{i}}nguez, and G.~Guerrero-Contreras, ``{Study-based Systematic Mapping Analysis of Cloud Technologies for Leveraging IT Resource and Service Management: The Case Study of the Science Gateway Approach},'' \emph{Journal of Grid Computing}, vol.~19, no.~4, pp. 1--28, 2021.
+L.~E. Sep{\'{u}}lveda-Rodr{\'{i}}guez, J.~L. Garrido, J.~C. Chavarro-Porras,
+  J.~A. Sanabria-Ordo{\~{n}}ez, C.~A. Candela-Uribe,
+  C.~Rodr{\'{i}}guez-Dom{\'{i}}nguez, and G.~Guerrero-Contreras, ``{Study-based
+  Systematic Mapping Analysis of Cloud Technologies for Leveraging IT Resource
+  and Service Management: The Case Study of the Science Gateway Approach},''
+  \emph{Journal of Grid Computing}, vol.~19, no.~4, pp. 1--28, 2021.
 
 \bibitem{Mourao2017}
-E.~Mourao, M.~Kalinowski, L.~Murta, E.~Mendes, and C.~Wohlin, ``{Investigating the Use of a Hybrid Search Strategy for Systematic Reviews},'' \emph{International Symposium on Empirical Software Engineering and Measurement}, vol. 2017-November, pp. 193--198, 2017.
+E.~Mourao, M.~Kalinowski, L.~Murta, E.~Mendes, and C.~Wohlin, ``{Investigating
+  the Use of a Hybrid Search Strategy for Systematic Reviews},''
+  \emph{International Symposium on Empirical Software Engineering and
+  Measurement}, vol. 2017-November, pp. 193--198, 2017.
 
 \bibitem{Nguyen2015}
-P.~H. Nguyen, M.~Kramer, J.~Klein, and Y.~L. Traon, ``{An extensive systematic review on the Model-Driven Development of secure systems},'' \emph{Information and Software Technology}, vol.~68, pp. 62--81, 2015.
+P.~H. Nguyen, M.~Kramer, J.~Klein, and Y.~L. Traon, ``{An extensive systematic
+  review on the Model-Driven Development of secure systems},''
+  \emph{Information and Software Technology}, vol.~68, pp. 62--81, 2015.
 
 \bibitem{Candela-Uribe2022}
 \BIBentryALTinterwordspacing
-C.~A. Candela-Uribe, L.~E. Sep{\'{u}}lveda-Rodr{\'{i}}guez, J.~C. Chavarro-Porras, J.~A. Sanabria-Ordo{\~{n}}ez, J.~L. Garrido, C.~Rodr{\'{i}}guez-Dom{\'{i}}nguez, and G.~Guerrero-Contreras, ``{SMS-Builder: An adaptive software tool for building systematic mapping studies},'' \emph{SoftwareX}, vol.~17, p. 100935, 2022. [Online]. Available: \url{https://doi.org/10.1016/j.softx.2021.100935}
+C.~A. Candela-Uribe, L.~E. Sep{\'{u}}lveda-Rodr{\'{i}}guez, J.~C.
+  Chavarro-Porras, J.~A. Sanabria-Ordo{\~{n}}ez, J.~L. Garrido,
+  C.~Rodr{\'{i}}guez-Dom{\'{i}}nguez, and G.~Guerrero-Contreras,
+  ``{SMS-Builder: An adaptive software tool for building systematic mapping
+  studies},'' \emph{SoftwareX}, vol.~17, p. 100935, 2022. [Online]. Available:
+  \url{https://doi.org/10.1016/j.softx.2021.100935}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Needleman2002}
-I.~G. Needleman, ``{A guide to systematic reviews},'' \emph{Journal of Clinical Periodontology}, vol.~29, no. SUPPL. 3, pp. 6--9, 2002.
+I.~G. Needleman, ``{A guide to systematic reviews},'' \emph{Journal of Clinical
+  Periodontology}, vol.~29, no. SUPPL. 3, pp. 6--9, 2002.
 
 \bibitem{petticrew2008systematic}
-M.~Petticrew and H.~Roberts, \emph{Systematic reviews in the social sciences: A practical guide}.\hskip 1em plus 0.5em minus 0.4em\relax John Wiley \& Sons, 2008.
+M.~Petticrew and H.~Roberts, \emph{Systematic reviews in the social sciences: A
+  practical guide}.\hskip 1em plus 0.5em minus 0.4em\relax John Wiley \& Sons,
+  2008.
 
 \bibitem{Jalai-01}
-S.~Jalali and C.~Wohlin, ``Systematic literature studies: Database searches vs. backward snowballing,'' in \emph{Proceedings of the 2012 ACM-IEEE International Symposium on Empirical Software Engineering and Measurement}, 2012, pp. 29--38.
+S.~Jalali and C.~Wohlin, ``Systematic literature studies: Database searches vs.
+  backward snowballing,'' in \emph{Proceedings of the 2012 ACM-IEEE
+  International Symposium on Empirical Software Engineering and Measurement},
+  2012, pp. 29--38.
 
 \bibitem{Goodman-01}
 \BIBentryALTinterwordspacing
-L.~A. Goodman, ``{Snowball Sampling},'' \emph{The Annals of Mathematical Statistics}, vol.~32, no.~1, pp. 148 -- 170, 1961. [Online]. Available: \url{https://doi.org/10.1214/aoms/1177705148}
+L.~A. Goodman, ``{Snowball Sampling},'' \emph{The Annals of Mathematical
+  Statistics}, vol.~32, no.~1, pp. 148 -- 170, 1961. [Online]. Available:
+  \url{https://doi.org/10.1214/aoms/1177705148}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Candela2022100935}
 \BIBentryALTinterwordspacing
-C.~A. Candela-Uribe, L.~E. Sep{\'u}lveda-Rodr{\'i}guez, J.~C. Chavarro-Porras, J.~A. Sanabria-Ordo{\~n}ez, J.~L. Garrido, C.~Rodr{\'i}guez-Dom{\'i}nguez, and G.~Guerrero-Contreras, ``Sms-builder: An adaptive software tool for building systematic mapping studies,'' \emph{SoftwareX}, vol.~17, p. 100935, 2022. [Online]. Available: \url{https://www.sciencedirect.com/science/article/pii/S2352711021001710}
+C.~A. Candela-Uribe, L.~E. Sep{\'u}lveda-Rodr{\'i}guez, J.~C. Chavarro-Porras,
+  J.~A. Sanabria-Ordo{\~n}ez, J.~L. Garrido, C.~Rodr{\'i}guez-Dom{\'i}nguez,
+  and G.~Guerrero-Contreras, ``Sms-builder: An adaptive software tool for
+  building systematic mapping studies,'' \emph{SoftwareX}, vol.~17, p. 100935,
+  2022. [Online]. Available:
+  \url{https://www.sciencedirect.com/science/article/pii/S2352711021001710}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Wohlin-01}
 \BIBentryALTinterwordspacing
-C.~Wohlin, ``Guidelines for snowballing in systematic literature studies and a replication in software engineering,'' in \emph{Proceedings of the 18th International Conference on Evaluation and Assessment in Software Engineering}, ser. EASE '14.\hskip 1em plus 0.5em minus 0.4em\relax New York, NY, USA: Association for Computing Machinery, 2014. [Online]. Available: \url{https://doi.org/10.1145/2601248.2601268}
+C.~Wohlin, ``Guidelines for snowballing in systematic literature studies and a
+  replication in software engineering,'' in \emph{Proceedings of the 18th
+  International Conference on Evaluation and Assessment in Software
+  Engineering}, ser. EASE '14.\hskip 1em plus 0.5em minus 0.4em\relax New York,
+  NY, USA: Association for Computing Machinery, 2014. [Online]. Available:
+  \url{https://doi.org/10.1145/2601248.2601268}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Ali-01}
-A.~Q. Ali, A.~B.~M. Sultan, A.~A.~A. Ghani, and H.~Zulzalil, ``A systematic mapping study on the customization solutions of software as a service applications,'' \emph{IEEE Access}, vol.~7, pp. 88\,196--88\,217, 2019.
+A.~Q. Ali, A.~B.~M. Sultan, A.~A.~A. Ghani, and H.~Zulzalil, ``A systematic
+  mapping study on the customization solutions of software as a service
+  applications,'' \emph{IEEE Access}, vol.~7, pp. 88\,196--88\,217, 2019.
 
 \bibitem{Nespoli2021}
-P.~Nespoli, F.~G. M\'armol, and J.~M. Vidal, ``A bio-inspired reaction against cyberattacks: Ais-powered optimal countermeasures selection,'' \emph{IEEE Access}, vol.~9, pp. 60\,971--60\,996, 2021.
+P.~Nespoli, F.~G. M\'armol, and J.~M. Vidal, ``A bio-inspired reaction against
+  cyberattacks: Ais-powered optimal countermeasures selection,'' \emph{IEEE
+  Access}, vol.~9, pp. 60\,971--60\,996, 2021.
 
 \bibitem{Robertson2022}
-J.~Robertson, J.~M. Fossaceca, and K.~W. Bennett, ``A cloud-based computing framework for artificial intelligence innovation in support of multidomain operations,'' \emph{IEEE Transactions on Engineering Management}, vol.~69, no.~6, pp. 3913--3922, 2022.
+J.~Robertson, J.~M. Fossaceca, and K.~W. Bennett, ``A cloud-based computing
+  framework for artificial intelligence innovation in support of multidomain
+  operations,'' \emph{IEEE Transactions on Engineering Management}, vol.~69,
+  no.~6, pp. 3913--3922, 2022.
 
 \bibitem{Sharma2025}
-S.~Sharma, P.~Verma, and N.~Bharot, ``A combined supervised and unsupervised deep learning approach for intrusion detection in iot traffic in an edge computing environment,'' \emph{SN Computer Science}, vol.~6, p. 575, 2025.
+S.~Sharma, P.~Verma, and N.~Bharot, ``A combined supervised and unsupervised
+  deep learning approach for intrusion detection in iot traffic in an edge
+  computing environment,'' \emph{SN Computer Science}, vol.~6, p. 575, 2025.
 
 \bibitem{Aslam2024}
-N.~Aslam, S.~Srivastava, and M.~M. Gore, ``A comprehensive analysis of machine learning- and deep learning-based solutions for ddos attack detection in sdn,'' \emph{Arabian Journal for Science and Engineering}, vol.~49, pp. 3533--3573, 2024.
+N.~Aslam, S.~Srivastava, and M.~M. Gore, ``A comprehensive analysis of machine
+  learning- and deep learning-based solutions for ddos attack detection in
+  sdn,'' \emph{Arabian Journal for Science and Engineering}, vol.~49, pp.
+  3533--3573, 2024.
 
 \bibitem{Pavithra2024}
-C.~Pavithra and M.~Saradha, ``A comprehensive classification approach by integrating principal component analysis and support vector machines for advanced intrusion detection systems,'' \emph{SN Computer Science}, vol.~5, p. 996, 2024.
+C.~Pavithra and M.~Saradha, ``A comprehensive classification approach by
+  integrating principal component analysis and support vector machines for
+  advanced intrusion detection systems,'' \emph{SN Computer Science}, vol.~5,
+  p. 996, 2024.
 
 \bibitem{Jangjou2022}
-M.~Jangjou and M.~K. Sohrabi, ``A comprehensive survey on security challenges in different network layers in cloud computing,'' \emph{Archives of Computational Methods in Engineering}, vol.~29, pp. 3587--3608, 2022.
+M.~Jangjou and M.~K. Sohrabi, ``A comprehensive survey on security challenges
+  in different network layers in cloud computing,'' \emph{Archives of
+  Computational Methods in Engineering}, vol.~29, pp. 3587--3608, 2022.
 
 \bibitem{Gioiosa2025}
-S.~Gioiosa, B.~Chiavarini, and M.~D'Antonio, ``A gdpr-compliant solution for analysis of large-scale genomics datasets on hpc cloud infrastructure,'' \emph{Journal of Big Data}, vol.~12, p.~31, 2025.
+S.~Gioiosa, B.~Chiavarini, and M.~D'Antonio, ``A gdpr-compliant solution for
+  analysis of large-scale genomics datasets on hpc cloud infrastructure,''
+  \emph{Journal of Big Data}, vol.~12, p.~31, 2025.
 
 \bibitem{Mohan2023}
-M.~Mohan, V.~Tamizhazhagan, and S.~Balaji, ``A perspicacious multi-level defense system against ddos attacks in cloud using information metric and game theoretical approach,'' \emph{Journal of Network and Systems Management}, vol.~31, p.~85, 2023.
+M.~Mohan, V.~Tamizhazhagan, and S.~Balaji, ``A perspicacious multi-level
+  defense system against ddos attacks in cloud using information metric and
+  game theoretical approach,'' \emph{Journal of Network and Systems
+  Management}, vol.~31, p.~85, 2023.
 
 \bibitem{Vardhan2024}
-A.~Vardhan, P.~Kumar, and L.~K. Awasthi, ``A resilient intrusion detection system for iot environment based on a modified stacking ensemble classifier,'' \emph{SN Computer Science}, vol.~5, p. 1020, 2024.
+A.~Vardhan, P.~Kumar, and L.~K. Awasthi, ``A resilient intrusion detection
+  system for iot environment based on a modified stacking ensemble
+  classifier,'' \emph{SN Computer Science}, vol.~5, p. 1020, 2024.
 
 \bibitem{Thakkar2023}
-A.~Thakkar and R.~Lohiya, ``A review on challenges and future research directions for machine learning-based intrusion detection system,'' \emph{Archives of Computational Methods in Engineering}, vol.~30, pp. 4245--4269, 2023.
+A.~Thakkar and R.~Lohiya, ``A review on challenges and future research
+  directions for machine learning-based intrusion detection system,''
+  \emph{Archives of Computational Methods in Engineering}, vol.~30, pp.
+  4245--4269, 2023.
 
 \bibitem{Badie2023}
-N.~Badie, A.~R.~C. Hussin, and E.~Yadegaridehkordi, ``A sem-stella approach for predicting decision-makers' adoption of cloud computing data center,'' \emph{Education and Information Technologies}, vol.~28, pp. 8219--8271, 2023.
+N.~Badie, A.~R.~C. Hussin, and E.~Yadegaridehkordi, ``A sem-stella approach for
+  predicting decision-makers' adoption of cloud computing data center,''
+  \emph{Education and Information Technologies}, vol.~28, pp. 8219--8271, 2023.
 
 \bibitem{Singh2025}
-A.~K. Singh, M.~O. S\'anchez, and M.~G. Caparros, ``A security analysis of european data space architectures,'' \emph{Data Science and Engineering}, 2025.
+A.~K. Singh, M.~O. S\'anchez, and M.~G. Caparros, ``A security analysis of
+  european data space architectures,'' \emph{Data Science and Engineering},
+  2025.
 
 \bibitem{Jimenez2021}
-M.~B. Jim\'enez, D.~Fern\'andez, J.~E. Rivadeneira, L.~Bellido, and A.~C\'ardenas, ``A survey of the main security issues and solutions for the sdn architecture,'' \emph{IEEE Access}, vol.~9, pp. 122\,016--122\,038, 2021.
+M.~B. Jim\'enez, D.~Fern\'andez, J.~E. Rivadeneira, L.~Bellido, and
+  A.~C\'ardenas, ``A survey of the main security issues and solutions for the
+  sdn architecture,'' \emph{IEEE Access}, vol.~9, pp. 122\,016--122\,038, 2021.
 
 \bibitem{Henriques2024}
-J.~Henriques, F.~Caldeira, T.~Cruz, and P.~Sim\~oes, ``A survey on forensics and compliance auditing for critical infrastructure protection,'' \emph{IEEE Access}, vol.~12, pp. 2409--2444, 2024.
+J.~Henriques, F.~Caldeira, T.~Cruz, and P.~Sim\~oes, ``A survey on forensics
+  and compliance auditing for critical infrastructure protection,'' \emph{IEEE
+  Access}, vol.~12, pp. 2409--2444, 2024.
 
 \bibitem{Gupta2023}
-N.~Gupta, V.~Jindal, and P.~Bedi, ``A survey on intrusion detection and prevention systems,'' \emph{SN Computer Science}, vol.~4, p. 439, 2023.
+N.~Gupta, V.~Jindal, and P.~Bedi, ``A survey on intrusion detection and
+  prevention systems,'' \emph{SN Computer Science}, vol.~4, p. 439, 2023.
 
 \bibitem{Bose2023HealthDataPrivacySurvey}
 \BIBentryALTinterwordspacing
-S.~Bose and D.~Marijan, ``A survey on privacy of health data lifecycle: A taxonomy, review, and future directions,'' \emph{arXiv preprint arXiv:2311.05404}, 2023. [Online]. Available: \url{https://doi.org/10.48550/arXiv.2311.05404}
+S.~Bose and D.~Marijan, ``A survey on privacy of health data lifecycle: A
+  taxonomy, review, and future directions,'' \emph{arXiv preprint
+  arXiv:2311.05404}, 2023. [Online]. Available:
+  \url{https://doi.org/10.48550/arXiv.2311.05404}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Yu2020}
-J.-Y. Yu, E.~Lee, S.-R. Oh, Y.-D. Seo, and Y.-G. Kim, ``A survey on security requirements for wsns: Focusing on the characteristics related to security,'' \emph{IEEE Access}, vol.~8, pp. 45\,304--45\,324, 2020.
+J.-Y. Yu, E.~Lee, S.-R. Oh, Y.-D. Seo, and Y.-G. Kim, ``A survey on security
+  requirements for wsns: Focusing on the characteristics related to security,''
+  \emph{IEEE Access}, vol.~8, pp. 45\,304--45\,324, 2020.
 
 \bibitem{Silva2025}
-H.~Silva, M.~Vieira, and A.~Neto, ``A survey on survivable safety-critical systems,'' \emph{IEEE Access}, vol.~13, pp. 127\,770--127\,787, 2025.
+H.~Silva, M.~Vieira, and A.~Neto, ``A survey on survivable safety-critical
+  systems,'' \emph{IEEE Access}, vol.~13, pp. 127\,770--127\,787, 2025.
 
 \bibitem{Stoyanova2020}
-M.~Stoyanova, Y.~Nikoloudakis, S.~Panagiotakis, E.~Pallis, and E.~Markakis, ``A survey on the internet of things (iot) forensics: Challenges, approaches, and open issues,'' \emph{IEEE Communications Surveys \& Tutorials}, vol.~22, no.~2, pp. 1191--1221, 2020.
+M.~Stoyanova, Y.~Nikoloudakis, S.~Panagiotakis, E.~Pallis, and E.~Markakis, ``A
+  survey on the internet of things (iot) forensics: Challenges, approaches, and
+  open issues,'' \emph{IEEE Communications Surveys \& Tutorials}, vol.~22,
+  no.~2, pp. 1191--1221, 2020.
 
 \bibitem{Alsuwaiyan2025}
-A.~Alsuwaiyan, A.~A. Habib, and A.~B. Imoukhuede, ``A systematic literature review on vulnerabilities, mitigation techniques, and attacks in field-programmable gate arrays,'' \emph{Arabian Journal for Science and Engineering}, vol.~50, pp. 611--641, 2025.
+A.~Alsuwaiyan, A.~A. Habib, and A.~B. Imoukhuede, ``A systematic literature
+  review on vulnerabilities, mitigation techniques, and attacks in
+  field-programmable gate arrays,'' \emph{Arabian Journal for Science and
+  Engineering}, vol.~50, pp. 611--641, 2025.
 
 \bibitem{Gill2024}
-K.~S. Gill, A.~Sharma, and S.~Saxena, ``A systematic review on game-theoretic models and different types of security requirements in cloud environment,'' \emph{Archives of Computational Methods in Engineering}, vol.~31, pp. 3857--3890, 2024.
+K.~S. Gill, A.~Sharma, and S.~Saxena, ``A systematic review on game-theoretic
+  models and different types of security requirements in cloud environment,''
+  \emph{Archives of Computational Methods in Engineering}, vol.~31, pp.
+  3857--3890, 2024.
 
 \bibitem{Kumar2023IDS}
-Y.~Kumar and V.~Kumar, ``A systematic review on intrusion detection system in wireless networks: Variants, attacks, and applications,'' \emph{Wireless Personal Communications}, vol. 133, pp. 395--452, 2023.
+Y.~Kumar and V.~Kumar, ``A systematic review on intrusion detection system in
+  wireless networks: Variants, attacks, and applications,'' \emph{Wireless
+  Personal Communications}, vol. 133, pp. 395--452, 2023.
 
 \bibitem{Guerron2020}
-X.~Guerron, S.~Abrah\~ao, E.~Insfran, M.~Fern\'andez-Diego, and F.~Gonz\'alez-Ladr\'on-de Guevara, ``A taxonomy of quality metrics for cloud services,'' \emph{IEEE Access}, vol.~8, pp. 131\,461--131\,498, 2020.
+X.~Guerron, S.~Abrah\~ao, E.~Insfran, M.~Fern\'andez-Diego, and
+  F.~Gonz\'alez-Ladr\'on-de Guevara, ``A taxonomy of quality metrics for cloud
+  services,'' \emph{IEEE Access}, vol.~8, pp. 131\,461--131\,498, 2020.
 
 \bibitem{Zhukabayeva2024}
-T.~Zhukabayeva, A.~Pervez, Y.~Mardenov, M.~Othman, N.~Karabayev, and Z.~Ahmad, ``A traffic analysis and node categorization-aware machine learning-integrated framework for cybersecurity intrusion detection and prevention of wsns in smart grids,'' \emph{IEEE Access}, vol.~12, pp. 91\,715--91\,733, 2024.
+T.~Zhukabayeva, A.~Pervez, Y.~Mardenov, M.~Othman, N.~Karabayev, and Z.~Ahmad,
+  ``A traffic analysis and node categorization-aware machine
+  learning-integrated framework for cybersecurity intrusion detection and
+  prevention of wsns in smart grids,'' \emph{IEEE Access}, vol.~12, pp.
+  91\,715--91\,733, 2024.
 
 \bibitem{Rajesh2024}
-Y.~S. Rajesh, V.~G.~K. Kumar, and A.~Poojari, ``A unified approach toward security audit and compliance in cloud computing,'' \emph{Journal of the Institution of Engineers (India): Series B}, vol. 105, pp. 733--750, 2024.
+Y.~S. Rajesh, V.~G.~K. Kumar, and A.~Poojari, ``A unified approach toward
+  security audit and compliance in cloud computing,'' \emph{Journal of the
+  Institution of Engineers (India): Series B}, vol. 105, pp. 733--750, 2024.
 
 \bibitem{Ghanmi2025}
-H.~Ghanmi, N.~Hajlaoui, and H.~Touati, ``A blockchain-based framework for secure data sharing and access control using ipfs and ecc,'' \emph{Cluster Computing}, vol.~28, p. 1007, 2025.
+H.~Ghanmi, N.~Hajlaoui, and H.~Touati, ``A blockchain-based framework for
+  secure data sharing and access control using ipfs and ecc,'' \emph{Cluster
+  Computing}, vol.~28, p. 1007, 2025.
 
 \bibitem{Liu2021}
-Y.~Liu, Q.~Lu, and C.~Zhu, ``A blockchain-based platform architecture for multimedia data management,'' \emph{Multimedia Tools and Applications}, vol.~80, pp. 30\,707--30\,723, 2021.
+Y.~Liu, Q.~Lu, and C.~Zhu, ``A blockchain-based platform architecture for
+  multimedia data management,'' \emph{Multimedia Tools and Applications},
+  vol.~80, pp. 30\,707--30\,723, 2021.
 
 \bibitem{Yu2025}
-J.~Yu and X.~Xiao, ``A cloud service security risk measurement method based on information entropy and markov chain,'' \emph{Cluster Computing}, vol.~28, p. 516, 2025.
+J.~Yu and X.~Xiao, ``A cloud service security risk measurement method based on
+  information entropy and markov chain,'' \emph{Cluster Computing}, vol.~28, p.
+  516, 2025.
 
 \bibitem{Dahiya2024}
-S.~Dahiya, H.~Sehrawat, and S.~Kharb, ``A comprehensive analysis of threat vectors in software-defined networking,'' \emph{Multimedia Tools and Applications}, vol.~83, pp. 86\,791--86\,832, 2024.
+S.~Dahiya, H.~Sehrawat, and S.~Kharb, ``A comprehensive analysis of threat
+  vectors in software-defined networking,'' \emph{Multimedia Tools and
+  Applications}, vol.~83, pp. 86\,791--86\,832, 2024.
 
 \bibitem{Akremi2021}
-A.~Akremi and M.~Rouached, ``A comprehensive and holistic knowledge model for cloud privacy protection,'' \emph{Journal of Supercomputing}, vol.~77, pp. 7956--7988, 2021.
+A.~Akremi and M.~Rouached, ``A comprehensive and holistic knowledge model for
+  cloud privacy protection,'' \emph{Journal of Supercomputing}, vol.~77, pp.
+  7956--7988, 2021.
 
 \bibitem{Hozouri2025IDSsurvey}
-A.~Hozouri, A.~Mirzaei, and M.~Effatparvar, ``A comprehensive survey on intrusion detection systems with advances in machine learning, deep learning and emerging cybersecurity challenges,'' \emph{Discover Artificial Intelligence}, vol.~5, p. 314, 2025.
+A.~Hozouri, A.~Mirzaei, and M.~Effatparvar, ``A comprehensive survey on
+  intrusion detection systems with advances in machine learning, deep learning
+  and emerging cybersecurity challenges,'' \emph{Discover Artificial
+  Intelligence}, vol.~5, p. 314, 2025.
 
 \bibitem{Khraisat2021IoTIDSReview}
-A.~Khraisat and A.~Alazab, ``A critical review of intrusion detection systems in the internet of things: Techniques, deployment strategy, validation strategy, attacks, public datasets and challenges,'' \emph{Cybersecurity}, vol.~4, p.~18, 2021.
+A.~Khraisat and A.~Alazab, ``A critical review of intrusion detection systems
+  in the internet of things: Techniques, deployment strategy, validation
+  strategy, attacks, public datasets and challenges,'' \emph{Cybersecurity},
+  vol.~4, p.~18, 2021.
 
 \bibitem{Kumar2025BlockchainHealthcare}
-N.~Kumar, S.~Kumar, and R.~K. Sharma, ``A decentralized blockchain-based privacy preservation scheme for healthcare data security enhancement in cloud,'' \emph{Cluster Computing}, vol.~28, p. 546, 2025.
+N.~Kumar, S.~Kumar, and R.~K. Sharma, ``A decentralized blockchain-based
+  privacy preservation scheme for healthcare data security enhancement in
+  cloud,'' \emph{Cluster Computing}, vol.~28, p. 546, 2025.
 
 \bibitem{Marwan2020BlockchainIoT}
-M.~Marwan, A.~A. Temghart, F.~Sifou, and F.~AlShahwan, ``A decentralized blockchain-based architecture for a secure cloud-enabled iot,'' \emph{Journal of Mobile Multimedia}, vol.~16, no.~3, pp. 389--412, 2020.
+M.~Marwan, A.~A. Temghart, F.~Sifou, and F.~AlShahwan, ``A decentralized
+  blockchain-based architecture for a secure cloud-enabled iot,'' \emph{Journal
+  of Mobile Multimedia}, vol.~16, no.~3, pp. 389--412, 2020.
 
 \bibitem{Mawgoud2022SteganographyCloud}
-A.~A. Mawgoud, M.~H.~N. Taha, and A.~Abu-Talleb, ``A deep learning-based steganography integration framework for ad-hoc cloud computing data security augmentation using the v-boinc system,'' \emph{Journal of Cloud Computing}, vol.~11, p.~97, 2022.
+A.~A. Mawgoud, M.~H.~N. Taha, and A.~Abu-Talleb, ``A deep learning-based
+  steganography integration framework for ad-hoc cloud computing data security
+  augmentation using the v-boinc system,'' \emph{Journal of Cloud Computing},
+  vol.~11, p.~97, 2022.
 
 \bibitem{Hu2024MetaheuristicIDS}
-W.~Hu, Q.~Cao, and M.~Darbandi, ``A deep analysis of nature-inspired and meta-heuristic algorithms for designing intrusion detection systems in cloud/edge and iot,'' \emph{Cluster Computing}, vol.~27, pp. 8789--8815, 2024.
+W.~Hu, Q.~Cao, and M.~Darbandi, ``A deep analysis of nature-inspired and
+  meta-heuristic algorithms for designing intrusion detection systems in
+  cloud/edge and iot,'' \emph{Cluster Computing}, vol.~27, pp. 8789--8815,
+  2024.
 
 \bibitem{Tariq2024FogEdgeIDS}
-N.~Tariq, A.~Alsirhani, and M.~Humayun, ``A fog-edge-enabled intrusion detection system for smart grids,'' \emph{Journal of Cloud Computing}, vol.~13, p.~43, 2024.
+N.~Tariq, A.~Alsirhani, and M.~Humayun, ``A fog-edge-enabled intrusion
+  detection system for smart grids,'' \emph{Journal of Cloud Computing},
+  vol.~13, p.~43, 2024.
 
 \bibitem{Tiwari2025BlockchainHealthcareIPFS}
-K.~Tiwari and S.~Kumar, ``A healthcare data management system: Blockchain-enabled ipfs providing algorithmic solutions for increased privacy-preserving scalability and interoperability,'' \emph{The Journal of Supercomputing}, vol.~81, p. 895, 2025.
+K.~Tiwari and S.~Kumar, ``A healthcare data management system:
+  Blockchain-enabled ipfs providing algorithmic solutions for increased
+  privacy-preserving scalability and interoperability,'' \emph{The Journal of
+  Supercomputing}, vol.~81, p. 895, 2025.
 
 \bibitem{Saini2024HybridMLCloudPrivacy}
-H.~Saini, G.~Singh, and S.~Dalal, ``A hybrid machine learning model with self-improved optimization algorithm for trust and privacy preservation in cloud environment,'' \emph{Journal of Cloud Computing}, vol.~13, p. 157, 2024.
+H.~Saini, G.~Singh, and S.~Dalal, ``A hybrid machine learning model with
+  self-improved optimization algorithm for trust and privacy preservation in
+  cloud environment,'' \emph{Journal of Cloud Computing}, vol.~13, p. 157,
+  2024.
 
 \bibitem{Altherwi2025CloudEhealthSecurity}
-A.~Altherwi, M.~T. Ahmad, and M.~M. Alam, ``A hybrid optimization approach for securing cloud-based e-health systems,'' \emph{Multimedia Tools and Applications}, vol.~84, pp. 16\,525--16\,560, 2025.
+A.~Altherwi, M.~T. Ahmad, and M.~M. Alam, ``A hybrid optimization approach for
+  securing cloud-based e-health systems,'' \emph{Multimedia Tools and
+  Applications}, vol.~84, pp. 16\,525--16\,560, 2025.
 
 \bibitem{Chen2025CloudAttackMitigation}
-Y.~F. Chen, F.~Y.~S. Lin, and K.~Y. Tai, ``A near-optimal resource allocation strategy for minimizing the worse-case impact of malicious attacks on cloud networks,'' \emph{Journal of Cloud Computing}, vol.~14, p.~41, 2025.
+Y.~F. Chen, F.~Y.~S. Lin, and K.~Y. Tai, ``A near-optimal resource allocation
+  strategy for minimizing the worse-case impact of malicious attacks on cloud
+  networks,'' \emph{Journal of Cloud Computing}, vol.~14, p.~41, 2025.
 
 \bibitem{Kaur2023FogSecurityAHP}
-J.~Kaur, R.~Kumar, and A.~Agrawal, ``A neutrosophic ahp-based computational technique for security management in a fog computing network,'' \emph{The Journal of Supercomputing}, vol.~79, pp. 295--320, 2023.
+J.~Kaur, R.~Kumar, and A.~Agrawal, ``A neutrosophic ahp-based computational
+  technique for security management in a fog computing network,'' \emph{The
+  Journal of Supercomputing}, vol.~79, pp. 295--320, 2023.
 
 \bibitem{Merdassi2023LTMAABE}
-I.~Merdassi, C.~Ghazel, and L.~Saidane, ``A new ltma-abe location and time access security control scheme for mobile cloud,'' \emph{The Journal of Supercomputing}, vol.~79, pp. 12\,074--12\,105, 2023.
+I.~Merdassi, C.~Ghazel, and L.~Saidane, ``A new ltma-abe location and time
+  access security control scheme for mobile cloud,'' \emph{The Journal of
+  Supercomputing}, vol.~79, pp. 12\,074--12\,105, 2023.
 
 \bibitem{Thushara2023HybridEncryptionMedical}
-G.~A. Thushara and S.~M.~S. Bhanu, ``A new hybrid encryption in fog–cloud environment for secure medical data-sharing,'' \emph{Iran Journal of Computer Science}, vol.~6, no.~2, pp. 169--183, 2023.
+G.~A. Thushara and S.~M.~S. Bhanu, ``A new hybrid encryption in fog–cloud
+  environment for secure medical data-sharing,'' \emph{Iran Journal of Computer
+  Science}, vol.~6, no.~2, pp. 169--183, 2023.
 
 \bibitem{Kocaman2022CVEanalysis}
-Y.~Kocaman, S.~Gonen, and M.~A. Bariskan, ``A novel approach to continuous cve analysis on enterprise operating systems for system vulnerability assessment,'' \emph{International Journal of Information Technology}, vol.~14, pp. 1433--1443, 2022.
+Y.~Kocaman, S.~Gonen, and M.~A. Bariskan, ``A novel approach to continuous cve
+  analysis on enterprise operating systems for system vulnerability
+  assessment,'' \emph{International Journal of Information Technology},
+  vol.~14, pp. 1433--1443, 2022.
 
 \bibitem{Hasan2022BlockchainIIoT}
-N.~Hasan, K.~Chaudhary, and M.~Alam, ``A novel blockchain federated safety-as-a-service scheme for industrial iot using machine learning,'' \emph{Multimedia Tools and Applications}, vol.~81, pp. 36\,751--36\,780, 2022.
+N.~Hasan, K.~Chaudhary, and M.~Alam, ``A novel blockchain federated
+  safety-as-a-service scheme for industrial iot using machine learning,''
+  \emph{Multimedia Tools and Applications}, vol.~81, pp. 36\,751--36\,780,
+  2022.
 
 \bibitem{Reddy2025DLcloudSecurity}
-K.~V.~K. C. and V.~Lokeswara~Reddy, ``A novel deep learning technique with cryptographic transformation for enhancing data security in cloud environments,'' \emph{Multimedia Tools and Applications}, vol.~84, pp. 5149--5173, 2025.
+K.~V.~K. C. and V.~Lokeswara~Reddy, ``A novel deep learning technique with
+  cryptographic transformation for enhancing data security in cloud
+  environments,'' \emph{Multimedia Tools and Applications}, vol.~84, pp.
+  5149--5173, 2025.
 
 \bibitem{Wang2022ExtremeLearningIDS}
-X.~Wang, S.~Tu, and W.~Zhao, ``A novel energy-based online sequential extreme learning machine to detect anomalies over real-time data streams,'' \emph{Neural Computing and Applications}, vol.~34, pp. 823--831, 2022.
+X.~Wang, S.~Tu, and W.~Zhao, ``A novel energy-based online sequential extreme
+  learning machine to detect anomalies over real-time data streams,''
+  \emph{Neural Computing and Applications}, vol.~34, pp. 823--831, 2022.
 
 \bibitem{Anilkumar2021AccessControlCloud}
-C.~Anilkumar and S.~Subramanian, ``A novel predicate-based access control scheme for cloud environment using openstack swift storage,'' \emph{Peer-to-Peer Networking and Applications}, vol.~14, pp. 2372--2384, 2021.
+C.~Anilkumar and S.~Subramanian, ``A novel predicate-based access control
+  scheme for cloud environment using openstack swift storage,''
+  \emph{Peer-to-Peer Networking and Applications}, vol.~14, pp. 2372--2384,
+  2021.
 
 \bibitem{Alam2022IoTauthentication}
-I.~Alam and M.~Kumar, ``A novel protocol for efficient authentication in cloud-based iot devices,'' \emph{Multimedia Tools and Applications}, vol.~81, pp. 13\,823--13\,843, 2022.
+I.~Alam and M.~Kumar, ``A novel protocol for efficient authentication in
+  cloud-based iot devices,'' \emph{Multimedia Tools and Applications}, vol.~81,
+  pp. 13\,823--13\,843, 2022.
 
 \bibitem{Adel2025ICTfailures}
-A.~Adel, N.~H.~S. Alani, T.~Jan, and M.~Prasad, ``A review of major ict failures and recovery strategies: Strengthening digital resilience,'' \emph{Computers \& Security}, vol. 159, p. 104678, 2025.
+A.~Adel, N.~H.~S. Alani, T.~Jan, and M.~Prasad, ``A review of major ict
+  failures and recovery strategies: Strengthening digital resilience,''
+  \emph{Computers \& Security}, vol. 159, p. 104678, 2025.
 
 \bibitem{Kioskli2025HealthcareRiskFramework}
-K.~Kioskli, E.~Grigoriou, and S.~Islam, ``A risk and conformity assessment framework to ensure security and resilience of healthcare systems and medical supply chain,'' \emph{International Journal of Information Security}, vol.~24, p.~90, 2025.
+K.~Kioskli, E.~Grigoriou, and S.~Islam, ``A risk and conformity assessment
+  framework to ensure security and resilience of healthcare systems and medical
+  supply chain,'' \emph{International Journal of Information Security},
+  vol.~24, p.~90, 2025.
 
 \bibitem{Lu2022CryptoBigDataSurvey}
-S.~Lu, J.~Zheng, and Z.~Cao, ``A survey on cryptographic techniques for protecting big data security: Present and forthcoming,'' \emph{Science China Information Sciences}, vol.~65, p. 201301, 2022.
+S.~Lu, J.~Zheng, and Z.~Cao, ``A survey on cryptographic techniques for
+  protecting big data security: Present and forthcoming,'' \emph{Science China
+  Information Sciences}, vol.~65, p. 201301, 2022.
 
 \bibitem{Raval2024CriticalInfrastructureSurvey}
-K.~J. Raval, N.~K. Jadav, T.~Rathod, S.~Tanwar, V.~Vimal, and N.~Yamsani, ``A survey on safeguarding critical infrastructures: Attacks, ai security, and future directions,'' \emph{International Journal of Critical Infrastructure Protection}, vol.~44, p. 100647, 2024.
+K.~J. Raval, N.~K. Jadav, T.~Rathod, S.~Tanwar, V.~Vimal, and N.~Yamsani, ``A
+  survey on safeguarding critical infrastructures: Attacks, ai security, and
+  future directions,'' \emph{International Journal of Critical Infrastructure
+  Protection}, vol.~44, p. 100647, 2024.
 
 \bibitem{Tabrizchi2020CloudSecuritySurvey}
-H.~Tabrizchi and M.~Kuchaki~Rafsanjani, ``A survey on security challenges in cloud computing: Issues, threats, and solutions,'' \emph{The Journal of Supercomputing}, vol.~76, pp. 9493--9532, 2020.
+H.~Tabrizchi and M.~Kuchaki~Rafsanjani, ``A survey on security challenges in
+  cloud computing: Issues, threats, and solutions,'' \emph{The Journal of
+  Supercomputing}, vol.~76, pp. 9493--9532, 2020.
 
 \bibitem{Nasim2025CloudIDSreview}
-S.~S. Nasim, P.~Pranav, and S.~Dutta, ``A systematic literature review on intrusion detection techniques in cloud computing,'' \emph{Discover Computing}, vol.~28, p. 107, 2025.
+S.~S. Nasim, P.~Pranav, and S.~Dutta, ``A systematic literature review on
+  intrusion detection techniques in cloud computing,'' \emph{Discover
+  Computing}, vol.~28, p. 107, 2025.
 
 \bibitem{Kundiya2025InsiderThreatNLP}
-K.~Kundiya and Y.~Haribhakta, ``A systematic review on insider threat detection using natural language processing,'' \emph{International Journal of Information Security}, vol.~24, p. 227, 2025.
+K.~Kundiya and Y.~Haribhakta, ``A systematic review on insider threat detection
+  using natural language processing,'' \emph{International Journal of
+  Information Security}, vol.~24, p. 227, 2025.
 
 \bibitem{Edo2024ZeroTrustHealth}
-O.~C. Edo, D.~Ang, and P.~Billakota, ``A zero trust architecture for health information systems,'' \emph{Health Technology}, vol.~14, pp. 189--199, 2024.
+O.~C. Edo, D.~Ang, and P.~Billakota, ``A zero trust architecture for health
+  information systems,'' \emph{Health Technology}, vol.~14, pp. 189--199, 2024.
 
 \bibitem{Almotiri2025AIoMTsecurity}
-S.~H. Almotiri, ``Ai driven iomt security framework for advanced malware and ransomware detection in sdn,'' \emph{Journal of Cloud Computing}, vol.~14, p.~19, 2025.
+S.~H. Almotiri, ``Ai driven iomt security framework for advanced malware and
+  ransomware detection in sdn,'' \emph{Journal of Cloud Computing}, vol.~14,
+  p.~19, 2025.
 
 \bibitem{Alotaibi2025SDNIoTIDS}
-J.~Alotaibi, ``Ai-driven intrusion detection and mitigation framework for software-defined iot networks,'' \emph{Peer-to-Peer Networking and Applications}, vol.~18, p. 321, 2025.
+J.~Alotaibi, ``Ai-driven intrusion detection and mitigation framework for
+  software-defined iot networks,'' \emph{Peer-to-Peer Networking and
+  Applications}, vol.~18, p. 321, 2025.
 
 \bibitem{Ouhssini2024DDoSCloudReview}
-M.~Ouhssini, K.~Afdel, M.~Akouhar, E.~Agherrabi, and A.~Abarda, ``Advancements in detecting, preventing, and mitigating ddos attacks in cloud environments,'' \emph{Egyptian Informatics Journal}, vol.~27, p. 100517, 2024.
+M.~Ouhssini, K.~Afdel, M.~Akouhar, E.~Agherrabi, and A.~Abarda, ``Advancements
+  in detecting, preventing, and mitigating ddos attacks in cloud
+  environments,'' \emph{Egyptian Informatics Journal}, vol.~27, p. 100517,
+  2024.
 
 \bibitem{Mallidi2025AIIDSIoT}
-S.~K.~R. Mallidi and R.~R. Ramisetty, ``Advancements in training and deployment strategies for ai-based intrusion detection systems in iot,'' \emph{Discover Internet of Things}, vol.~5, p.~8, 2025.
+S.~K.~R. Mallidi and R.~R. Ramisetty, ``Advancements in training and deployment
+  strategies for ai-based intrusion detection systems in iot,'' \emph{Discover
+  Internet of Things}, vol.~5, p.~8, 2025.
 
 \bibitem{Hussain2025WSNIDS}
-S.~Hussain, J.~He, and N.~Zhu, ``An adaptive intrusion detection system for wsn using reinforcement learning and deep classification,'' \emph{Arabian Journal for Science and Engineering}, vol.~50, pp. 12\,463--12\,477, 2025.
+S.~Hussain, J.~He, and N.~Zhu, ``An adaptive intrusion detection system for wsn
+  using reinforcement learning and deep classification,'' \emph{Arabian Journal
+  for Science and Engineering}, vol.~50, pp. 12\,463--12\,477, 2025.
 
 \bibitem{Ray2023DDoSMHealth}
-S.~Ray, K.~N. Mishra, and S.~Dutta, ``An innovative technique for ddos attack recognition and deterrence on m-health sensitive data,'' \emph{Wireless Personal Communications}, vol. 128, pp. 1763--1797, 2023.
+S.~Ray, K.~N. Mishra, and S.~Dutta, ``An innovative technique for ddos attack
+  recognition and deterrence on m-health sensitive data,'' \emph{Wireless
+  Personal Communications}, vol. 128, pp. 1763--1797, 2023.
 
 \bibitem{Wedamuni2026CyberThreatIntel}
-R.~N. Wedamuni~Arachchige, D.~Saxena, and A.~K. Singh, ``An adaptive cyber threat intelligence model to counter evolving security attacks in industrial communication networks,'' \emph{Neural Computing and Applications}, vol.~38, p.~15, 2026.
+R.~N. Wedamuni~Arachchige, D.~Saxena, and A.~K. Singh, ``An adaptive cyber
+  threat intelligence model to counter evolving security attacks in industrial
+  communication networks,'' \emph{Neural Computing and Applications}, vol.~38,
+  p.~15, 2026.
 
 \bibitem{Lyu2025DPRKThreatLandscape}
-J.~Lyu, A.~Song, and E.~Seo, ``An exploratory analysis of the dprk cyber threat landscape using publicly available reports,'' \emph{International Journal of Information Security}, vol.~24, p.~66, 2025.
+J.~Lyu, A.~Song, and E.~Seo, ``An exploratory analysis of the dprk cyber threat
+  landscape using publicly available reports,'' \emph{International Journal of
+  Information Security}, vol.~24, p.~66, 2025.
 
 \bibitem{Songa2024SDNDDoS}
-A.~V. Songa and G.~R. Karri, ``An integrated sdn framework for early detection of ddos attacks in cloud computing,'' \emph{Journal of Cloud Computing}, vol.~13, p.~64, 2024.
+A.~V. Songa and G.~R. Karri, ``An integrated sdn framework for early detection
+  of ddos attacks in cloud computing,'' \emph{Journal of Cloud Computing},
+  vol.~13, p.~64, 2024.
 
 \bibitem{Kure2022CyberRiskFramework}
-H.~I. Kure, S.~Islam, and H.~Mouratidis, ``An integrated cyber security risk management framework and risk predication for the critical infrastructure protection,'' \emph{Neural Computing and Applications}, vol.~34, pp. 15\,241--15\,271, 2022.
+H.~I. Kure, S.~Islam, and H.~Mouratidis, ``An integrated cyber security risk
+  management framework and risk predication for the critical infrastructure
+  protection,'' \emph{Neural Computing and Applications}, vol.~34, pp.
+  15\,241--15\,271, 2022.
 
 \bibitem{Henge2023InsiderAttackDetection}
-S.~K. Henge, A.~Upadhyay, A.~Saini, N.~Mishra, D.~Sharma, and G.~Sharma, ``Analysis and detection of insider attacks using behaviour rule based architecture in enterprise multitenancy,'' \emph{Journal of Discrete Mathematical Sciences and Cryptography}, vol.~26, pp. 707--718, 2023.
+S.~K. Henge, A.~Upadhyay, A.~Saini, N.~Mishra, D.~Sharma, and G.~Sharma,
+  ``Analysis and detection of insider attacks using behaviour rule based
+  architecture in enterprise multitenancy,'' \emph{Journal of Discrete
+  Mathematical Sciences and Cryptography}, vol.~26, pp. 707--718, 2023.
 
 \bibitem{Tian2025MalwarePropagationGame}
-L.~Tian, C.~Gan, J.~Lin, F.~Shang, and Q.~Zhu, ``Analysis of attack-defense game for advanced malware propagation control in cloud,'' \emph{Computer Communications}, vol. 237, p. 108148, 2025.
+L.~Tian, C.~Gan, J.~Lin, F.~Shang, and Q.~Zhu, ``Analysis of attack-defense
+  game for advanced malware propagation control in cloud,'' \emph{Computer
+  Communications}, vol. 237, p. 108148, 2025.
 
 \bibitem{Kaur2023AICybersecurityReview}
-R.~Kaur, D.~Gabrijelcic, and T.~Klobucar, ``Artificial intelligence for cybersecurity: Literature review and future research directions,'' \emph{Information Fusion}, vol.~97, p. 101804, 2023.
+R.~Kaur, D.~Gabrijelcic, and T.~Klobucar, ``Artificial intelligence for
+  cybersecurity: Literature review and future research directions,''
+  \emph{Information Fusion}, vol.~97, p. 101804, 2023.
 
 \bibitem{Choksy2023ABACIoTHealthcare}
-P.~Choksy, A.~Chaurasia, and U.~P. Rao, ``Attribute based access control (abac) scheme with a fully flexible delegation mechanism for iot healthcare,'' \emph{Peer-to-Peer Networking and Applications}, vol.~16, pp. 1445--1467, 2023.
+P.~Choksy, A.~Chaurasia, and U.~P. Rao, ``Attribute based access control (abac)
+  scheme with a fully flexible delegation mechanism for iot healthcare,''
+  \emph{Peer-to-Peer Networking and Applications}, vol.~16, pp. 1445--1467,
+  2023.
 
 \bibitem{Yang2025BERTIDS}
-Y.~Yang and X.~Peng, ``Bert-based network for intrusion detection system,'' \emph{EURASIP Journal on Information Security}, vol. 2025, p.~11, 2025.
+Y.~Yang and X.~Peng, ``Bert-based network for intrusion detection system,''
+  \emph{EURASIP Journal on Information Security}, vol. 2025, p.~11, 2025.
 
 \bibitem{Sable2025CloudThreatIntel}
-N.~M. Sable, V.~K. Sharma, and B.~Manjre, ``Bioinspired and incremental learning-based cloud-native threat intelligence,'' \emph{International Journal of Information Technology}, 2025.
+N.~M. Sable, V.~K. Sharma, and B.~Manjre, ``Bioinspired and incremental
+  learning-based cloud-native threat intelligence,'' \emph{International
+  Journal of Information Technology}, 2025.
 
 \bibitem{Islam2024ExplainableIDS}
-M.~T. Islam, M.~K. Syfullah, and M.~Rashed, ``Bridging the gap: Advancing the transparency and trustworthiness of network intrusion detection with explainable ai,'' \emph{International Journal of Machine Learning and Cybernetics}, vol.~15, pp. 5337--5360, 2024.
+M.~T. Islam, M.~K. Syfullah, and M.~Rashed, ``Bridging the gap: Advancing the
+  transparency and trustworthiness of network intrusion detection with
+  explainable ai,'' \emph{International Journal of Machine Learning and
+  Cybernetics}, vol.~15, pp. 5337--5360, 2024.
 
 \bibitem{Meriah2025SecurityOntology}
-I.~Meriah, L.~Ben Arfa~Rabai, and R.~Khedri, ``Building a comprehensive and multi-dimensional information security ontology,'' \emph{Knowledge and Information Systems}, vol.~67, pp. 167--195, 2025.
+I.~Meriah, L.~Ben Arfa~Rabai, and R.~Khedri, ``Building a comprehensive and
+  multi-dimensional information security ontology,'' \emph{Knowledge and
+  Information Systems}, vol.~67, pp. 167--195, 2025.
 
 \bibitem{Psathas2022COREM2}
-A.~P. Psathas, L.~Iliadis, and A.~Papaleonidas, ``Corem2 project: A beginning to end approach for cyber intrusion detection,'' \emph{Neural Computing and Applications}, vol.~34, pp. 19\,565--19\,584, 2022.
+A.~P. Psathas, L.~Iliadis, and A.~Papaleonidas, ``Corem2 project: A beginning
+  to end approach for cyber intrusion detection,'' \emph{Neural Computing and
+  Applications}, vol.~34, pp. 19\,565--19\,584, 2022.
 
 \bibitem{Sardar2025WoTSecurityReview}
-R.~Sardar, T.~Anees, and A.~S. Al-Shamayleh, ``Challenges in detecting security threats in wot,'' \emph{Artificial Intelligence Review}, vol.~58, p. 196, 2025.
+R.~Sardar, T.~Anees, and A.~S. Al-Shamayleh, ``Challenges in detecting security
+  threats in wot,'' \emph{Artificial Intelligence Review}, vol.~58, p. 196,
+  2025.
 
 \bibitem{Verma2020CloudStakeholder}
-G.~Verma and S.~Adhikari, ``Cloud computing security issues: A stakeholder’s perspective,'' \emph{SN Computer Science}, vol.~1, p. 329, 2020.
+G.~Verma and S.~Adhikari, ``Cloud computing security issues: A stakeholder’s
+  perspective,'' \emph{SN Computer Science}, vol.~1, p. 329, 2020.
 
 \bibitem{Butt2023CloudSecuritySurvey}
-U.~A. Butt, R.~Amin, and M.~Mehmood, ``Cloud security threats and solutions: A survey,'' \emph{Wireless Personal Communications}, vol. 128, pp. 387--413, 2023.
+U.~A. Butt, R.~Amin, and M.~Mehmood, ``Cloud security threats and solutions: A
+  survey,'' \emph{Wireless Personal Communications}, vol. 128, pp. 387--413,
+  2023.
 
 \bibitem{Shahzad2022CloudAnomalyEnsemble}
-F.~Shahzad, A.~Mannan, and A.~R. Javed, ``Cloud-based multiclass anomaly detection and categorization using ensemble learning,'' \emph{Journal of Cloud Computing}, vol.~11, p.~74, 2022.
+F.~Shahzad, A.~Mannan, and A.~R. Javed, ``Cloud-based multiclass anomaly
+  detection and categorization using ensemble learning,'' \emph{Journal of
+  Cloud Computing}, vol.~11, p.~74, 2022.
 
 \bibitem{Hadi2024CybersecurityToolsSurvey}
-H.~J. Hadi, N.~Ahmad, K.~Aziz, Y.~Cao, and M.~A. Alshara, ``Cost-effective resilience: A comprehensive survey and tutorial on assessing open-source cybersecurity tools for multi-tiered defense,'' \emph{IEEE Access}, vol.~12, pp. 194\,053--194\,076, 2024.
+H.~J. Hadi, N.~Ahmad, K.~Aziz, Y.~Cao, and M.~A. Alshara, ``Cost-effective
+  resilience: A comprehensive survey and tutorial on assessing open-source
+  cybersecurity tools for multi-tiered defense,'' \emph{IEEE Access}, vol.~12,
+  pp. 194\,053--194\,076, 2024.
 
 \bibitem{Tissir2021CloudCybersecurityManagement}
-N.~Tissir, S.~El~Kafhali, and N.~Aboutabit, ``Cybersecurity management in cloud computing: Semantic literature review and conceptual framework proposal,'' \emph{Journal of Reliable Intelligent Environments}, vol.~7, pp. 69--84, 2021.
+N.~Tissir, S.~El~Kafhali, and N.~Aboutabit, ``Cybersecurity management in cloud
+  computing: Semantic literature review and conceptual framework proposal,''
+  \emph{Journal of Reliable Intelligent Environments}, vol.~7, pp. 69--84,
+  2021.
 
 \bibitem{Kanber2022ApplicationLayerDDoS}
-B.~M. Kanber, N.~F. Noaman, A.~M.~H. Saeed, and M.~Malas, ``Ddos attacks detection in the application layer using three level machine learning classification architecture,'' \emph{International Journal of Computer Network and Information Security}, vol.~14, no.~3, pp. 33--46, 2022.
+B.~M. Kanber, N.~F. Noaman, A.~M.~H. Saeed, and M.~Malas, ``Ddos attacks
+  detection in the application layer using three level machine learning
+  classification architecture,'' \emph{International Journal of Computer
+  Network and Information Security}, vol.~14, no.~3, pp. 33--46, 2022.
 
 \bibitem{Aldweesh2020DeepLearningIDS}
-A.~Aldweesh, A.~Derhab, and A.~Z. Emam, ``Deep learning approaches for anomaly-based intrusion detection systems: A survey, taxonomy, and open issues,'' \emph{Knowledge-Based Systems}, vol. 189, p. 105124, 2020.
+A.~Aldweesh, A.~Derhab, and A.~Z. Emam, ``Deep learning approaches for
+  anomaly-based intrusion detection systems: A survey, taxonomy, and open
+  issues,'' \emph{Knowledge-Based Systems}, vol. 189, p. 105124, 2020.
 
 \bibitem{Radoglou2022IIoTSecurity}
-P.~Radoglou-Grammatikis, P.~Sarigiannidis, G.~Efstathopoulos, T.~Lagkas, A.~Sarigiannidis, V.~Mladenov, and N.~Siaxabanis, ``Defending industrial internet of things against modbus/tcp threats: A combined ai-based detection and sdn-based mitigation solution,'' \emph{SSRN}, 2022.
+P.~Radoglou-Grammatikis, P.~Sarigiannidis, G.~Efstathopoulos, T.~Lagkas,
+  A.~Sarigiannidis, V.~Mladenov, and N.~Siaxabanis, ``Defending industrial
+  internet of things against modbus/tcp threats: A combined ai-based detection
+  and sdn-based mitigation solution,'' \emph{SSRN}, 2022.
 
 \bibitem{Kirubavathi2025TransformerDDoS}
-G.~Kirubavathi, I.~R. Sumathi, and J.~Mahalakshmi, ``Detection and mitigation of tcp-based ddos attacks in cloud environments using a self-attention transformer model,'' \emph{Journal of Supercomputing}, vol.~81, p. 474, 2025.
+G.~Kirubavathi, I.~R. Sumathi, and J.~Mahalakshmi, ``Detection and mitigation
+  of tcp-based ddos attacks in cloud environments using a self-attention
+  transformer model,'' \emph{Journal of Supercomputing}, vol.~81, p. 474, 2025.
 
 \bibitem{Doğan2025SDNIDSReview}
-S.~M. Doğan, A.~Koçak, and M.~Alkan, ``Detection and mitigation of cyber-attacks in software defined networks using machine learning/deep learning: A systematic literature review, research challenges and future directions,'' \emph{International Journal of Information Security}, vol.~24, p. 209, 2025.
+S.~M. Doğan, A.~Koçak, and M.~Alkan, ``Detection and mitigation of
+  cyber-attacks in software defined networks using machine learning/deep
+  learning: A systematic literature review, research challenges and future
+  directions,'' \emph{International Journal of Information Security}, vol.~24,
+  p. 209, 2025.
 
 \bibitem{Obidallah2025RansomwareSMPC}
-W.~J. Obidallah, M.~Albathan, and Z.~Alshaikh, ``Differential privacy enhanced ransomware detection in cloud vms using smpc and bidirectional lstm with dnn,'' \emph{International Journal of Information Security}, vol.~24, p. 237, 2025.
+W.~J. Obidallah, M.~Albathan, and Z.~Alshaikh, ``Differential privacy enhanced
+  ransomware detection in cloud vms using smpc and bidirectional lstm with
+  dnn,'' \emph{International Journal of Information Security}, vol.~24, p. 237,
+  2025.
 
 \bibitem{Kim2024CloudIDS}
-Y.~Kim, G.~Park, and H.~Kim, ``Domain knowledge free cloud-ids with lightweight embedding method,'' \emph{Journal of Cloud Computing}, vol.~13, p. 143, 2024.
+Y.~Kim, G.~Park, and H.~Kim, ``Domain knowledge free cloud-ids with lightweight
+  embedding method,'' \emph{Journal of Cloud Computing}, vol.~13, p. 143, 2024.
 
 \bibitem{Belgacem2022CloudResourceTaxonomy}
-A.~Belgacem, ``Dynamic resource allocation in cloud computing: Analysis and taxonomies,'' \emph{Computing}, vol. 104, pp. 681--710, 2022.
+A.~Belgacem, ``Dynamic resource allocation in cloud computing: Analysis and
+  taxonomies,'' \emph{Computing}, vol. 104, pp. 681--710, 2022.
 
 \bibitem{Benmohamed2024ESDNN}
-E.~Benmohamed, A.~Thaljaoui, and S.~Elkhediri, ``E-sdnn: encoder-stacked deep neural networks for ddos attack detection,'' \emph{Neural Computing and Applications}, vol.~36, pp. 10\,431--10\,443, 2024.
+E.~Benmohamed, A.~Thaljaoui, and S.~Elkhediri, ``E-sdnn: encoder-stacked deep
+  neural networks for ddos attack detection,'' \emph{Neural Computing and
+  Applications}, vol.~36, pp. 10\,431--10\,443, 2024.
 
 \bibitem{Kumar2025EdgeGuardIA}
-K.~P. Kumar, T.~S. Murugan, and R.~Saketh, ``Edgeguardia: an adaptive in-network machine learning framework for real-time iot gateway security,'' \emph{International Journal of Information Technology}, 2025.
+K.~P. Kumar, T.~S. Murugan, and R.~Saketh, ``Edgeguardia: an adaptive
+  in-network machine learning framework for real-time iot gateway security,''
+  \emph{International Journal of Information Technology}, 2025.
 
 \bibitem{Chen2023SRUTabNetIDS}
-Y.~Chen, J.~Li, and N.~Guo, ``Efficient and interpretable sru combined with tabnet for network intrusion detection in the big data environment,'' \emph{International Journal of Information Security}, vol.~22, pp. 679--689, 2023.
+Y.~Chen, J.~Li, and N.~Guo, ``Efficient and interpretable sru combined with
+  tabnet for network intrusion detection in the big data environment,''
+  \emph{International Journal of Information Security}, vol.~22, pp. 679--689,
+  2023.
 
 \bibitem{Rehman2025BlockchainIoTAuth}
-A.~U. Rehman, S.~Lu, and M.~B.~B. Heyat, ``Efficient blockchain-based mutual remote authentication for enhancing privacy and security in cloud internet of things environment,'' \emph{Peer-to-Peer Networking and Applications}, vol.~18, p. 275, 2025.
+A.~U. Rehman, S.~Lu, and M.~B.~B. Heyat, ``Efficient blockchain-based mutual
+  remote authentication for enhancing privacy and security in cloud internet of
+  things environment,'' \emph{Peer-to-Peer Networking and Applications},
+  vol.~18, p. 275, 2025.
 
 \bibitem{Folino2024FederatedLearning}
-F.~Folino, G.~Folino, and F.~S. Pisani, ``Efficiently approaching vertical federated learning by combining data reduction and conditional computation techniques,'' \emph{Journal of Big Data}, vol.~11, p.~77, 2024.
+F.~Folino, G.~Folino, and F.~S. Pisani, ``Efficiently approaching vertical
+  federated learning by combining data reduction and conditional computation
+  techniques,'' \emph{Journal of Big Data}, vol.~11, p.~77, 2024.
 
 \bibitem{Alansary2025AIThreats}
-S.~A. Alansary, S.~M. Ayyad, and F.~M. Talaat, ``Emerging ai threats in cybercrime: A review of zero-day attacks via machine, deep, and federated learning,'' \emph{Knowledge and Information Systems}, vol.~67, pp. 10\,951--10\,987, 2025.
+S.~A. Alansary, S.~M. Ayyad, and F.~M. Talaat, ``Emerging ai threats in
+  cybercrime: A review of zero-day attacks via machine, deep, and federated
+  learning,'' \emph{Knowledge and Information Systems}, vol.~67, pp.
+  10\,951--10\,987, 2025.
 
 \bibitem{Ali2024CloudTrends}
-R.~F. Ali, A.~Shehzadi, H.~Jahankhani, and B.~Hassan, ``Emerging trends in cloud computing paradigm: An extensive literature review on cloud security, service models, and practical suggestions,'' in \emph{Cybersecurity and Artificial Intelligence: Advanced Sciences and Technologies for Security Applications}.\hskip 1em plus 0.5em minus 0.4em\relax Springer, 2024, pp. 65--89.
+R.~F. Ali, A.~Shehzadi, H.~Jahankhani, and B.~Hassan, ``Emerging trends in
+  cloud computing paradigm: An extensive literature review on cloud security,
+  service models, and practical suggestions,'' in \emph{Cybersecurity and
+  Artificial Intelligence: Advanced Sciences and Technologies for Security
+  Applications}.\hskip 1em plus 0.5em minus 0.4em\relax Springer, 2024, pp.
+  65--89.
 
 \bibitem{Reddy2024CloudEncryption}
-M.~I. Reddy, P.~V. Rao, and T.~S. Kumar, ``Encryption with access policy and cloud data selection for secure and energy-efficient cloud computing,'' \emph{Multimedia Tools and Applications}, vol.~83, pp. 15\,649--15\,675, 2024.
+M.~I. Reddy, P.~V. Rao, and T.~S. Kumar, ``Encryption with access policy and
+  cloud data selection for secure and energy-efficient cloud computing,''
+  \emph{Multimedia Tools and Applications}, vol.~83, pp. 15\,649--15\,675,
+  2024.
 
 \bibitem{Jalali2025Federated5GIoT}
-N.~A. Jalali, C.~Hongsong, and F.~A. Zahin, ``Enhanced security and privacy framework for federated learning in beyond 5g iot networks,'' \emph{Wireless Personal Communications}, vol. 144, pp. 115--156, 2025.
+N.~A. Jalali, C.~Hongsong, and F.~A. Zahin, ``Enhanced security and privacy
+  framework for federated learning in beyond 5g iot networks,'' \emph{Wireless
+  Personal Communications}, vol. 144, pp. 115--156, 2025.
 
 \bibitem{Swathi2025CloudAuthentication}
-G.~Swathi and A.~J. Reddy, ``Enhanced authentication framework for data owner and data sharing in a cloud storage environment,'' \emph{International Journal of System Assurance Engineering and Management}, vol.~16, pp. 3583--3596, 2025.
+G.~Swathi and A.~J. Reddy, ``Enhanced authentication framework for data owner
+  and data sharing in a cloud storage environment,'' \emph{International
+  Journal of System Assurance Engineering and Management}, vol.~16, pp.
+  3583--3596, 2025.
 
 \bibitem{Khan2024PrivacyAHP}
-M.~Z. Khan, M.~Shoaib, and M.~S. Husain, ``Enhanced mechanism to prioritize the cloud data privacy factors using ahp and topsis: A hybrid approach,'' \emph{Journal of Cloud Computing}, vol.~13, p.~42, 2024.
+M.~Z. Khan, M.~Shoaib, and M.~S. Husain, ``Enhanced mechanism to prioritize the
+  cloud data privacy factors using ahp and topsis: A hybrid approach,''
+  \emph{Journal of Cloud Computing}, vol.~13, p.~42, 2024.
 
 \bibitem{Zhang2025RansomwareDetection}
-K.~Zhang, Y.~Wang, and U.~A. Bhatti, ``Enhanced ransomware attacks detection using feature selection, sensitivity analysis, and optimized hybrid model,'' \emph{Journal of Big Data}, vol.~12, p. 245, 2025.
+K.~Zhang, Y.~Wang, and U.~A. Bhatti, ``Enhanced ransomware attacks detection
+  using feature selection, sensitivity analysis, and optimized hybrid model,''
+  \emph{Journal of Big Data}, vol.~12, p. 245, 2025.
 
 \bibitem{Pinto2024InfrastructureSecurity}
-A.~Pinto, L.~C. Herrera, and Y.~Donoso, ``Enhancing critical infrastructure security: Unsupervised learning approaches for anomaly detection,'' \emph{International Journal of Computational Intelligence Systems}, vol.~17, p. 236, 2024.
+A.~Pinto, L.~C. Herrera, and Y.~Donoso, ``Enhancing critical infrastructure
+  security: Unsupervised learning approaches for anomaly detection,''
+  \emph{International Journal of Computational Intelligence Systems}, vol.~17,
+  p. 236, 2024.
 
 \bibitem{Saidi2025FederatedPrivacyIDS}
-A.~Saidi and A.~E.~O. Khouri, ``Enhancing data privacy in intrusion detection: A federated learning framework with differential privacy,'' \emph{Concurrency and Computation: Practice and Experience}, vol.~37, no. 18-20, p. e70186, 2025.
+A.~Saidi and A.~E.~O. Khouri, ``Enhancing data privacy in intrusion detection:
+  A federated learning framework with differential privacy,'' \emph{Concurrency
+  and Computation: Practice and Experience}, vol.~37, no. 18-20, p. e70186,
+  2025.
 
 \bibitem{Chatterjee2023CloudLMS}
-P.~Chatterjee, R.~Bose, and S.~Banerjee, ``Enhancing data security of cloud based lms,'' \emph{Wireless Personal Communications}, vol. 130, pp. 1123--1139, 2023.
+P.~Chatterjee, R.~Bose, and S.~Banerjee, ``Enhancing data security of cloud
+  based lms,'' \emph{Wireless Personal Communications}, vol. 130, pp.
+  1123--1139, 2023.
 
 \bibitem{AlShehari2024InsiderThreat}
-T.~A. Al-Shehari, ``Enhancing insider threat detection in imbalanced cybersecurity settings using the density-based local outlier factor algorithm,'' \emph{IEEE Access}, vol.~12, pp. 34\,820--34\,834, 2024.
+T.~A. Al-Shehari, ``Enhancing insider threat detection in imbalanced
+  cybersecurity settings using the density-based local outlier factor
+  algorithm,'' \emph{IEEE Access}, vol.~12, pp. 34\,820--34\,834, 2024.
 
 \bibitem{Sherin2026HybridIDS}
-R.~C.~J. Sherin and K.~Parkavi, ``Enhancing network resilience: A hybrid meta-heuristic intrusion detection system leveraging ssa-boa-cnn,'' \emph{Journal of Network and Systems Management}, vol.~34, p.~17, 2026.
+R.~C.~J. Sherin and K.~Parkavi, ``Enhancing network resilience: A hybrid
+  meta-heuristic intrusion detection system leveraging ssa-boa-cnn,''
+  \emph{Journal of Network and Systems Management}, vol.~34, p.~17, 2026.
 
 \bibitem{Kandoussi2024BayesianDefense}
-E.~M. Kandoussi, A.~Houmairi, and I.~El~Mir, ``Enhancing cloud security: Harnessing bayesian game theory for a dynamic defense mechanism,'' \emph{Cluster Computing}, vol.~27, pp. 12\,509--12\,526, 2024.
+E.~M. Kandoussi, A.~Houmairi, and I.~El~Mir, ``Enhancing cloud security:
+  Harnessing bayesian game theory for a dynamic defense mechanism,''
+  \emph{Cluster Computing}, vol.~27, pp. 12\,509--12\,526, 2024.
 
 \bibitem{Preethi2025MultiCloudSecurity}
-Preethi, S.~S. Bisht, and D.~Kundra, ``Enhancing multi-cloud security: Novel method for big data storage,'' \emph{International Journal of System Assurance Engineering and Management}, 2025.
+Preethi, S.~S. Bisht, and D.~Kundra, ``Enhancing multi-cloud security: Novel
+  method for big data storage,'' \emph{International Journal of System
+  Assurance Engineering and Management}, 2025.
 
 \bibitem{Quan2025SituationalAwareness}
-J.~Quan, Y.~Duan, and Q.~Fu, ``Enhancing national security: A multidimensional situational awareness model for emerging economic crime prevention,'' \emph{International Journal of Information Security}, vol.~24, p. 222, 2025.
+J.~Quan, Y.~Duan, and Q.~Fu, ``Enhancing national security: A multidimensional
+  situational awareness model for emerging economic crime prevention,''
+  \emph{International Journal of Information Security}, vol.~24, p. 222, 2025.
 
 \bibitem{Mani2025MemoryIDS}
-P.~Mani and G.~Subburayalu, ``Enhancing network security with memory-augmented visual attention networks and predator–prey optimization models,'' \emph{Iran Journal of Computer Science}, vol.~8, pp. 893--912, 2025.
+P.~Mani and G.~Subburayalu, ``Enhancing network security with memory-augmented
+  visual attention networks and predator–prey optimization models,''
+  \emph{Iran Journal of Computer Science}, vol.~8, pp. 893--912, 2025.
 
 \bibitem{Saeed2025CloudResilienceReview}
-Z.~M. Saeed, A.~B. Zainal, and F.~A. Ghaleb, ``Enhancing public cloud resilience: An analytical review of detection and mitigation strategies against economic denial of sustainability attacks,'' \emph{Discover Internet of Things}, vol.~5, p.~79, 2025.
+Z.~M. Saeed, A.~B. Zainal, and F.~A. Ghaleb, ``Enhancing public cloud
+  resilience: An analytical review of detection and mitigation strategies
+  against economic denial of sustainability attacks,'' \emph{Discover Internet
+  of Things}, vol.~5, p.~79, 2025.
 
 \bibitem{Mahboubi2024ThreatHuntingReview}
-A.~Mahboubi, K.~Luong, H.~Aboutorab, H.~T. Bui, G.~Jarrad, M.~Bahutair, S.~Camtepe, G.~Pogrebna, E.~Ahmed, B.~Barry, and H.~Gately, ``Evolving techniques in cyber threat hunting: A systematic review,'' \emph{Journal of Network and Computer Applications}, vol. 232, p. 104004, 2024.
+A.~Mahboubi, K.~Luong, H.~Aboutorab, H.~T. Bui, G.~Jarrad, M.~Bahutair,
+  S.~Camtepe, G.~Pogrebna, E.~Ahmed, B.~Barry, and H.~Gately, ``Evolving
+  techniques in cyber threat hunting: A systematic review,'' \emph{Journal of
+  Network and Computer Applications}, vol. 232, p. 104004, 2024.
 
 \bibitem{Bhurani2025ExBCIL}
-P.~Bhurani, S.~S. Chouhan, and N.~Mittal, ``Exbcil: An exemplar-based class incremental learning for intrusion detection system,'' \emph{International Journal of Machine Learning and Cybernetics}, vol.~16, pp. 3865--3885, 2025.
+P.~Bhurani, S.~S. Chouhan, and N.~Mittal, ``Exbcil: An exemplar-based class
+  incremental learning for intrusion detection system,'' \emph{International
+  Journal of Machine Learning and Cybernetics}, vol.~16, pp. 3865--3885, 2025.
 
 \bibitem{Sarker2024ExplainableCybersecurity}
-I.~H. Sarker, H.~Janicke, A.~Mohsin, A.~Gill, and L.~Maglaras, ``Explainable ai for cybersecurity, automation, intelligence and trustworthiness in digital twin,'' \emph{ICT Express}, vol.~10, no.~4, pp. 935--958, 2024.
+I.~H. Sarker, H.~Janicke, A.~Mohsin, A.~Gill, and L.~Maglaras, ``Explainable ai
+  for cybersecurity, automation, intelligence and trustworthiness in digital
+  twin,'' \emph{ICT Express}, vol.~10, no.~4, pp. 935--958, 2024.
 
 \bibitem{Gharbi2025IoTRansomwareSurvey}
-I.~Gharbi, M.~Belaoued, and A.~Derhab, ``Exploring the landscape of iot ransomware prediction through machine learning techniques: A comprehensive survey,'' \emph{SN Computer Science}, vol.~6, p. 264, 2025.
+I.~Gharbi, M.~Belaoued, and A.~Derhab, ``Exploring the landscape of iot
+  ransomware prediction through machine learning techniques: A comprehensive
+  survey,'' \emph{SN Computer Science}, vol.~6, p. 264, 2025.
 
 \bibitem{RajeshKanna2024AttackDetection}
-P.~Rajesh~Kanna and P.~Santhi, ``Exploring the landscape of network security: A comparative analysis of attack detection strategies,'' \emph{Journal of Ambient Intelligence and Humanized Computing}, vol.~15, pp. 3211--3228, 2024.
+P.~Rajesh~Kanna and P.~Santhi, ``Exploring the landscape of network security: A
+  comparative analysis of attack detection strategies,'' \emph{Journal of
+  Ambient Intelligence and Humanized Computing}, vol.~15, pp. 3211--3228, 2024.
 
 \bibitem{Buyuktanir2025FederatedIDS}
-B.~Buyuktanir, S.~Altinkaya, and G.~Karatas~Baydogmus, ``Federated learning in intrusion detection: Advancements, applications, and future directions,'' \emph{Cluster Computing}, vol.~28, p. 473, 2025.
+B.~Buyuktanir, S.~Altinkaya, and G.~Karatas~Baydogmus, ``Federated learning in
+  intrusion detection: Advancements, applications, and future directions,''
+  \emph{Cluster Computing}, vol.~28, p. 473, 2025.
 
 \bibitem{Srinivasan2025FederatedCryptography}
-K.~Srinivasan, G.~S. Chauhan, and R.~Jadon, ``Federated meta heuristic cryptography algorithm with fuzzy logic model in cloud secure data migration,'' \emph{Cluster Computing}, vol.~28, p. 976, 2025.
+K.~Srinivasan, G.~S. Chauhan, and R.~Jadon, ``Federated meta heuristic
+  cryptography algorithm with fuzzy logic model in cloud secure data
+  migration,'' \emph{Cluster Computing}, vol.~28, p. 976, 2025.
 
 \bibitem{Galle2025CyberResilienceBoard}
-A.~Galle and H.~Vletter-van Dort, ``From cybersecurity to cyber resilience in the board room: Key steps for supervisory board members and non-executives,'' \emph{International Cybersecurity Law Review}, vol.~6, pp. 221--237, 2025.
+A.~Galle and H.~Vletter-van Dort, ``From cybersecurity to cyber resilience in
+  the board room: Key steps for supervisory board members and non-executives,''
+  \emph{International Cybersecurity Law Review}, vol.~6, pp. 221--237, 2025.
 
 \bibitem{Du2025CostSensitiveTraffic}
-W.~Du, D.~Liang, and Y.~Lv, ``Group and reweight: A novel cost-sensitive approach to mitigating class imbalance in network traffic classification,'' \emph{International Journal of Machine Learning and Cybernetics}, vol.~16, pp. 7707--7728, 2025.
+W.~Du, D.~Liang, and Y.~Lv, ``Group and reweight: A novel cost-sensitive
+  approach to mitigating class imbalance in network traffic classification,''
+  \emph{International Journal of Machine Learning and Cybernetics}, vol.~16,
+  pp. 7707--7728, 2025.
 
 \bibitem{Rana2024HeatmapAttacks}
-A.~Rana, P.~Rawat, and S.~Vats, ``Heatmap-based deep learning model for network attacks classification,'' \emph{SN Computer Science}, vol.~5, p. 1113, 2024.
+A.~Rana, P.~Rawat, and S.~Vats, ``Heatmap-based deep learning model for network
+  attacks classification,'' \emph{SN Computer Science}, vol.~5, p. 1113, 2024.
 
 \bibitem{Bouganim2023PrivacyQueries}
-L.~Bouganim, J.~Loudet, and I.~Sandu~Popa, ``Highly distributed and privacy-preserving queries on personal data management systems,'' \emph{The VLDB Journal}, vol.~32, pp. 415--445, 2023.
+L.~Bouganim, J.~Loudet, and I.~Sandu~Popa, ``Highly distributed and
+  privacy-preserving queries on personal data management systems,'' \emph{The
+  VLDB Journal}, vol.~32, pp. 415--445, 2023.
 
 \bibitem{Mamidala2025HybridCloudSecurity}
-V.~Mamidala, A.~R.~G. Yallamelli, and M.~V. Devarajan, ``Hybrid anomaly-based cloud security and machine learning-based behavioral analysis for threat intelligence detection in cloud environment,'' \emph{Cluster Computing}, vol.~28, p. 485, 2025.
+V.~Mamidala, A.~R.~G. Yallamelli, and M.~V. Devarajan, ``Hybrid anomaly-based
+  cloud security and machine learning-based behavioral analysis for threat
+  intelligence detection in cloud environment,'' \emph{Cluster Computing},
+  vol.~28, p. 485, 2025.
 
 \bibitem{Vaneeta2026IDPSWOAXGBoost}
-Vaneeta and S.~Rani, ``Idps\_woa-xgboost: A novel intrusion detection and prevention system based on whale optimization and xgboost algorithm,'' \emph{International Journal of Information Technology}, vol.~18, pp. 345--353, 2026.
+Vaneeta and S.~Rani, ``Idps\_woa-xgboost: A novel intrusion detection and
+  prevention system based on whale optimization and xgboost algorithm,''
+  \emph{International Journal of Information Technology}, vol.~18, pp.
+  345--353, 2026.
 
 \bibitem{De2022ThreatModelingCloud}
-S.~De, M.~S. Barik, and I.~Banerjee, ``Impact estimation of security attack and mitigation strategy using goal-based threat modeling in a peer-to-peer cloud system,'' \emph{Journal of the Institution of Engineers (India): Series B}, vol. 103, pp. 1845--1862, 2022.
+S.~De, M.~S. Barik, and I.~Banerjee, ``Impact estimation of security attack and
+  mitigation strategy using goal-based threat modeling in a peer-to-peer cloud
+  system,'' \emph{Journal of the Institution of Engineers (India): Series B},
+  vol. 103, pp. 1845--1862, 2022.
 
 \bibitem{Pramudya2022SnortIDS}
-P.~B. Pramudya and A.~Alamsyah, ``Implementation of signature-based intrusion detection system using snort to prevent threats in network servers,'' \emph{Journal of Soft Computing Exploration}, vol.~3, no.~2, pp. 93--98, 2022.
+P.~B. Pramudya and A.~Alamsyah, ``Implementation of signature-based intrusion
+  detection system using snort to prevent threats in network servers,''
+  \emph{Journal of Soft Computing Exploration}, vol.~3, no.~2, pp. 93--98,
+  2022.
 
 \bibitem{Ecabert2024CyberIncidentReporting}
-T.~Ecabert, F.~Muhly, and V.~Zimmermann, ``Implications of cyber incident reporting obligations on multinational organizations headquartered in switzerland,'' \emph{International Cybersecurity Law Review}, vol.~5, pp. 585--614, 2024.
+T.~Ecabert, F.~Muhly, and V.~Zimmermann, ``Implications of cyber incident
+  reporting obligations on multinational organizations headquartered in
+  switzerland,'' \emph{International Cybersecurity Law Review}, vol.~5, pp.
+  585--614, 2024.
 
 \bibitem{Alashjaee2024DigitalForensics}
-A.~M. Alashjaee and F.~Alqahtani, ``Improving digital forensic security: A secure storage model with authentication and optimal key generation based encryption,'' \emph{IEEE Access}, vol.~12, pp. 29\,738--29\,747, 2024.
+A.~M. Alashjaee and F.~Alqahtani, ``Improving digital forensic security: A
+  secure storage model with authentication and optimal key generation based
+  encryption,'' \emph{IEEE Access}, vol.~12, pp. 29\,738--29\,747, 2024.
 
 \bibitem{UlloaZamora2025MedicalDevicesSecurity}
-M.~Ulloa-Zamora, C.~Barría-Huidobro, M.~Sánchez-Rubio, and L.~Galeazzi, ``Integral security pillars for medical devices: A comprehensive analysis,'' \emph{Applied Sciences}, vol.~15, no.~12, p. 6634, 2025.
+M.~Ulloa-Zamora, C.~Barría-Huidobro, M.~Sánchez-Rubio, and L.~Galeazzi,
+  ``Integral security pillars for medical devices: A comprehensive analysis,''
+  \emph{Applied Sciences}, vol.~15, no.~12, p. 6634, 2025.
 
 \bibitem{Mughaid2024IoTCloudSecurity}
-A.~Mughaid, I.~Obeidat, and L.~Abualigah, ``Intelligent cybersecurity approach for data protection in cloud computing based internet of things,'' \emph{International Journal of Information Security}, vol.~23, pp. 2123--2137, 2024.
+A.~Mughaid, I.~Obeidat, and L.~Abualigah, ``Intelligent cybersecurity approach
+  for data protection in cloud computing based internet of things,''
+  \emph{International Journal of Information Security}, vol.~23, pp.
+  2123--2137, 2024.
 
 \bibitem{Dwivedi2024BibliometricIJIS}
-R.~Dwivedi, ``International journal of information security: A bibliometric study, 2007--2023,'' \emph{International Journal of Information Security}, vol.~23, pp. 2159--2187, 2024.
+R.~Dwivedi, ``International journal of information security: A bibliometric
+  study, 2007--2023,'' \emph{International Journal of Information Security},
+  vol.~23, pp. 2159--2187, 2024.
 
 \bibitem{Adiwal2023OpenStackIDS}
-S.~Adiwal and M.~Misbahuddin, ``Intrusion detection and prevention in openstack: A case study on enhancing security and threat detection,'' \emph{SN Computer Science}, vol.~4, p. 830, 2023.
+S.~Adiwal and M.~Misbahuddin, ``Intrusion detection and prevention in
+  openstack: A case study on enhancing security and threat detection,''
+  \emph{SN Computer Science}, vol.~4, p. 830, 2023.
 
 \bibitem{Liu2022CloudIDSReview}
-Z.~Liu, B.~Xu, B.~Cheng, X.~Hu, and M.~Darbandi, ``Intrusion detection systems in cloud computing: A comprehensive and deep literature review,'' \emph{Concurrency and Computation: Practice and Experience}, vol.~34, no.~4, p. e6646, 2022.
+Z.~Liu, B.~Xu, B.~Cheng, X.~Hu, and M.~Darbandi, ``Intrusion detection systems
+  in cloud computing: A comprehensive and deep literature review,''
+  \emph{Concurrency and Computation: Practice and Experience}, vol.~34, no.~4,
+  p. e6646, 2022.
 
 \bibitem{Pirbhulal2024IoT5GSecuritySLR}
-S.~Pirbhulal, S.~Chockalingam, and A.~Shukla, ``Iot cybersecurity in 5g and beyond: A systematic literature review,'' \emph{International Journal of Information Security}, vol.~23, pp. 2827--2879, 2024.
+S.~Pirbhulal, S.~Chockalingam, and A.~Shukla, ``Iot cybersecurity in 5g and
+  beyond: A systematic literature review,'' \emph{International Journal of
+  Information Security}, vol.~23, pp. 2827--2879, 2024.
 
 \bibitem{Shukla2024IoTDDoSReview}
-P.~Shukla, C.~R. Krishna, and N.~V. Patil, ``Iot traffic-based ddos attacks detection mechanisms: A comprehensive review,'' \emph{Journal of Supercomputing}, vol.~80, pp. 9986--10\,043, 2024.
+P.~Shukla, C.~R. Krishna, and N.~V. Patil, ``Iot traffic-based ddos attacks
+  detection mechanisms: A comprehensive review,'' \emph{Journal of
+  Supercomputing}, vol.~80, pp. 9986--10\,043, 2024.
 
 \bibitem{Ammi2022CloudThreatIntelligence}
-M.~Ammi, O.~Adedugbe, and F.~M. Alharby, ``Leveraging a cloud-native architecture to enable semantic interconnectedness of data for cyber threat intelligence,'' \emph{Cluster Computing}, vol.~25, pp. 3629--3640, 2022.
+M.~Ammi, O.~Adedugbe, and F.~M. Alharby, ``Leveraging a cloud-native
+  architecture to enable semantic interconnectedness of data for cyber threat
+  intelligence,'' \emph{Cluster Computing}, vol.~25, pp. 3629--3640, 2022.
 
 \bibitem{Sophie2025MultiLayerSecurity}
 \BIBentryALTinterwordspacing
-E.~Sophie, ``Multi-layer security architectures combining ml and traditional controls,'' 2025, researchGate preprint. [Online]. Available: \url{https://www.researchgate.net/publication/399822042}
+E.~Sophie, ``Multi-layer security architectures combining ml and traditional
+  controls,'' 2025, researchGate preprint. [Online]. Available:
+  \url{https://www.researchgate.net/publication/399822042}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Mohammadi2025DenialWallet}
-A.~Mohammadi~Ghaleh and S.~Sedighian~Kashi, ``Machine learning based detection of denial of wallet attacks in serverless computing,'' \emph{SN Computer Science}, vol.~6, p. 1017, 2025.
+A.~Mohammadi~Ghaleh and S.~Sedighian~Kashi, ``Machine learning based detection
+  of denial of wallet attacks in serverless computing,'' \emph{SN Computer
+  Science}, vol.~6, p. 1017, 2025.
 
 \bibitem{Jaiswal2025InsiderThreatReview}
-A.~Jaiswal, P.~Dwivedi, and R.~K. Dewang, ``Machine learning approaches to detect, prevent and mitigate malicious insider threats: State-of-the-art review,'' \emph{Multimedia Tools and Applications}, vol.~84, pp. 28\,909--28\,949, 2025.
+A.~Jaiswal, P.~Dwivedi, and R.~K. Dewang, ``Machine learning approaches to
+  detect, prevent and mitigate malicious insider threats: State-of-the-art
+  review,'' \emph{Multimedia Tools and Applications}, vol.~84, pp.
+  28\,909--28\,949, 2025.
 
 \bibitem{Aboukadri2024IAMSurvey}
-S.~Aboukadri, A.~Ouaddah, and A.~Mezrioui, ``Machine learning in identity and access management systems: Survey and deep dive,'' \emph{Computers \& Security}, vol. 139, p. 103729, 2024.
+S.~Aboukadri, A.~Ouaddah, and A.~Mezrioui, ``Machine learning in identity and
+  access management systems: Survey and deep dive,'' \emph{Computers \&
+  Security}, vol. 139, p. 103729, 2024.
 
 \bibitem{Tebbaa2026SDNDDoSSLR}
-K.~Tebbaa, O.~Chakir, and Y.~Maleh, ``Mitigating ddos attacks in software-defined networks: A systematic literature review of machine learning and deep learning approaches,'' \emph{Iran Journal of Computer Science}, vol.~9, p.~5, 2026.
+K.~Tebbaa, O.~Chakir, and Y.~Maleh, ``Mitigating ddos attacks in
+  software-defined networks: A systematic literature review of machine learning
+  and deep learning approaches,'' \emph{Iran Journal of Computer Science},
+  vol.~9, p.~5, 2026.
 
 \bibitem{MartinezBeltran2024FederatedDefense}
-E.~T. Martínez~Beltrán, P.~M. Sánchez~Sánchez, and S.~López~Bernal, ``Mitigating communications threats in decentralized federated learning through moving target defense,'' \emph{Wireless Networks}, vol.~30, pp. 7407--7421, 2024.
+E.~T. Martínez~Beltrán, P.~M. Sánchez~Sánchez, and S.~López~Bernal,
+  ``Mitigating communications threats in decentralized federated learning
+  through moving target defense,'' \emph{Wireless Networks}, vol.~30, pp.
+  7407--7421, 2024.
 
 \bibitem{Ullah2025ContentPoisoningSurvey}
-S.~S. Ullah, S.~Hussain, and I.~Ali, ``Mitigating content poisoning attacks in named data networking: A survey of recent solutions, limitations, challenges and future research directions,'' \emph{Artificial Intelligence Review}, vol.~58, p.~42, 2025.
+S.~S. Ullah, S.~Hussain, and I.~Ali, ``Mitigating content poisoning attacks in
+  named data networking: A survey of recent solutions, limitations, challenges
+  and future research directions,'' \emph{Artificial Intelligence Review},
+  vol.~58, p.~42, 2025.
 
 \bibitem{Bistene2025TrafficGeneratorsSLR}
-J.~Bistene, A.~Santos, C.~Das~Chagas, and R.~Salles, ``Modeling network traffic generators for cyber ranges: A systematic literature review,'' \emph{Journal of Network and Systems Management}, vol.~33, 2025.
+J.~Bistene, A.~Santos, C.~Das~Chagas, and R.~Salles, ``Modeling network traffic
+  generators for cyber ranges: A systematic literature review,'' \emph{Journal
+  of Network and Systems Management}, vol.~33, 2025.
 
 \bibitem{Zhang2025CloudDatabaseSecurity}
-X.~Zhang, S.~Jiao, J.~Wang, and C.~Yang, ``Modeling of security and privacy architecture for protecting databases in cloud computing infrastructure,'' \emph{Scalable Computing: Practice and Experience}, vol.~26, no.~3, pp. 1300--1307, 2025.
+X.~Zhang, S.~Jiao, J.~Wang, and C.~Yang, ``Modeling of security and privacy
+  architecture for protecting databases in cloud computing infrastructure,''
+  \emph{Scalable Computing: Practice and Experience}, vol.~26, no.~3, pp.
+  1300--1307, 2025.
 
 \bibitem{Bennaceur2026MultiDimTrust}
-J.~Bennaceur, W.~Zouaghi, and A.~Mabrouk, ``Multi-dimensional trust model: Towards multi-layered secure architecture for enhanced threat information sharing,'' \emph{Journal of System Science and Systems Engineering}, vol.~35, pp. 1--24, 2026.
+J.~Bennaceur, W.~Zouaghi, and A.~Mabrouk, ``Multi-dimensional trust model:
+  Towards multi-layered secure architecture for enhanced threat information
+  sharing,'' \emph{Journal of System Science and Systems Engineering}, vol.~35,
+  pp. 1--24, 2026.
 
 \bibitem{Henge2025MultiLayerAccessControl}
-S.~K. Henge, R.~Rajakumar, and P.~Prasanna, ``Multi-layered access control based auto tuning relational key implications in enterprise-level multi-tenancy,'' \emph{Multimedia Tools and Applications}, vol.~84, pp. 17\,805--17\,836, 2025.
+S.~K. Henge, R.~Rajakumar, and P.~Prasanna, ``Multi-layered access control
+  based auto tuning relational key implications in enterprise-level
+  multi-tenancy,'' \emph{Multimedia Tools and Applications}, vol.~84, pp.
+  17\,805--17\,836, 2025.
 
 \bibitem{Samah2024CyberespionageWFH}
-I.~H.~A. Samah, A.~Sarip, M.~K. Ishak, R.~Shaari, N.~S.~A. Rahim, and I.~M. Abd~Rashid, ``Navigating data secrecy challenges: A study on cyberespionage intentions in the wfh era,'' \emph{Journal of The Institution of Engineers (India): Series B}, vol. 105, no.~4, pp. 941--957, 2024.
+I.~H.~A. Samah, A.~Sarip, M.~K. Ishak, R.~Shaari, N.~S.~A. Rahim, and I.~M.
+  Abd~Rashid, ``Navigating data secrecy challenges: A study on cyberespionage
+  intentions in the wfh era,'' \emph{Journal of The Institution of Engineers
+  (India): Series B}, vol. 105, no.~4, pp. 941--957, 2024.
 
 \bibitem{Gambo2025SaudiCybersecurity}
-M.~L. Gambo, A.~Danasabe, F.~Binbeshr, M.~Imam, M.~W. Shinwari, and A.~Mahmoud, ``Navigating the cyber landscape: Saudi arabia's cybersecurity standards and implementation barriers,'' \emph{Arabian Journal for Science and Engineering}, 2025.
+M.~L. Gambo, A.~Danasabe, F.~Binbeshr, M.~Imam, M.~W. Shinwari, and A.~Mahmoud,
+  ``Navigating the cyber landscape: Saudi arabia's cybersecurity standards and
+  implementation barriers,'' \emph{Arabian Journal for Science and
+  Engineering}, 2025.
 
 \bibitem{Zhao2024SituationalAwareness}
-X.~Zhao, ``Network security situational awareness and early warning architecture based on big data,'' \emph{International Journal of System Assurance Engineering and Management}, 2024.
+X.~Zhao, ``Network security situational awareness and early warning
+  architecture based on big data,'' \emph{International Journal of System
+  Assurance Engineering and Management}, 2024.
 
 \bibitem{Li2025ThreatDetectionFusion}
-R.~Li and L.~Sun, ``Network security threat detection model based on large-scale multi-source data analysis and perception fusion,'' \emph{Neural Computing and Applications}, vol.~37, pp. 28\,465--28\,478, 2025.
+R.~Li and L.~Sun, ``Network security threat detection model based on
+  large-scale multi-source data analysis and perception fusion,'' \emph{Neural
+  Computing and Applications}, vol.~37, pp. 28\,465--28\,478, 2025.
 
 \bibitem{Benkhelifa2025NextGenPentesting}
-E.~Benkhelifa, T.~Zhukabayeva, and S.~Ennaji, ``Next-generation penetration testing: A cross-domain review of challenges, trends, and taxonomy for urban digital ecosystems,'' \emph{Computing}, vol. 107, p. 224, 2025.
+E.~Benkhelifa, T.~Zhukabayeva, and S.~Ennaji, ``Next-generation penetration
+  testing: A cross-domain review of challenges, trends, and taxonomy for urban
+  digital ecosystems,'' \emph{Computing}, vol. 107, p. 224, 2025.
 
 \bibitem{Batra2025MultiCloudDataLoss}
-R.~Batra, S.~K. Mandal, and D.~Singh, ``Novel method for preventing loss of information in multi-cloud storage assistance,'' \emph{International Journal of System Assurance Engineering and Management}, 2025.
+R.~Batra, S.~K. Mandal, and D.~Singh, ``Novel method for preventing loss of
+  information in multi-cloud storage assistance,'' \emph{International Journal
+  of System Assurance Engineering and Management}, 2025.
 
 \bibitem{Ting2021TrustModeling}
-H.~L.~J. Ting, X.~Kang, T.~Li, H.~Wang, and C.-K. Chu, ``On the trust and trust modeling for the future fully-connected digital world: A comprehensive study,'' \emph{IEEE Access}, vol.~9, pp. 106\,743--106\,783, 2021.
+H.~L.~J. Ting, X.~Kang, T.~Li, H.~Wang, and C.-K. Chu, ``On the trust and trust
+  modeling for the future fully-connected digital world: A comprehensive
+  study,'' \emph{IEEE Access}, vol.~9, pp. 106\,743--106\,783, 2021.
 
 \bibitem{Kumar2025HPCCloudSLR}
-M.~Kumar, G.~Kaur, and P.~S. Rana, ``Performance, portability, productivity, and security in hpc cloud: A systematic literature review,'' \emph{Journal of Supercomputing}, vol.~81, p. 1197, 2025.
+M.~Kumar, G.~Kaur, and P.~S. Rana, ``Performance, portability, productivity,
+  and security in hpc cloud: A systematic literature review,'' \emph{Journal of
+  Supercomputing}, vol.~81, p. 1197, 2025.
 
 \bibitem{John2024DigitalTwinTrust}
-J.~John and J.~S. K, ``Predictive digital twin driven trust model for cloud service providers with fuzzy inferred trust score calculation,'' \emph{Journal of Cloud Computing}, vol.~13, p. 134, 2024.
+J.~John and J.~S. K, ``Predictive digital twin driven trust model for cloud
+  service providers with fuzzy inferred trust score calculation,''
+  \emph{Journal of Cloud Computing}, vol.~13, p. 134, 2024.
 
 \bibitem{Velmurugan2024SelectiveSharing}
-S.~Velmurugan, M.~Prakash, and S.~Neelakandan, ``Provably secure data selective sharing scheme with cloud-based decentralized trust management systems,'' \emph{Journal of Cloud Computing}, vol.~13, p.~86, 2024.
+S.~Velmurugan, M.~Prakash, and S.~Neelakandan, ``Provably secure data selective
+  sharing scheme with cloud-based decentralized trust management systems,''
+  \emph{Journal of Cloud Computing}, vol.~13, p.~86, 2024.
 
 \bibitem{Chen2021QShield}
-Y.~Chen, Q.~Zheng, Z.~Yan, and D.~Liu, ``Qshield: Protecting outsourced cloud data queries with multi-user access control based on sgx,'' \emph{IEEE Transactions on Parallel and Distributed Systems}, vol.~32, no.~2, pp. 485--499, 2021.
+Y.~Chen, Q.~Zheng, Z.~Yan, and D.~Liu, ``Qshield: Protecting outsourced cloud
+  data queries with multi-user access control based on sgx,'' \emph{IEEE
+  Transactions on Parallel and Distributed Systems}, vol.~32, no.~2, pp.
+  485--499, 2021.
 
 \bibitem{Ahmad2022CASBSLR}
-S.~Ahmad, S.~Mehfuz, and F.~Mebarek-Oudina, ``Rsm analysis based cloud access security broker: A systematic literature review,'' \emph{Cluster Computing}, vol.~25, pp. 3733--3763, 2022.
+S.~Ahmad, S.~Mehfuz, and F.~Mebarek-Oudina, ``Rsm analysis based cloud access
+  security broker: A systematic literature review,'' \emph{Cluster Computing},
+  vol.~25, pp. 3733--3763, 2022.
 
 \bibitem{Ahamed2022OsqueryDetection}
-S.~Ahamed and R.~Lakshmanan, ``Real-time heuristic-based detection of attacks performed on a linux machine using osquery,'' \emph{SN Computer Science}, vol.~3, p. 405, 2022.
+S.~Ahamed and R.~Lakshmanan, ``Real-time heuristic-based detection of attacks
+  performed on a linux machine using osquery,'' \emph{SN Computer Science},
+  vol.~3, p. 405, 2022.
 
 \bibitem{Alzoubi2024MLCloudSecurity}
-Y.~I. Alzoubi, A.~Mishra, and A.~E. Topcu, ``Research trends in deep learning and machine learning for cloud computing security,'' \emph{Artificial Intelligence Review}, vol.~57, p. 132, 2024.
+Y.~I. Alzoubi, A.~Mishra, and A.~E. Topcu, ``Research trends in deep learning
+  and machine learning for cloud computing security,'' \emph{Artificial
+  Intelligence Review}, vol.~57, p. 132, 2024.
 
 \bibitem{Alqahtani2023CloudThreatReview}
 \BIBentryALTinterwordspacing
-K.~Alqahtani, A.~Albalawi, and M.~Frikha, ``Reviewing of cybersecurity threats, attacks, and mitigation techniques in cloud computing environment,'' 2023, researchGate. [Online]. Available: \url{https://www.researchgate.net/publication/369897869}
+K.~Alqahtani, A.~Albalawi, and M.~Frikha, ``Reviewing of cybersecurity threats,
+  attacks, and mitigation techniques in cloud computing environment,'' 2023,
+  researchGate. [Online]. Available:
+  \url{https://www.researchgate.net/publication/369897869}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Coppolino2022SIEMEHealth}
-L.~Coppolino, L.~Sgaglione, and S.~D'Antonio, ``Risk assessment driven use of advanced siem technology for cyber protection of critical e-health processes,'' \emph{SN Computer Science}, vol.~3, p.~16, 2022.
+L.~Coppolino, L.~Sgaglione, and S.~D'Antonio, ``Risk assessment driven use of
+  advanced siem technology for cyber protection of critical e-health
+  processes,'' \emph{SN Computer Science}, vol.~3, p.~16, 2022.
 
 \bibitem{Ardebili2024CyberResilience}
-A.~Aghazadeh~Ardebili, M.~Lezzi, and M.~Pourmadadkar, ``Risk assessment for cyber resilience of critical infrastructures: Methods, governance, and standards,'' \emph{Applied Sciences}, vol.~14, no.~24, p. 11807, 2024.
+A.~Aghazadeh~Ardebili, M.~Lezzi, and M.~Pourmadadkar, ``Risk assessment for
+  cyber resilience of critical infrastructures: Methods, governance, and
+  standards,'' \emph{Applied Sciences}, vol.~14, no.~24, p. 11807, 2024.
 
 \bibitem{Chimuco2023MobileCloudSecurity}
-F.~T. Chimuco, J.~B.~F. Sequeiros, and C.~G. Lopes, ``Secure cloud-based mobile apps: Attack taxonomy, requirements, mechanisms, tests and automation,'' \emph{International Journal of Information Security}, vol.~22, pp. 833--867, 2023.
+F.~T. Chimuco, J.~B.~F. Sequeiros, and C.~G. Lopes, ``Secure cloud-based mobile
+  apps: Attack taxonomy, requirements, mechanisms, tests and automation,''
+  \emph{International Journal of Information Security}, vol.~22, pp. 833--867,
+  2023.
 
 \bibitem{Kamble2025SecureIoTTransmission}
-T.~Kamble, M.~Ghuge, and R.~Jain, ``Secure data transmission in cloud computing using a cyber-security trust model with multi-risk protection scheme in smart iot application,'' \emph{Cluster Computing}, vol.~28, p.~79, 2025.
+T.~Kamble, M.~Ghuge, and R.~Jain, ``Secure data transmission in cloud computing
+  using a cyber-security trust model with multi-risk protection scheme in smart
+  iot application,'' \emph{Cluster Computing}, vol.~28, p.~79, 2025.
 
 \bibitem{Vijay2025TrustReputationCloud}
-R.~Vijay and T.~R. Sree, ``Secured trust and reputation management framework for cloud service in cloud computing,'' \emph{Computing}, vol. 107, p. 186, 2025.
+R.~Vijay and T.~R. Sree, ``Secured trust and reputation management framework
+  for cloud service in cloud computing,'' \emph{Computing}, vol. 107, p. 186,
+  2025.
 
 \bibitem{ElKafhali2022CloudSecurityReview}
-S.~El~Kafhali, I.~El~Mir, and M.~Hanini, ``Security threats, defense mechanisms, challenges, and future directions in cloud computing,'' \emph{Archives of Computational Methods in Engineering}, vol.~29, pp. 223--246, 2022.
+S.~El~Kafhali, I.~El~Mir, and M.~Hanini, ``Security threats, defense
+  mechanisms, challenges, and future directions in cloud computing,''
+  \emph{Archives of Computational Methods in Engineering}, vol.~29, pp.
+  223--246, 2022.
 
 \bibitem{Vashishth2024CloudEducationSecurity}
 \BIBentryALTinterwordspacing
-T.~K. Vashishth, V.~Sharma, and K.~K. Sharma, ``Security and privacy considerations in cloud-based education,'' in \emph{Handbook of Research on Security and Privacy Considerations in Cloud Computing}.\hskip 1em plus 0.5em minus 0.4em\relax IGI Global, 2024. [Online]. Available: \url{https://www.igi-global.com/chapter/security-and-privacy-considerations-in-cloud-based-education/369577}
+T.~K. Vashishth, V.~Sharma, and K.~K. Sharma, ``Security and privacy
+  considerations in cloud-based education,'' in \emph{Handbook of Research on
+  Security and Privacy Considerations in Cloud Computing}.\hskip 1em plus 0.5em
+  minus 0.4em\relax IGI Global, 2024. [Online]. Available:
+  \url{https://www.igi-global.com/chapter/security-and-privacy-considerations-in-cloud-based-education/369577}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Nagarchi2025MultiCloudSecurity}
-A.~Z. Nagarchi, F.~Boudiwale, and S.~Mokashi, ``Security and privacy in multi-cloud and hybrid cloud environments: A comprehensive review of threats, vulnerabilities, and mitigation strategies,'' \emph{Computers \& Security}, 2025.
+A.~Z. Nagarchi, F.~Boudiwale, and S.~Mokashi, ``Security and privacy in
+  multi-cloud and hybrid cloud environments: A comprehensive review of threats,
+  vulnerabilities, and mitigation strategies,'' \emph{Computers \& Security},
+  2025.
 
 \bibitem{Bader2023CyberThreatStudy}
-D.~D. Bader, ``Study of various cyber threats and their mitigation techniques requirements,'' \emph{Wireless Personal Communications}, 2023.
+D.~D. Bader, ``Study of various cyber threats and their mitigation techniques
+  requirements,'' \emph{Wireless Personal Communications}, 2023.
 
 \bibitem{Ray2021CloudIoTSecurity}
-S.~Ray, K.~N. Mishra, and S.~Dutta, ``Susceptible data classification and security reassurance in cloud-iot based computing environment,'' \emph{Sādhanā}, vol.~46, p. 215, 2021.
+S.~Ray, K.~N. Mishra, and S.~Dutta, ``Susceptible data classification and
+  security reassurance in cloud-iot based computing environment,''
+  \emph{Sādhanā}, vol.~46, p. 215, 2021.
 
 \bibitem{Wu2023SpaceNetworkThreats}
-X.~Wu, Y.~Du, and T.~Fan, ``Threat analysis for space information network based on network security attributes: A review,'' \emph{Complex \& Intelligent Systems}, vol.~9, pp. 3429--3468, 2023.
+X.~Wu, Y.~Du, and T.~Fan, ``Threat analysis for space information network based
+  on network security attributes: A review,'' \emph{Complex \& Intelligent
+  Systems}, vol.~9, pp. 3429--3468, 2023.
 
 \bibitem{Ullah2026CyberDefenseReview}
-A.~Ullah, S.~Ali, M.~Mujeeb-Ur-Rehman, and S.~Amin, ``Trends, capabilities, and challenges in modern cyber defense: A systematic review of detection and response technologies,'' \emph{Spectrum of Emerging Sciences}, vol.~4, pp. 464--503, 2026.
+A.~Ullah, S.~Ali, M.~Mujeeb-Ur-Rehman, and S.~Amin, ``Trends, capabilities, and
+  challenges in modern cyber defense: A systematic review of detection and
+  response technologies,'' \emph{Spectrum of Emerging Sciences}, vol.~4, pp.
+  464--503, 2026.
 
 \bibitem{Stojalowski2024ZeroTrust}
-A.~Stojałowski, ``Zero trust architecture – protection against cyber attacks,'' \emph{Cybersecurity \& Cybercrime}, vol.~1, no.~4, pp. 110--125, 2024.
+A.~Stojałowski, ``Zero trust architecture – protection against cyber
+  attacks,'' \emph{Cybersecurity \& Cybercrime}, vol.~1, no.~4, pp. 110--125,
+  2024.
 
 \bibitem{Ahmad2023ZeroDaySLR}
-R.~Ahmad, I.~Alsmadi, and W.~Alhamdani, ``Zero-day attack detection: A systematic literature review,'' \emph{Artificial Intelligence Review}, vol.~56, pp. 10\,733--10\,811, 2023.
+R.~Ahmad, I.~Alsmadi, and W.~Alhamdani, ``Zero-day attack detection: A
+  systematic literature review,'' \emph{Artificial Intelligence Review},
+  vol.~56, pp. 10\,733--10\,811, 2023.
 
 \end{thebibliography}
