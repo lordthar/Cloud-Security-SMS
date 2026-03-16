@@ -9,7 +9,7 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'wiz_functions' (item size: 4) to 6000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'field_info' (item size: 4) to 13878 items.
+Reallocating 'field_info' (item size: 4) to 13924 items.
 Database file #1: resources/referencias.bib
 Warning--I didn't find a database entry for "sms-builder-own-container"
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
@@ -17,45 +17,45 @@ Warning--I didn't find a database entry for "sms-builder-own-container"
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 
 Done.
-You've used 192 entries,
+You've used 193 entries,
             4087 wiz_defined-function locations,
-            1919 strings with 48737 characters,
-and the built_in function-call counts, 152104 in all, are:
-= -- 13102
-> -- 3515
+            1924 strings with 49029 characters,
+and the built_in function-call counts, 152731 in all, are:
+= -- 13146
+> -- 3544
 < -- 1331
-+ -- 2063
-- -- 764
-* -- 7312
-:= -- 22705
-add.period$ -- 387
-call.type$ -- 192
-change.case$ -- 193
++ -- 2077
+- -- 771
+* -- 7343
+:= -- 22803
+add.period$ -- 389
+call.type$ -- 193
+change.case$ -- 195
 chr.to.int$ -- 2889
-cite$ -- 192
-duplicate$ -- 11094
-empty$ -- 11053
-format.name$ -- 773
-if$ -- 35417
+cite$ -- 193
+duplicate$ -- 11140
+empty$ -- 11102
+format.name$ -- 781
+if$ -- 35557
 int.to.chr$ -- 0
-int.to.str$ -- 192
-missing$ -- 1745
-newline$ -- 615
-num.names$ -- 192
-pop$ -- 3809
+int.to.str$ -- 193
+missing$ -- 1759
+newline$ -- 620
+num.names$ -- 193
+pop$ -- 3850
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 11900
+skip$ -- 11944
 stack$ -- 0
-substring$ -- 7881
-swap$ -- 9410
+substring$ -- 7884
+swap$ -- 9442
 text.length$ -- 368
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 192
+type$ -- 193
 warning$ -- 0
-while$ -- 665
-width$ -- 195
-write$ -- 1950
+while$ -- 666
+width$ -- 196
+write$ -- 1961
 (There was 1 warning)

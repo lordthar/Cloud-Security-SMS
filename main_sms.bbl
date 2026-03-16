@@ -1076,4 +1076,12 @@ R.~Ahmad, I.~Alsmadi, and W.~Alhamdani, ``Zero-day attack detection: A
   systematic literature review,'' \emph{Artificial Intelligence Review},
   vol.~56, pp. 10\,733--10\,811, 2023.
 
+\bibitem{sms-builder-repo}
+\BIBentryALTinterwordspacing
+C.~Candela-Uribe, L.~Sep{\'u}lveda-Rodr{\'i}guez, J.~Chavarro-Porras,
+  J.~Sanabria-Ord{\'o}{\~n}ez, J.~Garrido, C.~Rodr{\'i}guez-Dom{\'i}nguez, and
+  G.~Guerrero-Contreras, ``Sms-builder project,'' 2020, accessed: 2021-08-06.
+  [Online]. Available: \url{https://github.com/grid-uq/sms-builder}
+\BIBentrySTDinterwordspacing
+
 \end{thebibliography}
