@@ -45,9 +45,6 @@
 %166
 \newcommand{\screenTot}{\fpeval{\depTot-\screen}}
 
-%sub-subseccion 4.2.2
-\subsubsection{Estrategia de Búsqueda 1: Bases de Datos}
-
 Esta estrategia comprende dos componentes. El primer componente se denomina ``Identificación de estudios''. Se enfoca en establecer las palabras clave para construir las cadenas de búsqueda que permitan completar las consultas en las bibliotecas digitales. El segundo componente se denomina ``Selección de estudios''. Se enfoca en aplicar varios criterios para refinar los resultados de búsqueda de estudios y seleccionar aquellos con el valor más significativo para el SMS.\@
 
 \bolditalic{Identificación de estudios}: con el fin de asegurar la viabilidad del SMS y por consenso de los autores, se decidió limitar el número de bases de datos a cinco, incluyendo Web Of Science, IEEE Xplore, Springer, ScienceDirect, Taylor \& Francis. En esta parte del proceso, es necesario establecer las palabras clave utilizadas posteriormente en las cadenas de búsqueda de cada una de las bases de datos. Nuevamente utilizamos el modelo PICOC como guía metodológica para identificar términos o frases clave que cumplan este propósito. Refinamos estos términos incluyendo sinónimos (Ver Tabla~\ref{table:picoc_keywords}).
@@ -55,7 +52,6 @@ Esta estrategia comprende dos componentes. El primer componente se denomina ``Id
 % -------- Tabla : Palabras clave del modelo PICOC. ------------
 \begin{table}[htbp]
 	\centering
-	\caption{Palabras clave identificadas usando el modelo PICOC}\label{table:picoc_keywords}
 	\renewcommand{\arraystretch}{1}  % Increase row height globally
 	\begin{tabular}{p{1.8cm}p{6cm}}
 		\toprule
@@ -71,7 +67,9 @@ Esta estrategia comprende dos componentes. El primer componente se denomina ``Id
 		\addlinespace[0.8em]
 		\textbf{Contexto}                & Institutional management, cloud security, confidentiality, integrity and availability of cloud services.                                                                                                                    \\
 		\bottomrule
+		\vspace{2pt}
 	\end{tabular}
+	\caption{Palabras clave identificadas usando el modelo PICOC}\label{table:picoc_keywords}
 \end{table}
 % --------------------------------------------------------------
 
@@ -81,7 +79,6 @@ Finalmente, el conjunto de palabras clave seleccionadas para la construcción de
 % -------- Tabla : Palabras clave para búsqueda en base de datos . ------------
 \begin{table}[htbp]
 	\centering
-	\caption{Palabras clave para búsqueda en base de datos}\label{table:database_search_keywords}
 	\renewcommand{\arraystretch}{1}  % Increase row height globally
 	\begin{tabular}{p{1.4cm}p{6.4cm}}
 		\toprule
@@ -93,7 +90,9 @@ Finalmente, el conjunto de palabras clave seleccionadas para la construcción de
 		\addlinespace[0.8em]
 		\textbf{Technological Tools} & Digital infrastructure.                         \\
 		\bottomrule
+		\vspace{2pt}
 	\end{tabular}
+	\caption{Palabras clave para búsqueda en base de datos}\label{table:database_search_keywords}
 \end{table}
 % --------------------------------------------------------------
 
@@ -103,7 +102,6 @@ La Tabla~\ref{table:cadenas_de_busqueda} presenta las cadenas de búsqueda defin
 % -------- Tabla : Cadenas de búsqueda por base de datos ------------
 \begin{table*}[htbp]
 	\centering
-	\caption{Cadenas de búsqueda utilizadas en las bases de datos}\label{table:cadenas_de_busqueda}
 	\renewcommand{\arraystretch}{1}  % Increase row height globally
 	\begin{tabular}{p{3.2cm}p{11cm}p{2.5cm}}
 		\toprule
@@ -119,7 +117,9 @@ La Tabla~\ref{table:cadenas_de_busqueda} presenta las cadenas de búsqueda defin
 		\addlinespace[0.8em]
 		\textbf{Taylor \& Francis}        & ((``cloud security'' OR ``security controls'' OR ``cybersecurity'') AND (``methodology'' OR ``workflow'' OR ``framework'' OR ``case study'') AND (``technological tools'' OR ``digital infrastructure''))  & Todos los campos \\
 		\bottomrule
+		\vspace{2pt}
 	\end{tabular}
+	\caption{Cadenas de búsqueda utilizadas en las bases de datos}\label{table:cadenas_de_busqueda}
 \end{table*}
 % --------------------------------------------------------------
 
@@ -139,7 +139,6 @@ Después de construidas las cadenas de búsqueda, estas fueron enviadas a cada m
 
 \begin{table*}[htbp]
 	\centering
-	\caption{Resultados de las cadenas de búsqueda}\label{table:search_results}
 	\renewcommand{\arraystretch}{1}  % Increase row height globally
 	\begin{tabular}{p{4.8cm}p{1.7cm}p{1.7cm}p{1.7cm}p{1.7cm}p{2cm}p{1.4cm}}
 		\toprule
@@ -149,7 +148,9 @@ Después de construidas las cadenas de búsqueda, estas fueron enviadas a cada m
 		\addlinespace[0.8em]
 		\textbf{Contribución porcentual}                          & \wosp{}\%    & \ieeep{}\%    & \sdp{}\%               & \sprp{}\%         & \tfp{}\%                 & 100\%          \\
 		\bottomrule
+		\vspace{2pt}
 	\end{tabular}
+	\caption{Resultados de las cadenas de búsqueda}\label{table:search_results}
 \end{table*}
 % --------------------------------------------------------------
 
@@ -172,7 +173,6 @@ Por lo tanto, concluimos la primera estrategia de búsqueda con un total de \scr
 
 \begin{table*}[htbp]
 	\centering
-	\caption{Resultados de las cadenas de búsqueda con criterios de exclusión}\label{table:search_results_exclusion}
 	\begin{tabular}{p{4.8cm}p{1.7cm}p{1.7cm}p{1.7cm}p{1.7cm}p{2cm}p{1.4cm}}
 		\toprule
 		\textbf{Criterios}                                        & \textbf{ACM} & \textbf{IEEE} & \textbf{ScienceDirect} & \textbf{Springer} & \textbf{Taylor \& Francis} & \textbf{Total} \\
@@ -181,6 +181,8 @@ Por lo tanto, concluimos la primera estrategia de búsqueda con un total de \scr
 		\addlinespace[0.8em]
 		\textbf{Contribución porcentual}                          & \iwosp{}\%   & \iieeep{}\%   & \isdp{}\%              & \isprp{}\%        & \itfp{}\%                  & 100\%          \\
 		\bottomrule
+		\vspace{2pt}
 	\end{tabular}
+	\caption{Resultados de las cadenas de búsqueda con criterios de exclusión}\label{table:search_results_exclusion}
 \end{table*}
 % --------------------------------------------------------------

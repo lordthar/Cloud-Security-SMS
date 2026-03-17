@@ -21,6 +21,51 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
+\bibitem{lallie2025cyberattacks}
+H.~S. Lallie, A.~Thompson, E.~Titis, and P.~Stephens, ``Analysing cyber attacks
+  and cyber security vulnerabilities in the university sector,''
+  \emph{Computers}, vol.~14, no.~2, p.~49, 2025.
+
+\bibitem{educause2023cybersecurity}
+{EDUCAUSE}, ``8 considerations when establishing cybersecurity in higher
+  education,''
+  \url{https://er.educause.edu/articles/sponsored/2023/10/8-considerations-when-establishing-cybersecurity-in-higher-education},
+  2023.
+
+\bibitem{edutech2024cybersecurity}
+{EduTech}, ``Cybersecurity in higher education: Protecting student data,''
+  \url{https://edutech.global/cybersecurity-in-higher-education}, 2024.
+
+\bibitem{Coppolino2022SIEMEHealth}
+L.~Coppolino, L.~Sgaglione, and S.~D'Antonio, ``Risk assessment driven use of
+  advanced siem technology for cyber protection of critical e-health
+  processes,'' \emph{SN Computer Science}, vol.~3, p.~16, 2022.
+
+\bibitem{Chatterjee2023CloudLMS}
+P.~Chatterjee, R.~Bose, and S.~Banerjee, ``Enhancing data security of cloud
+  based lms,'' \emph{Wireless Personal Communications}, vol. 130, pp.
+  1123--1139, 2023.
+
+\bibitem{Vashishth2024CloudEducationSecurity}
+\BIBentryALTinterwordspacing
+T.~K. Vashishth, V.~Sharma, and K.~K. Sharma, ``Security and privacy
+  considerations in cloud-based education,'' in \emph{Handbook of Research on
+  Security and Privacy Considerations in Cloud Computing}.\hskip 1em plus 0.5em
+  minus 0.4em\relax IGI Global, 2024. [Online]. Available:
+  \url{https://www.igi-global.com/chapter/security-and-privacy-considerations-in-cloud-based-education/369577}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Stojalowski2024ZeroTrust}
+A.~Stojałowski, ``Zero trust architecture – protection against cyber
+  attacks,'' \emph{Cybersecurity \& Cybercrime}, vol.~1, no.~4, pp. 110--125,
+  2024.
+
+\bibitem{Pramudya2022SnortIDS}
+P.~B. Pramudya and A.~Alamsyah, ``Implementation of signature-based intrusion
+  detection system using snort to prevent threats in network servers,''
+  \emph{Journal of Soft Computing Exploration}, vol.~3, no.~2, pp. 93--98,
+  2022.
+
 \bibitem{Runeson2009}
 P.~Runeson and M.~H{\"o}st, ``Guidelines for conducting and reporting case
   study research in software engineering,'' \emph{Empirical Software
@@ -680,11 +725,6 @@ A.~Saidi and A.~E.~O. Khouri, ``Enhancing data privacy in intrusion detection:
   and Computation: Practice and Experience}, vol.~37, no. 18-20, p. e70186,
   2025.
 
-\bibitem{Chatterjee2023CloudLMS}
-P.~Chatterjee, R.~Bose, and S.~Banerjee, ``Enhancing data security of cloud
-  based lms,'' \emph{Wireless Personal Communications}, vol. 130, pp.
-  1123--1139, 2023.
-
 \bibitem{AlShehari2024InsiderThreat}
 T.~A. Al-Shehari, ``Enhancing insider threat detection in imbalanced
   cybersecurity settings using the density-based local outlier factor
@@ -794,12 +834,6 @@ S.~De, M.~S. Barik, and I.~Banerjee, ``Impact estimation of security attack and
   mitigation strategy using goal-based threat modeling in a peer-to-peer cloud
   system,'' \emph{Journal of the Institution of Engineers (India): Series B},
   vol. 103, pp. 1845--1862, 2022.
-
-\bibitem{Pramudya2022SnortIDS}
-P.~B. Pramudya and A.~Alamsyah, ``Implementation of signature-based intrusion
-  detection system using snort to prevent threats in network servers,''
-  \emph{Journal of Soft Computing Exploration}, vol.~3, no.~2, pp. 93--98,
-  2022.
 
 \bibitem{Ecabert2024CyberIncidentReporting}
 T.~Ecabert, F.~Muhly, and V.~Zimmermann, ``Implications of cyber incident
@@ -999,11 +1033,6 @@ K.~Alqahtani, A.~Albalawi, and M.~Frikha, ``Reviewing of cybersecurity threats,
   \url{https://www.researchgate.net/publication/369897869}
 \BIBentrySTDinterwordspacing
 
-\bibitem{Coppolino2022SIEMEHealth}
-L.~Coppolino, L.~Sgaglione, and S.~D'Antonio, ``Risk assessment driven use of
-  advanced siem technology for cyber protection of critical e-health
-  processes,'' \emph{SN Computer Science}, vol.~3, p.~16, 2022.
-
 \bibitem{Ardebili2024CyberResilience}
 A.~Aghazadeh~Ardebili, M.~Lezzi, and M.~Pourmadadkar, ``Risk assessment for
   cyber resilience of critical infrastructures: Methods, governance, and
@@ -1031,15 +1060,6 @@ S.~El~Kafhali, I.~El~Mir, and M.~Hanini, ``Security threats, defense
   \emph{Archives of Computational Methods in Engineering}, vol.~29, pp.
   223--246, 2022.
 
-\bibitem{Vashishth2024CloudEducationSecurity}
-\BIBentryALTinterwordspacing
-T.~K. Vashishth, V.~Sharma, and K.~K. Sharma, ``Security and privacy
-  considerations in cloud-based education,'' in \emph{Handbook of Research on
-  Security and Privacy Considerations in Cloud Computing}.\hskip 1em plus 0.5em
-  minus 0.4em\relax IGI Global, 2024. [Online]. Available:
-  \url{https://www.igi-global.com/chapter/security-and-privacy-considerations-in-cloud-based-education/369577}
-\BIBentrySTDinterwordspacing
-
 \bibitem{Nagarchi2025MultiCloudSecurity}
 A.~Z. Nagarchi, F.~Boudiwale, and S.~Mokashi, ``Security and privacy in
   multi-cloud and hybrid cloud environments: A comprehensive review of threats,
@@ -1065,11 +1085,6 @@ A.~Ullah, S.~Ali, M.~Mujeeb-Ur-Rehman, and S.~Amin, ``Trends, capabilities, and
   challenges in modern cyber defense: A systematic review of detection and
   response technologies,'' \emph{Spectrum of Emerging Sciences}, vol.~4, pp.
   464--503, 2026.
-
-\bibitem{Stojalowski2024ZeroTrust}
-A.~Stojałowski, ``Zero trust architecture – protection against cyber
-  attacks,'' \emph{Cybersecurity \& Cybercrime}, vol.~1, no.~4, pp. 110--125,
-  2024.
 
 \bibitem{Ahmad2023ZeroDaySLR}
 R.~Ahmad, I.~Alsmadi, and W.~Alhamdani, ``Zero-day attack detection: A

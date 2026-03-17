@@ -9,7 +9,7 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'wiz_functions' (item size: 4) to 6000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'field_info' (item size: 4) to 13924 items.
+Reallocating 'field_info' (item size: 4) to 14062 items.
 Database file #1: resources/referencias.bib
 Warning--I didn't find a database entry for "sms-builder-own-container"
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
@@ -17,45 +17,45 @@ Warning--I didn't find a database entry for "sms-builder-own-container"
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 
 Done.
-You've used 193 entries,
+You've used 196 entries,
             4087 wiz_defined-function locations,
-            1924 strings with 49029 characters,
-and the built_in function-call counts, 152731 in all, are:
-= -- 13146
-> -- 3544
-< -- 1331
-+ -- 2077
-- -- 771
-* -- 7343
-:= -- 22803
-add.period$ -- 389
-call.type$ -- 193
-change.case$ -- 195
+            1936 strings with 49585 characters,
+and the built_in function-call counts, 154088 in all, are:
+= -- 13262
+> -- 3569
+< -- 1334
++ -- 2089
+- -- 777
+* -- 7396
+:= -- 23042
+add.period$ -- 395
+call.type$ -- 196
+change.case$ -- 198
 chr.to.int$ -- 2889
-cite$ -- 193
-duplicate$ -- 11140
-empty$ -- 11102
-format.name$ -- 781
-if$ -- 35557
+cite$ -- 196
+duplicate$ -- 11256
+empty$ -- 11223
+format.name$ -- 788
+if$ -- 35866
 int.to.chr$ -- 0
-int.to.str$ -- 193
-missing$ -- 1759
-newline$ -- 620
-num.names$ -- 193
-pop$ -- 3850
+int.to.str$ -- 196
+missing$ -- 1784
+newline$ -- 629
+num.names$ -- 196
+pop$ -- 3910
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 11944
+skip$ -- 12056
 stack$ -- 0
-substring$ -- 7884
-swap$ -- 9442
-text.length$ -- 368
+substring$ -- 7891
+swap$ -- 9518
+text.length$ -- 371
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 193
+type$ -- 196
 warning$ -- 0
-while$ -- 666
-width$ -- 196
-write$ -- 1961
+while$ -- 670
+width$ -- 199
+write$ -- 1988
 (There was 1 warning)
