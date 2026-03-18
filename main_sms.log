@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.16)  16 MAR 2026 20:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.16)  18 MAR 2026 00:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -374,7 +374,31 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 \Hy@SectionHShift=\skip64
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 48.
- (main_sms.aux
+ (C:\Users\HuendyCT\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (C:\Users\HuendyCT\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen264
+\captionmargin=\dimen265
+\caption@leftmargin=\dimen266
+\caption@rightmargin=\dimen267
+\caption@width=\dimen268
+\caption@indent=\dimen269
+\caption@parindent=\dimen270
+\caption@hangindent=\dimen271
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEtablestring \footnotesize \bgroup \par \centering \@IEEEtabletopskipstrut {\normalfont \footnotesize #1}\\{\normalfont \footnotesize \scshape #2}\par \addvspace {0.5\baselineskip }\egroup \@IEEEtablecaptionsepspace \else \@IEEEfigurecaptionsepspace \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspace \nobreakspace #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspace \nobreakspace }\parbox [t]{\hsize }{\normalfont \footnotesize \noindent \unhbox \@tempboxa #2}\else \ifCLASSOPTIONconference \hbox to\hsize {\normalfont \footnotesize \hfil \box \@tempboxa \hfil }\else \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \hfil }\fi \fi \fi  on input line 1175.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count318
+\c@continuedfloat=\count319
+Package caption Info: hyperref package is loaded.
+) (main_sms.aux
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
@@ -382,40 +406,40 @@ Package babel Info: 'spanish' activates 'spanish' shorthands.
 )
 \openout1 = `main_sms.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
 
 -- Lines per column: 58 (exact).
-LaTeX Info: Redefining \. on input line 77.
-LaTeX Info: Redefining \% on input line 77.
+LaTeX Info: Redefining \. on input line 79.
+LaTeX Info: Redefining \% on input line 79.
 (C:\Users\HuendyCT\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count318
-\scratchdimen=\dimen264
+\scratchcounter=\count320
+\scratchdimen=\dimen272
 \scratchbox=\box59
-\nofMPsegments=\count319
-\nofMParguments=\count320
+\nofMPsegments=\count321
+\nofMParguments=\count322
 \everyMPshowfont=\toks26
-\MPscratchCnt=\count321
-\MPscratchDim=\dimen265
-\MPnumerator=\count322
-\makeMPintoPDFobject=\count323
+\MPscratchCnt=\count323
+\MPscratchDim=\dimen273
+\MPnumerator=\count324
+\makeMPintoPDFobject=\count325
 \everyMPtoPDFconversion=\toks27
 ) (C:\Users\HuendyCT\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -423,17 +447,19 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\HuendyCT\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 77.
+Package hyperref Info: Link coloring ON on input line 79.
  (main_sms.out) (main_sms.out)
 \@outlinefile=\write3
 \openout3 = `main_sms.out'.
 
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 99.
+(Font)              <9> on input line 101.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 99.
+(Font)              <6> on input line 101.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 99.
+(Font)              <5> on input line 101.
  (Secciones/01-Introduccion/00-introduccion.tex) (Secciones/02-Motivacion/00-motivacion.tex [1{C:/Users/HuendyCT/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
 
 
@@ -459,71 +485,60 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 6--7
  [][] 
  []
 
-[2 <./resources/images/Planeacion/Planeacion.jpeg> <./resources/images/Planeacion/Etapa_1.jpeg>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 16.
+(Font)              <8> on input line 15.
 
-Overfull \hbox (7.44568pt too wide) in paragraph at lines 74--74
+Overfull \hbox (6.65344pt too wide) in paragraph at lines 17--17
+ []|\OT1/ptm/b/n/8 Metas| 
+ []
+
+[2 <./resources/images/Planeacion/Planeacion.jpeg> <./resources/images/Planeacion/Etapa_1.jpeg>]
+Overfull \hbox (7.44568pt too wide) in paragraph at lines 78--78
  []|\OT1/ptm/b/n/8 Meta| 
  []
 
 
-Overfull \hbox (10.77129pt too wide) in paragraph at lines 74--74
+Overfull \hbox (10.77129pt too wide) in paragraph at lines 78--78
  []|\OT1/ptm/b/n/8 Pregunta| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--81
-\OT1/ptm/m/n/10 es-ta-ble-cer as-pec-tos co-mo ``Po-bla-ci[]on'', ``In-ter-ven-ci[]on'',
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--81
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--83
-
- []
-
-
-Underfull \hbox (badness 3471) in paragraph at lines 118--119
+Underfull \hbox (badness 3471) in paragraph at lines 116--117
 \OT1/ptm/m/n/10 con-si-de-ran-do los do-mi-nios con-cep-tua-les m[]as re-le-van-tes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--119
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--151
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 152--155
+Underfull \hbox (badness 10000) in paragraph at lines 150--153
 
  []
 
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 161--162
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
 
  []
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 175--19
+[3])
+Underfull \hbox (badness 10000) in paragraph at lines 173--19
 
  []
 
 (Secciones/04-Metodo-revision/02-Busqueda-de-trabajos/00-busqueda-de-trabajos.tex
-<resources/images/Planeacion/Estrategias_busqueda.png, id=182, 501.072pt x 415.5525pt>
+<resources/images/Planeacion/Estrategias_busqueda.png, id=188, 501.072pt x 415.5525pt>
 File: resources/images/Planeacion/Estrategias_busqueda.png Graphic file (type png)
 <use resources/images/Planeacion/Estrategias_busqueda.png>
 Package pdftex.def Info: resources/images/Planeacion/Estrategias_busqueda.png  used on input line 19.
 (pdftex.def)             Requested size: 200.42525pt x 166.21805pt.
- [4] (Secciones/04-Metodo-revision/02-Busqueda-de-trabajos/01-estrategia-busqueda-base-datos.tex
+ [4 <./resources/images/Planeacion/Estrategias_busqueda.png>] (Secciones/04-Metodo-revision/02-Busqueda-de-trabajos/01-estrategia-busqueda-base-datos.tex
 Underfull \hbox (badness 10000) in paragraph at lines 64--64
 []|\OT1/ptm/b/n/8 Criterios de
  []
@@ -543,23 +558,18 @@ Overfull \hbox (6.98985pt too wide) in paragraph at lines 91--91
 []|\OT1/ptm/b/n/8 Technological
  []
 
-[5 <./resources/images/Planeacion/Estrategias_busqueda.png>]
-<resources/images/Planeacion/overview.png, id=219, 600.2425pt x 1307.88625pt>
+[5]
+<resources/images/Planeacion/overview.png, id=220, 408.02437pt x 548.0475pt>
 File: resources/images/Planeacion/overview.png Graphic file (type png)
 <use resources/images/Planeacion/overview.png>
 Package pdftex.def Info: resources/images/Planeacion/overview.png  used on input line 169.
-(pdftex.def)             Requested size: 150.06026pt x 326.97076pt.
+(pdftex.def)             Requested size: 102.00584pt x 137.01154pt.
 ) (Secciones/04-Metodo-revision/02-Busqueda-de-trabajos/02-estrategia-snowball.tex [6 <./resources/images/Planeacion/overview.png>]
-<resources/images/Planeacion/proceso_snowball.png, id=231, 885.3075pt x 295.70474pt>
+<resources/images/Planeacion/proceso_snowball.png, id=231, 947.79094pt x 338.01282pt>
 File: resources/images/Planeacion/proceso_snowball.png Graphic file (type png)
 <use resources/images/Planeacion/proceso_snowball.png>
 Package pdftex.def Info: resources/images/Planeacion/proceso_snowball.png  used on input line 40.
-(pdftex.def)             Requested size: 265.5943pt x 88.7121pt.
-
-Overfull \hbox (13.5943pt too wide) in paragraph at lines 40--41
- [][] 
- []
-
+(pdftex.def)             Requested size: 236.94716pt x 84.50299pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 57--57
 []|\OT1/ptm/b/n/8 Publication
@@ -573,356 +583,360 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--57
 ) (Secciones/04-Metodo-revision/02-Busqueda-de-trabajos/03-resultados-busqueda-trabajos.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7 <./resources/images/Planeacion/proceso_snowball.png>])) (Secciones/04-Metodo-revision/03-evaluacion-de-calidad/00-evaluacion-de-calidad.tex) (Secciones/04-Metodo-revision/04-extraccion-de-datos/00-extraccion-de-datos.tex
+)) (Secciones/04-Metodo-revision/03-evaluacion-de-calidad/00-evaluacion-de-calidad.tex [7 <./resources/images/Planeacion/proceso_snowball.png>]) (Secciones/04-Metodo-revision/04-extraccion-de-datos/00-extraccion-de-datos.tex
 
 Package natbib Warning: Citation `sms-builder-own-container' on page 8 undefined on input line 62.
 
 ) (Secciones/04-Metodo-revision/05-clasificacion-de-estudios/00-clasificacion-de-estudios.tex
-Underfull \hbox (badness 10000) in paragraph at lines 340--340
-[]|\OT1/ptm/m/n/7 SECURITY
+Overfull \vbox (6.0pt too high) detected at line 294
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--340
-[]|\OT1/ptm/m/n/7 SECURITY
+Overfull \vbox (6.0pt too high) detected at line 294
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--340
-\OT1/ptm/m/n/7 IN-FOR-MA-TION
+Overfull \vbox (6.0pt too high) detected at line 294
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--340
-\OT1/ptm/m/n/7 AND EVENT
+Overfull \vbox (6.0pt too high) detected at line 294
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--340
-\OT1/ptm/m/n/7 MA-NA-GE-MENT
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+[]|\OT1/ptm/m/n/5 CLOUD
  []
 
 
-LaTeX Warning: Float too large for page by 650.1593pt on input line 342.
-
-[8]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (9.0pt too high) detected at line 450
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+[]|\OT1/ptm/m/n/5 SECURITY
  []
 
 
-Overfull \vbox (9.0pt too high) detected at line 450
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+[]|\OT1/ptm/m/n/5 SECURITY
  []
 
 
-Overfull \vbox (9.0pt too high) detected at line 450
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+\OT1/ptm/m/n/5 IN-FOR-MA-TION
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 450--450
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+\OT1/ptm/m/n/5 AND EVENT
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+\OT1/ptm/m/n/5 MA-NA-GE-MENT
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+[]|\OT1/ptm/m/n/5 CLOUD
+ []
+
+
+Overfull \vbox (9.0pt too high) detected at line 401
+ []
+
+
+Overfull \vbox (9.0pt too high) detected at line 401
+ []
+
+
+Overfull \vbox (9.0pt too high) detected at line 401
+ []
+
+
+Overfull \vbox (9.0pt too high) detected at line 401
+ []
+
+
+Overfull \vbox (9.0pt too high) detected at line 401
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 401--401
 []|\OT1/ptm/m/n/8 CLOUD
  []
 
 
-Overfull \hbox (8.87798pt too wide) in paragraph at lines 450--450
-[]|\OT1/ptm/m/n/8 CYBERSECURITY| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 450--450
+Underfull \hbox (badness 10000) in paragraph at lines 401--401
 []|\OT1/ptm/m/n/8 SECURITY
  []
 
 
-Overfull \hbox (3.98207pt too wide) in paragraph at lines 450--450
-[]|\OT1/ptm/m/n/8 ARCHITECTURE| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 450--450
+Underfull \hbox (badness 10000) in paragraph at lines 401--401
 []|\OT1/ptm/m/n/8 SECURITY
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 450--450
+Underfull \hbox (badness 10000) in paragraph at lines 401--401
 \OT1/ptm/m/n/8 IN-FOR-MA-TION
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 450--450
+Underfull \hbox (badness 10000) in paragraph at lines 401--401
 \OT1/ptm/m/n/8 AND EVENT
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 450--450
-\OT1/ptm/m/n/8 MA-NA-GE-
- []
-
-
-Overfull \vbox (9.0pt too high) detected at line 450
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 450--450
-[]|\OT1/ptm/m/n/8 CLOUD
- []
-
-
-Overfull \hbox (3.98207pt too wide) in paragraph at lines 450--450
-[]|\OT1/ptm/m/n/8 ARCHITECTURE| 
- []
-
-
-Overfull \hbox (7.094pt too wide) in paragraph at lines 450--450
-[]|\OT1/ptm/m/n/8 CLASSIFICATION| 
- []
-
-
-LaTeX Warning: Float too large for page by 137.23096pt on input line 452.
-
-
-Overfull \vbox (9.0pt too high) detected at line 549
- []
-
-
-Overfull \vbox (9.0pt too high) detected at line 549
- []
-
-
-Overfull \vbox (9.0pt too high) detected at line 549
- []
-
-
-Overfull \vbox (9.0pt too high) detected at line 549
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 549--549
-[]|\OT1/ptm/m/n/8 CLOUD
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 549--549
-[]|\OT1/ptm/m/n/8 SECURITY
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 549--549
-[]|\OT1/ptm/m/n/8 SECURITY
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 549--549
-\OT1/ptm/m/n/8 IN-FOR-MA-TION
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 549--549
-\OT1/ptm/m/n/8 AND EVENT
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 549--549
+Underfull \hbox (badness 10000) in paragraph at lines 401--401
 \OT1/ptm/m/n/8 MA-NA-GE-MENT
  []
 
 
-Overfull \vbox (9.0pt too high) detected at line 549
+Overfull \vbox (9.0pt too high) detected at line 401
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 549--549
+Underfull \hbox (badness 10000) in paragraph at lines 401--401
 []|\OT1/ptm/m/n/8 CLOUD
  []
 
 
-LaTeX Warning: Float too large for page by 20.23096pt on input line 551.
-
-
-Overfull \vbox (9.0pt too high) detected at line 894
+Overfull \vbox (9.0pt too high) detected at line 488
  []
 
 
-Overfull \vbox (9.0pt too high) detected at line 894
+Overfull \vbox (9.0pt too high) detected at line 488
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 894--894
+Overfull \vbox (9.0pt too high) detected at line 488
+ []
+
+
+Overfull \vbox (9.0pt too high) detected at line 488
+ []
+
+
+Overfull \vbox (9.0pt too high) detected at line 488
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 488--488
 []|\OT1/ptm/m/n/8 CLOUD
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 894--894
+Underfull \hbox (badness 10000) in paragraph at lines 488--488
 []|\OT1/ptm/m/n/8 SECURITY
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 894--894
+Underfull \hbox (badness 10000) in paragraph at lines 488--488
 []|\OT1/ptm/m/n/8 SECURITY
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 894--894
+Underfull \hbox (badness 10000) in paragraph at lines 488--488
 \OT1/ptm/m/n/8 IN-FOR-MA-TION
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 894--894
+Underfull \hbox (badness 10000) in paragraph at lines 488--488
 \OT1/ptm/m/n/8 AND EVENT
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 894--894
+Underfull \hbox (badness 10000) in paragraph at lines 488--488
 \OT1/ptm/m/n/8 MA-NA-GE-MENT
  []
 
 
-Overfull \vbox (9.0pt too high) detected at line 894
+Overfull \vbox (9.0pt too high) detected at line 488
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 894--894
+Underfull \hbox (badness 10000) in paragraph at lines 488--488
 []|\OT1/ptm/m/n/8 CLOUD
  []
 
 
-LaTeX Warning: Float too large for page by 1281.55093pt on input line 896.
+Overfull \vbox (6.0pt too high) detected at line 778
+ []
 
 
-Overfull \hbox (3.09648pt too wide) in paragraph at lines 904--904
+Overfull \vbox (6.0pt too high) detected at line 778
+ []
+
+
+Overfull \vbox (6.0pt too high) detected at line 778
+ []
+
+
+Overfull \vbox (6.0pt too high) detected at line 778
+ []
+
+
+Overfull \vbox (6.0pt too high) detected at line 778
+ []
+
+
+Overfull \vbox (6.0pt too high) detected at line 778
+ []
+
+
+Overfull \vbox (6.0pt too high) detected at line 778
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 778--778
+[]|\OT1/ptm/m/n/5 SECURITY IN-FOR-MA-TION
+ []
+
+
+Underfull \hbox (badness 3058) in paragraph at lines 778--778
+\OT1/ptm/m/n/5 AND EVENT MA-NA-GE-MENT
+ []
+
+
+Overfull \vbox (6.0pt too high) detected at line 778
+ []
+
+
+Overfull \hbox (3.09648pt too wide) in paragraph at lines 788--788
 []|\OT1/ptm/b/n/8 Metodolog[]^^Pas
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 904--904
+Underfull \hbox (badness 10000) in paragraph at lines 788--788
 \OT1/ptm/b/n/8 y
  []
 
 
-Underfull \hbox (badness 1817) in paragraph at lines 904--905
+Underfull \hbox (badness 1817) in paragraph at lines 788--789
 []|\OT1/ptm/b/n/8 SPS Re-la-cio-na-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 906--908
+Underfull \hbox (badness 10000) in paragraph at lines 790--792
 []|\OT1/ptm/m/n/8 SECURITY
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 906--908
+Underfull \hbox (badness 10000) in paragraph at lines 790--792
 \OT1/ptm/m/n/8 IN-FOR-MA-TION AND
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 906--908
+Underfull \hbox (badness 10000) in paragraph at lines 790--792
 \OT1/ptm/m/n/8 (SIEM), CLOUD
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 906--908
+Underfull \hbox (badness 10000) in paragraph at lines 790--792
 \OT1/ptm/m/n/8 COM-PU-TING,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 906--908
+Underfull \hbox (badness 10000) in paragraph at lines 790--792
 \OT1/ptm/m/n/8 CY-BER-SE-CU-RITY,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 910--912
+Underfull \hbox (badness 10000) in paragraph at lines 795--797
 []|\OT1/ptm/m/n/8 ZERO-TRUST,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 910--912
+Underfull \hbox (badness 10000) in paragraph at lines 795--797
 \OT1/ptm/m/n/8 CLAS-SI-FI-CA-TION,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 910--912
+Underfull \hbox (badness 10000) in paragraph at lines 795--797
 \OT1/ptm/m/n/8 AR-CHI-TEC-TU-RE,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 910--912
+Underfull \hbox (badness 10000) in paragraph at lines 795--797
 \OT1/ptm/m/n/8 TA-XO-NOMY,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 910--912
+Underfull \hbox (badness 10000) in paragraph at lines 795--797
 \OT1/ptm/m/n/8 ISO/IEC 27001,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 915--916
+Underfull \hbox (badness 10000) in paragraph at lines 801--802
 []|\OT1/ptm/m/n/8 CYBERSECURITY,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 915--916
+Underfull \hbox (badness 10000) in paragraph at lines 801--802
 \OT1/ptm/m/n/8 TU-RE, TA-XO-NOMY,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 915--916
+Underfull \hbox (badness 10000) in paragraph at lines 801--802
 \OT1/ptm/m/n/8 CLOUD COM-PU-TING,
  []
 
-) (Secciones/04-Metodo-revision/06-resultados/00-resultados.tex [9] [10] [11] [12] [13]
-<resources/images/Planeacion/procedencia_datos.png, id=655, 473.97075pt x 234.8775pt>
+) (Secciones/04-Metodo-revision/06-resultados/00-resultados.tex [8]
+<resources/images/Planeacion/procedencia_datos.png, id=461, 1276.01718pt x 255.20343pt>
 File: resources/images/Planeacion/procedencia_datos.png Graphic file (type png)
 <use resources/images/Planeacion/procedencia_datos.png>
 Package pdftex.def Info: resources/images/Planeacion/procedencia_datos.png  used on input line 16.
-(pdftex.def)             Requested size: 236.98479pt x 117.43846pt.
-<resources/images/Planeacion/SPSs_preguntas.png, id=658, 417.05812pt x 223.58531pt>
+(pdftex.def)             Requested size: 255.19891pt x 51.03978pt.
+
+Overfull \hbox (3.19891pt too wide) in paragraph at lines 16--18
+ [][] 
+ []
+
+<resources/images/Planeacion/SPSs_preguntas.png, id=464, 281.55188pt x 188.20313pt>
 File: resources/images/Planeacion/SPSs_preguntas.png Graphic file (type png)
 <use resources/images/Planeacion/SPSs_preguntas.png>
 Package pdftex.def Info: resources/images/Planeacion/SPSs_preguntas.png  used on input line 27.
-(pdftex.def)             Requested size: 166.82028pt x 89.43253pt.
-<resources/images/Planeacion/SPSs_año.png, id=660, 569.12625pt x 307.1475pt>
+(pdftex.def)             Requested size: 140.77559pt x 94.10132pt.
+[9 <./resources/images/Planeacion/procedencia_datos.png>]
+<resources/images/Planeacion/SPSs_año.png, id=646, 511.9125pt x 277.035pt>
 File: resources/images/Planeacion/SPSs_año.png Graphic file (type png)
 <use resources/images/Planeacion/SPSs_año.png>
 Package pdftex.def Info: resources/images/Planeacion/SPSs_año.png  used on input line 39.
-(pdftex.def)             Requested size: 227.64647pt x 122.85681pt.
+(pdftex.def)             Requested size: 204.76137pt x 110.81203pt.
 
+Underfull \vbox (badness 5189) has occurred while \output is active []
 
-LaTeX Warning: Reference `figure:SPSs_anio' on page 14 undefined on input line 44.
-
-[14 <./resources/images/Planeacion/procedencia_datos.png> <./resources/images/Planeacion/SPSs_preguntas.png> <./resources/images/Planeacion/SPSs_año.png>]
-<resources/images/Planeacion/Topicos_RQs.png, id=671, 812.28468pt x 384.6872pt>
+<resources/images/Planeacion/Topicos_RQs.png, id=648, 812.28468pt x 384.6872pt>
 File: resources/images/Planeacion/Topicos_RQs.png Graphic file (type png)
 <use resources/images/Planeacion/Topicos_RQs.png>
 Package pdftex.def Info: resources/images/Planeacion/Topicos_RQs.png  used on input line 52.
 (pdftex.def)             Requested size: 243.68729pt x 115.40704pt.
-<resources/images/Planeacion/Topicos_indices.png, id=672, 679.03688pt x 547.2947pt>
+
+Underfull \vbox (badness 5189) has occurred while \output is active []
+
+ [10]
+Underfull \vbox (badness 1460) has occurred while \output is active []
+
+ [11 <./resources/images/Planeacion/SPSs_preguntas.png> <./resources/images/Planeacion/SPSs_año.png>]
+<resources/images/Planeacion/Topicos_indices.png, id=660, 583.42969pt x 501.37312pt>
 File: resources/images/Planeacion/Topicos_indices.png Graphic file (type png)
 <use resources/images/Planeacion/Topicos_indices.png>
 Package pdftex.def Info: resources/images/Planeacion/Topicos_indices.png  used on input line 65.
-(pdftex.def)             Requested size: 271.60994pt x 218.91399pt.
-
-Overfull \hbox (19.60994pt too wide) in paragraph at lines 65--67
- [][] 
- []
-
-<resources/images/Planeacion/Promedio_indices.png, id=674, 511.15968pt x 317.68687pt>
+(pdftex.def)             Requested size: 233.36774pt x 200.54568pt.
+ [12 <./resources/images/Planeacion/Topicos_RQs.png>] [13]
+<resources/images/Planeacion/Promedio_indices.png, id=674, 496.85625pt x 269.50688pt>
 File: resources/images/Planeacion/Promedio_indices.png Graphic file (type png)
 <use resources/images/Planeacion/Promedio_indices.png>
 Package pdftex.def Info: resources/images/Planeacion/Promedio_indices.png  used on input line 78.
-(pdftex.def)             Requested size: 204.46024pt x 127.07248pt.
+(pdftex.def)             Requested size: 198.73897pt x 107.80083pt.
 <resources/images/Planeacion/terminos.png, id=676, 438.8897pt x 221.32687pt>
 File: resources/images/Planeacion/terminos.png Graphic file (type png)
 <use resources/images/Planeacion/terminos.png>
 Package pdftex.def Info: resources/images/Planeacion/terminos.png  used on input line 92.
 (pdftex.def)             Requested size: 219.4443pt x 110.66315pt.
-[15 <./resources/images/Planeacion/Topicos_RQs.png> <./resources/images/Planeacion/Topicos_indices.png> <./resources/images/Planeacion/Promedio_indices.png> <./resources/images/Planeacion/terminos.png>]
-<resources/images/Planeacion/nube_palabras.png, id=690, 640.3925pt x 785.93625pt>
+<resources/images/Planeacion/nube_palabras.png, id=678, 640.3925pt x 785.93625pt>
 File: resources/images/Planeacion/nube_palabras.png Graphic file (type png)
 <use resources/images/Planeacion/nube_palabras.png>
 Package pdftex.def Info: resources/images/Planeacion/nube_palabras.png  used on input line 108.
-(pdftex.def)             Requested size: 192.11923pt x 235.78268pt.
-) (Secciones/04-Metodo-revision/07-reproducibilidad-del-metodo-de-revision/00-reproducibilidad-del-metodo-de-revision.tex)) (main_sms.bbl
+(pdftex.def)             Requested size: 160.09773pt x 196.48358pt.
+) [14 <./resources/images/Planeacion/Topicos_indices.png> <./resources/images/Planeacion/Promedio_indices.png> <./resources/images/Planeacion/terminos.png>] (Secciones/04-Metodo-revision/07-reproducibilidad-del-metodo-de-revision/00-reproducibilidad-del-metodo-de-revision.tex)) (main_sms.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 30--34
 []\OT1/ptm/m/n/10 EDUCAUSE, ``8 con-si-de-ra-tions when es-ta-
  []
@@ -962,7 +976,7 @@ Overfull \hbox (29.10713pt too wide) in paragraph at lines 51--57
 \OT1/ptm/m/n/10 security-[]and-[]privacy-[]considerations-[]in-[]cloud-[]based-[]education /
  []
 
-[16 <./resources/images/Planeacion/nube_palabras.png>]
+
 Underfull \hbox (badness 2435) in paragraph at lines 87--93
 []\OT1/ptm/m/n/10 L. E. Sep[]ulveda-Rodr[]^^Pguez, J. L. Ga-rri-do, J. C.
  []
@@ -987,7 +1001,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 87--93
 \OT1/ptm/m/n/10 Map-ping Analy-sis of Cloud Tech-no-lo-gies for
  []
 
-[17] [18] [19] [20] [21] [22] [23]
+[15 <./resources/images/Planeacion/nube_palabras.png>] [16] [17] [18] [19] [20] [21]
 Underfull \hbox (badness 1742) in paragraph at lines 1096--1101
 []\OT1/ptm/m/n/10 C. Candela-Uribe, L. Sep[]ulveda-Rodr[]^^Pguez,
  []
@@ -996,9 +1010,7 @@ Underfull \hbox (badness 1742) in paragraph at lines 1096--1101
 
 Package natbib Warning: There were undefined citations.
 
-[24
-
-] (main_sms.aux
+[22] (main_sms.aux
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
 )
@@ -1006,25 +1018,21 @@ LaTeX Info: Redefining \% on input line 14.
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `main_sms.out' has not changed.
 (rerunfilecheck)             Checksum: 1522760E0DC485FBC8583F03272B5F8C;5564.
  ) 
 Here is how much of TeX's memory you used:
- 13783 strings out of 467867
- 242095 string characters out of 5416882
- 833434 words of memory out of 5000000
- 42169 multiletter control sequences out of 15000+600000
- 671949 words of font info for 110 fonts, out of 8000000 for 9000
+ 15092 strings out of 467867
+ 267860 string characters out of 5416882
+ 817728 words of memory out of 5000000
+ 43473 multiletter control sequences out of 15000+600000
+ 672410 words of font info for 110 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,1025b,1385s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,1025b,1297s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main_sms.pdf (24 pages, 914716 bytes).
+Output written on main_sms.pdf (22 pages, 897253 bytes).
 PDF statistics:
- 855 PDF objects out of 1000 (max. 8388607)
- 281 named destinations out of 1000 (max. 500000)
+ 848 PDF objects out of 1000 (max. 8388607)
+ 279 named destinations out of 1000 (max. 500000)
  274 words of extra memory for PDF output out of 10000 (max. 10000000)
 
