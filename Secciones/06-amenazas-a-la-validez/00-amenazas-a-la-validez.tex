@@ -1,25 +1,35 @@
 \section{Amenazas a la Validez}\label{sec:amenazas-validez}
 
 Algunas de las principales limitaciones de este estudio se relacionan con aspectos como los siguientes: 
-1) Sesgos en el proceso de selección de estudios. 2) Errores cometidos durante el proceso de clasificación de estudios. 
-3) Inexactitud en el proceso de extracción de datos. 4) Errores en la aplicación del protocolo de búsqueda.% Subsection 6.1 
+1- Sesgos en el proceso de selección de estudios. 2- Errores cometidos durante el proceso de clasificación de estudios. 
+3- Inexactitud en el proceso de extracción de datos. 4- Errores en la aplicación del protocolo de búsqueda.
 
-\subsection{Bias in Study Selection}
-%!TODO In part 6 of the following paragraph, what are the alerts? 
-Bias in study selection was mitigated through seven actions.
-First, the protocol steps for constructing a systematic mapping study were strictly applied, following the recommendations presented in the literature~\cite{Kitchenham2010792, budgen2008using}, and incorporating the GQM and PICOC models. Second, five digital libraries widely recognized in the academic field were used. Third, synonyms of the main search terms were included in order to broaden the scope. Fourth, iterative construction of search strings was carried out through pilot searches, which allowed for necessary adjustments to identify the quantity and quality of studies. Fifth, a hybrid search strategy was applied, combining database queries with the snowballing technique. These strategies enabled the expansion of the number of relevant studies in the SMS. Sixth, alerts were generated to identify primary studies using the Endnote, Mendeley, and Google Scholar tools. Seventh, study validation was performed based on three aspects: a) content validity assessment (CVI), b) quality assessment according to number of citations (SCI), and c) assessment of the relationship between studies and research questions (IRRQ). Therefore, it is considered that possible studies not included in this SMS would have a reduced impact on the results. It should be noted that the CVI and IRRQ indices present as a limitation the degree of subjectivity derived from the authors' opinion at the time of evaluation. To reduce this subjectivity, collaborative work was promoted among an odd number of evaluators.
+% Subsection 6.1 
+\subsection{Sesgo en la selección de estudios}
+El sesgo en la selección de estudios se mitigó mediante siete acciones.
+
+Primero, se aplicaron rigurosamente los pasos del protocolo para la construcción de un estudio de mapeo sistemático, siguiendo las recomendaciones presentadas en la literatura~\cite{Kitchenham2010} e incorporando los modelos GQM y PICOC. 
+Segundo, se utilizaron cinco bibliotecas digitales ampliamente reconocidas en el ámbito académico. 
+Tercero, se incluyeron sinónimos de los principales términos de búsqueda para ampliar el alcance. 
+Cuarto, se llevó a cabo la construcción iterativa de cadenas de búsqueda mediante búsquedas piloto, lo que permitió realizar los ajustes necesarios para identificar la cantidad y la calidad de los estudios. 
+Quinto, se aplicó una estrategia de búsqueda híbrida, combinando consultas a bases de datos con la técnica de bola de nieve con el 100\% de datos disponibles. Estas estrategias permitieron ampliar el número de estudios relevantes en el SMS. 
+Sexto, se genero apoyo de herramientas como Mendeley y Google Scholar para la revisión de metadatos de cada estudio primario seleccionado. 
+Séptimo, la validación del estudio se realizó con base en tres aspectos: 1- evaluación de la validez de contenido (CVI), 2- evaluación de la calidad según el número de citas (SCI) y 3- evaluación de la relación entre los estudios y las preguntas de investigación (IRRQ). 
+Por lo tanto, se considera que los posibles estudios no incluidos en este SMS tendrían un impacto reducido en los resultados. Cabe señalar que los índices CVI e IRRQ presentan como limitación el grado de subjetividad derivado de la opinión de los autores al momento de la evaluación. 
+Para reducir esta subjetividad, se fomentó el trabajo colaborativo entre un número impar de evaluadores.
 
 % Subsection 6.2
-\subsection{Errors in Study Classification}
-Studies were classified according to the topics defined in the planning stage, which maintain a close relationship with the research questions.
-These topics correspond to: a) Artificial intelligence, b) Cloud computing, c) Containerization, d) Grid computing, e) High Performance Computing (HPC), f) Java, g) Virtualization, h) Kubernetes, i) Networks, j) Parallelism, k) Docker, l) High Throughput Computing (HTC), m) Education, n) Research, and o) Industry.
-It is important to note that some SPSs were classified into multiple topics due to their intrinsic thematic coverage. Finally, the association between studies and topics was carried out through peer review. As in the study selection process, in order to reduce biases in SMS classification, collaborative work was performed among reviewers, including an odd number greater than one.
+\subsection{Errores en la clasificación de estudios}
+Los estudios se clasificaron según los temas definidos en la etapa de planificación, los cuales guardan una estrecha relación con las preguntas de investigación.
+Estos temas corresponden a: 1- Security, 2- Computación en la nube, 3- Taxonomy, 4- Methodology, 5- Technology Tools, 6- Case Study y 7- Classification.
+Finalmente, la asociación entre estudios y temas se realizó mediante revisión por pares. Al igual que en el proceso de selección de estudios, para reducir los sesgos en la clasificación de los SMS, se llevó a cabo un trabajo colaborativo entre los revisores, incluyendo un número impar mayor que uno.
 
 % Subsection 6.3 
-\subsection{Inaccuracy in the Data Extraction Process}
-For data extraction, the SMS-Builder software~\cite{sms-builder-repo} was primarily used, which facilitated the deductive extraction of SMS data through their classification according to the planning stage. Likewise, in order to reduce possible biases or errors in information extraction, a peer review was carried out, in accordance with the recommendations indicated in~\cite{Kitchenham2010792}.
+\subsection{Inexactitud en el proceso de extracción de datos}
+Para la extracción de datos, se utilizó principalmente el software SMS-Builder~\cite{sms-builder-repo}, que facilitó la extracción deductiva de datos SMS mediante su clasificación según la etapa de planificación. Asimismo, para reducir posibles sesgos o errores en la extracción de información, 
+se llevó a cabo una revisión por pares, de acuerdo con las recomendaciones indicadas en~\cite{Kitchenham2010}.
 
 % Subsection 6.4 
-\subsection{Errors in the Application of the Search Protocol}
-The application of this protocol was performed through peer review in order to reduce possible errors in execution. The first evaluator followed the research protocol and the second inspected their work. To avoid manual data processing, the SMS-Builder software~\cite{sms-builder-repo} was employed, which contributed to reducing the probability of errors during the application of the search protocol.
-
+\subsection{Errores en la aplicación del protocolo de búsqueda}
+La aplicación de este protocolo se realizó mediante revisión por pares para minimizar posibles errores de ejecución. En este proceso, dos evaluadores siguieron el protocolo de investigación de manera independiente, mientras que el tercer evaluador se encargo de revisar y validar los resultados onbtenidos.
+Adicionalmente, con el obvjetivo de reducir errores asociados al procesamiento manual de los datos, se utilizó el software SMS-Builder~\cite{sms-builder-repo}, lo que contribuyó a mejorar la consistencia y fiabilidad en la aplicación del protocolo de búsqueda.

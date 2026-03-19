@@ -365,6 +365,12 @@ INPUT .\resources\images\Planeacion\nube_palabras.png
 INPUT .\Secciones\04-Metodo-revision\07-reproducibilidad-del-metodo-de-revision\00-reproducibilidad-del-metodo-de-revision.tex
 INPUT .\Secciones\04-Metodo-revision\07-reproducibilidad-del-metodo-de-revision\00-reproducibilidad-del-metodo-de-revision.tex
 INPUT Secciones\04-Metodo-revision\07-reproducibilidad-del-metodo-de-revision\00-reproducibilidad-del-metodo-de-revision.tex
+INPUT .\Secciones\05-analisis-y-discusion\00-analisis-y-discusion.tex
+INPUT .\Secciones\05-analisis-y-discusion\00-analisis-y-discusion.tex
+INPUT Secciones\05-analisis-y-discusion\00-analisis-y-discusion.tex
+INPUT .\Secciones\06-amenazas-a-la-validez\00-amenazas-a-la-validez.tex
+INPUT .\Secciones\06-amenazas-a-la-validez\00-amenazas-a-la-validez.tex
+INPUT Secciones\06-amenazas-a-la-validez\00-amenazas-a-la-validez.tex
 INPUT .\main_sms.bbl
 INPUT .\main_sms.bbl
 INPUT main_sms.bbl

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.16)  18 MAR 2026 00:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.16)  18 MAR 2026 23:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -464,7 +464,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 ]) (Secciones/03-Trabajos-Relacionados/00-trabajos-relacionados.tex) (Secciones/04-Metodo-revision/00-metodo-revision.tex
-<resources/images/Planeacion/Planeacion.jpeg, id=136, 890.32625pt x 348.30125pt>
+<resources/images/Planeacion/Planeacion.jpeg, id=168, 890.32625pt x 348.30125pt>
 File: resources/images/Planeacion/Planeacion.jpeg Graphic file (type jpg)
 <use resources/images/Planeacion/Planeacion.jpeg>
 Package pdftex.def Info: resources/images/Planeacion/Planeacion.jpeg  used on input line 12.
@@ -475,7 +475,7 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 12--13
  []
 
 (Secciones/04-Metodo-revision/01-Planeacion/00-Planeacion.tex
-<resources/images/Planeacion/Etapa_1.jpeg, id=138, 886.31125pt x 337.26pt>
+<resources/images/Planeacion/Etapa_1.jpeg, id=170, 886.31125pt x 337.26pt>
 File: resources/images/Planeacion/Etapa_1.jpeg Graphic file (type jpg)
 <use resources/images/Planeacion/Etapa_1.jpeg>
 Package pdftex.def Info: resources/images/Planeacion/Etapa_1.jpeg  used on input line 6.
@@ -533,7 +533,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 173--19
  []
 
 (Secciones/04-Metodo-revision/02-Busqueda-de-trabajos/00-busqueda-de-trabajos.tex
-<resources/images/Planeacion/Estrategias_busqueda.png, id=188, 501.072pt x 415.5525pt>
+<resources/images/Planeacion/Estrategias_busqueda.png, id=220, 501.072pt x 415.5525pt>
 File: resources/images/Planeacion/Estrategias_busqueda.png Graphic file (type png)
 <use resources/images/Planeacion/Estrategias_busqueda.png>
 Package pdftex.def Info: resources/images/Planeacion/Estrategias_busqueda.png  used on input line 19.
@@ -559,13 +559,13 @@ Overfull \hbox (6.98985pt too wide) in paragraph at lines 91--91
  []
 
 [5]
-<resources/images/Planeacion/overview.png, id=220, 408.02437pt x 548.0475pt>
+<resources/images/Planeacion/overview.png, id=252, 408.02437pt x 548.0475pt>
 File: resources/images/Planeacion/overview.png Graphic file (type png)
 <use resources/images/Planeacion/overview.png>
 Package pdftex.def Info: resources/images/Planeacion/overview.png  used on input line 169.
 (pdftex.def)             Requested size: 102.00584pt x 137.01154pt.
 ) (Secciones/04-Metodo-revision/02-Busqueda-de-trabajos/02-estrategia-snowball.tex [6 <./resources/images/Planeacion/overview.png>]
-<resources/images/Planeacion/proceso_snowball.png, id=231, 947.79094pt x 338.01282pt>
+<resources/images/Planeacion/proceso_snowball.png, id=263, 947.79094pt x 338.01282pt>
 File: resources/images/Planeacion/proceso_snowball.png Graphic file (type png)
 <use resources/images/Planeacion/proceso_snowball.png>
 Package pdftex.def Info: resources/images/Planeacion/proceso_snowball.png  used on input line 40.
@@ -879,7 +879,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 801--802
  []
 
 ) (Secciones/04-Metodo-revision/06-resultados/00-resultados.tex [8]
-<resources/images/Planeacion/procedencia_datos.png, id=461, 1276.01718pt x 255.20343pt>
+<resources/images/Planeacion/procedencia_datos.png, id=493, 1276.01718pt x 255.20343pt>
 File: resources/images/Planeacion/procedencia_datos.png Graphic file (type png)
 <use resources/images/Planeacion/procedencia_datos.png>
 Package pdftex.def Info: resources/images/Planeacion/procedencia_datos.png  used on input line 16.
@@ -889,13 +889,13 @@ Overfull \hbox (3.19891pt too wide) in paragraph at lines 16--18
  [][] 
  []
 
-<resources/images/Planeacion/SPSs_preguntas.png, id=464, 281.55188pt x 188.20313pt>
+<resources/images/Planeacion/SPSs_preguntas.png, id=496, 281.55188pt x 188.20313pt>
 File: resources/images/Planeacion/SPSs_preguntas.png Graphic file (type png)
 <use resources/images/Planeacion/SPSs_preguntas.png>
 Package pdftex.def Info: resources/images/Planeacion/SPSs_preguntas.png  used on input line 27.
 (pdftex.def)             Requested size: 140.77559pt x 94.10132pt.
 [9 <./resources/images/Planeacion/procedencia_datos.png>]
-<resources/images/Planeacion/SPSs_año.png, id=646, 511.9125pt x 277.035pt>
+<resources/images/Planeacion/SPSs_año.png, id=678, 511.9125pt x 277.035pt>
 File: resources/images/Planeacion/SPSs_año.png Graphic file (type png)
 <use resources/images/Planeacion/SPSs_año.png>
 Package pdftex.def Info: resources/images/Planeacion/SPSs_año.png  used on input line 39.
@@ -903,7 +903,7 @@ Package pdftex.def Info: resources/images/Planeacion/SPSs_año.png  used on inpu
 
 Underfull \vbox (badness 5189) has occurred while \output is active []
 
-<resources/images/Planeacion/Topicos_RQs.png, id=648, 812.28468pt x 384.6872pt>
+<resources/images/Planeacion/Topicos_RQs.png, id=680, 812.28468pt x 384.6872pt>
 File: resources/images/Planeacion/Topicos_RQs.png Graphic file (type png)
 <use resources/images/Planeacion/Topicos_RQs.png>
 Package pdftex.def Info: resources/images/Planeacion/Topicos_RQs.png  used on input line 52.
@@ -915,28 +915,28 @@ Underfull \vbox (badness 5189) has occurred while \output is active []
 Underfull \vbox (badness 1460) has occurred while \output is active []
 
  [11 <./resources/images/Planeacion/SPSs_preguntas.png> <./resources/images/Planeacion/SPSs_año.png>]
-<resources/images/Planeacion/Topicos_indices.png, id=660, 583.42969pt x 501.37312pt>
+<resources/images/Planeacion/Topicos_indices.png, id=692, 583.42969pt x 501.37312pt>
 File: resources/images/Planeacion/Topicos_indices.png Graphic file (type png)
 <use resources/images/Planeacion/Topicos_indices.png>
 Package pdftex.def Info: resources/images/Planeacion/Topicos_indices.png  used on input line 65.
 (pdftex.def)             Requested size: 233.36774pt x 200.54568pt.
  [12 <./resources/images/Planeacion/Topicos_RQs.png>] [13]
-<resources/images/Planeacion/Promedio_indices.png, id=674, 496.85625pt x 269.50688pt>
+<resources/images/Planeacion/Promedio_indices.png, id=706, 496.85625pt x 269.50688pt>
 File: resources/images/Planeacion/Promedio_indices.png Graphic file (type png)
 <use resources/images/Planeacion/Promedio_indices.png>
 Package pdftex.def Info: resources/images/Planeacion/Promedio_indices.png  used on input line 78.
 (pdftex.def)             Requested size: 198.73897pt x 107.80083pt.
-<resources/images/Planeacion/terminos.png, id=676, 438.8897pt x 221.32687pt>
+<resources/images/Planeacion/terminos.png, id=708, 438.8897pt x 221.32687pt>
 File: resources/images/Planeacion/terminos.png Graphic file (type png)
 <use resources/images/Planeacion/terminos.png>
 Package pdftex.def Info: resources/images/Planeacion/terminos.png  used on input line 92.
 (pdftex.def)             Requested size: 219.4443pt x 110.66315pt.
-<resources/images/Planeacion/nube_palabras.png, id=678, 640.3925pt x 785.93625pt>
+<resources/images/Planeacion/nube_palabras.png, id=710, 640.3925pt x 785.93625pt>
 File: resources/images/Planeacion/nube_palabras.png Graphic file (type png)
 <use resources/images/Planeacion/nube_palabras.png>
 Package pdftex.def Info: resources/images/Planeacion/nube_palabras.png  used on input line 108.
 (pdftex.def)             Requested size: 160.09773pt x 196.48358pt.
-) [14 <./resources/images/Planeacion/Topicos_indices.png> <./resources/images/Planeacion/Promedio_indices.png> <./resources/images/Planeacion/terminos.png>] (Secciones/04-Metodo-revision/07-reproducibilidad-del-metodo-de-revision/00-reproducibilidad-del-metodo-de-revision.tex)) (main_sms.bbl
+) [14 <./resources/images/Planeacion/Topicos_indices.png> <./resources/images/Planeacion/Promedio_indices.png> <./resources/images/Planeacion/terminos.png>] (Secciones/04-Metodo-revision/07-reproducibilidad-del-metodo-de-revision/00-reproducibilidad-del-metodo-de-revision.tex)) (Secciones/05-analisis-y-discusion/00-analisis-y-discusion.tex) [15 <./resources/images/Planeacion/nube_palabras.png>] (Secciones/06-amenazas-a-la-validez/00-amenazas-a-la-validez.tex) (main_sms.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 30--34
 []\OT1/ptm/m/n/10 EDUCAUSE, ``8 con-si-de-ra-tions when es-ta-
  []
@@ -976,7 +976,7 @@ Overfull \hbox (29.10713pt too wide) in paragraph at lines 51--57
 \OT1/ptm/m/n/10 security-[]and-[]privacy-[]considerations-[]in-[]cloud-[]based-[]education /
  []
 
-
+[16]
 Underfull \hbox (badness 2435) in paragraph at lines 87--93
 []\OT1/ptm/m/n/10 L. E. Sep[]ulveda-Rodr[]^^Pguez, J. L. Ga-rri-do, J. C.
  []
@@ -1001,7 +1001,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 87--93
 \OT1/ptm/m/n/10 Map-ping Analy-sis of Cloud Tech-no-lo-gies for
  []
 
-[15 <./resources/images/Planeacion/nube_palabras.png>] [16] [17] [18] [19] [20] [21]
+[17] [18] [19] [20] [21] [22] [23]
 Underfull \hbox (badness 1742) in paragraph at lines 1096--1101
 []\OT1/ptm/m/n/10 C. Candela-Uribe, L. Sep[]ulveda-Rodr[]^^Pguez,
  []
@@ -1010,7 +1010,9 @@ Underfull \hbox (badness 1742) in paragraph at lines 1096--1101
 
 Package natbib Warning: There were undefined citations.
 
-[22] (main_sms.aux
+[24
+
+] (main_sms.aux
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
 )
@@ -1019,20 +1021,20 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
 Package rerunfilecheck Info: File `main_sms.out' has not changed.
-(rerunfilecheck)             Checksum: 1522760E0DC485FBC8583F03272B5F8C;5564.
+(rerunfilecheck)             Checksum: 70400AA3154DE03274A23E7251D0495F;7354.
  ) 
 Here is how much of TeX's memory you used:
- 15092 strings out of 467867
- 267860 string characters out of 5416882
- 817728 words of memory out of 5000000
- 43473 multiletter control sequences out of 15000+600000
+ 15128 strings out of 467867
+ 269179 string characters out of 5416882
+ 817827 words of memory out of 5000000
+ 43489 multiletter control sequences out of 15000+600000
  672410 words of font info for 110 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,1025b,1297s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,1025b,1367s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main_sms.pdf (22 pages, 897253 bytes).
+Output written on main_sms.pdf (24 pages, 911741 bytes).
 PDF statistics:
- 848 PDF objects out of 1000 (max. 8388607)
- 279 named destinations out of 1000 (max. 500000)
- 274 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 895 PDF objects out of 1000 (max. 8388607)
+ 289 named destinations out of 1000 (max. 500000)
+ 338 words of extra memory for PDF output out of 10000 (max. 10000000)
 
