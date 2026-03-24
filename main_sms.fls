@@ -220,8 +220,6 @@ INPUT C:\Users\HuendyCT\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr
 INPUT C:\Users\HuendyCT\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
 INPUT C:\Users\HuendyCT\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT C:\Users\HuendyCT\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
-INPUT C:\Users\HuendyCT\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
-INPUT C:\Users\HuendyCT\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT .\Secciones\03-Trabajos-Relacionados\00-trabajos-relacionados.tex
 INPUT .\Secciones\03-Trabajos-Relacionados\00-trabajos-relacionados.tex
 INPUT Secciones\03-Trabajos-Relacionados\00-trabajos-relacionados.tex
@@ -250,6 +248,8 @@ INPUT C:\Users\HuendyCT\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.
 INPUT C:\Users\HuendyCT\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
 INPUT C:\Users\HuendyCT\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmri7t.vf
 INPUT C:\Users\HuendyCT\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
+INPUT C:\Users\HuendyCT\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
+INPUT C:\Users\HuendyCT\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT C:\Users\HuendyCT\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
 INPUT C:\Users\HuendyCT\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT C:\Users\HuendyCT\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
@@ -371,6 +371,9 @@ INPUT Secciones\05-analisis-y-discusion\00-analisis-y-discusion.tex
 INPUT .\Secciones\06-amenazas-a-la-validez\00-amenazas-a-la-validez.tex
 INPUT .\Secciones\06-amenazas-a-la-validez\00-amenazas-a-la-validez.tex
 INPUT Secciones\06-amenazas-a-la-validez\00-amenazas-a-la-validez.tex
+INPUT .\Secciones\07-conclusiones\00-conclusiones.tex
+INPUT .\Secciones\07-conclusiones\00-conclusiones.tex
+INPUT Secciones\07-conclusiones\00-conclusiones.tex
 INPUT .\main_sms.bbl
 INPUT .\main_sms.bbl
 INPUT main_sms.bbl
