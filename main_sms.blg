@@ -9,9 +9,8 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'wiz_functions' (item size: 4) to 6000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'field_info' (item size: 4) to 14062 items.
+Reallocating 'field_info' (item size: 4) to 14016 items.
 Database file #1: resources/referencias.bib
-Warning--I didn't find a database entry for "sms-builder-own-container"
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
@@ -19,7 +18,7 @@ Warning--I didn't find a database entry for "sms-builder-own-container"
 Done.
 You've used 196 entries,
             4087 wiz_defined-function locations,
-            1936 strings with 49585 characters,
+            1935 strings with 49560 characters,
 and the built_in function-call counts, 154088 in all, are:
 = -- 13262
 > -- 3569
@@ -58,4 +57,3 @@ warning$ -- 0
 while$ -- 670
 width$ -- 199
 write$ -- 1988
-(There was 1 warning)
