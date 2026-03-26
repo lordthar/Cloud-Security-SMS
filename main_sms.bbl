@@ -1091,6 +1091,11 @@ R.~Ahmad, I.~Alsmadi, and W.~Alhamdani, ``Zero-day attack detection: A
   systematic literature review,'' \emph{Artificial Intelligence Review},
   vol.~56, pp. 10\,733--10\,811, 2023.
 
+\bibitem{sms_cloud_security_tg}
+Miguel2409, ``Sms cloud security tg,''
+  \url{https://hub.docker.com/r/miguel2409/sms_cloud_security_tg}, n.d., docker
+  Hub repository.
+
 \bibitem{sms-builder-repo}
 \BIBentryALTinterwordspacing
 C.~Candela-Uribe, L.~Sep{\'u}lveda-Rodr{\'i}guez, J.~Chavarro-Porras,

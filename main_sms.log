@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.16)  25 MAR 2026 21:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.16)  26 MAR 2026 12:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -875,7 +875,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 814--815
  []
 
 ) (Secciones/04-Metodo-revision/06-resultados/00-resultados.tex [8]
-<resources/images/Planeacion/procedencia_datos.png, id=502, 1276.01718pt x 255.20343pt>
+<resources/images/Planeacion/procedencia_datos.png, id=504, 1276.01718pt x 255.20343pt>
 File: resources/images/Planeacion/procedencia_datos.png Graphic file (type png)
 <use resources/images/Planeacion/procedencia_datos.png>
 Package pdftex.def Info: resources/images/Planeacion/procedencia_datos.png  used on input line 21.
@@ -885,12 +885,12 @@ Overfull \hbox (3.19891pt too wide) in paragraph at lines 21--23
  [][] 
  []
 
-<resources/images/Planeacion/SPSs_preguntas.png, id=505, 281.55188pt x 188.20313pt>
+<resources/images/Planeacion/SPSs_preguntas.png, id=507, 281.55188pt x 188.20313pt>
 File: resources/images/Planeacion/SPSs_preguntas.png Graphic file (type png)
 <use resources/images/Planeacion/SPSs_preguntas.png>
 Package pdftex.def Info: resources/images/Planeacion/SPSs_preguntas.png  used on input line 38.
 (pdftex.def)             Requested size: 140.77559pt x 94.10132pt.
-<resources/images/Planeacion/SPSs_año.png, id=507, 511.9125pt x 277.035pt>
+<resources/images/Planeacion/SPSs_año.png, id=509, 511.9125pt x 277.035pt>
 File: resources/images/Planeacion/SPSs_año.png Graphic file (type png)
 <use resources/images/Planeacion/SPSs_año.png>
 Package pdftex.def Info: resources/images/Planeacion/SPSs_año.png  used on input line 50.
@@ -901,7 +901,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [9 <./resources/images/Planeacion/procedencia_datos.png>]
 Underfull \vbox (badness 5189) has occurred while \output is active []
 
-<resources/images/Planeacion/Topicos_RQs.png, id=689, 812.28468pt x 384.6872pt>
+<resources/images/Planeacion/Topicos_RQs.png, id=691, 812.28468pt x 384.6872pt>
 File: resources/images/Planeacion/Topicos_RQs.png Graphic file (type png)
 <use resources/images/Planeacion/Topicos_RQs.png>
 Package pdftex.def Info: resources/images/Planeacion/Topicos_RQs.png  used on input line 64.
@@ -912,24 +912,24 @@ Underfull \vbox (badness 5189) has occurred while \output is active []
  [10]
 Underfull \vbox (badness 1460) has occurred while \output is active []
 
-<resources/images/Planeacion/Topicos_indices.png, id=695, 583.42969pt x 501.37312pt>
+<resources/images/Planeacion/Topicos_indices.png, id=697, 583.42969pt x 501.37312pt>
 File: resources/images/Planeacion/Topicos_indices.png Graphic file (type png)
 <use resources/images/Planeacion/Topicos_indices.png>
 Package pdftex.def Info: resources/images/Planeacion/Topicos_indices.png  used on input line 79.
 (pdftex.def)             Requested size: 233.36774pt x 200.54568pt.
  [11 <./resources/images/Planeacion/SPSs_preguntas.png> <./resources/images/Planeacion/SPSs_año.png>]
-<resources/images/Planeacion/Promedio_indices.png, id=703, 496.85625pt x 269.50688pt>
+<resources/images/Planeacion/Promedio_indices.png, id=705, 496.85625pt x 269.50688pt>
 File: resources/images/Planeacion/Promedio_indices.png Graphic file (type png)
 <use resources/images/Planeacion/Promedio_indices.png>
 Package pdftex.def Info: resources/images/Planeacion/Promedio_indices.png  used on input line 94.
 (pdftex.def)             Requested size: 198.73897pt x 107.80083pt.
  [12 <./resources/images/Planeacion/Topicos_RQs.png>] [13]
-<resources/images/Planeacion/terminos.png, id=718, 438.8897pt x 221.32687pt>
+<resources/images/Planeacion/terminos.png, id=720, 438.8897pt x 221.32687pt>
 File: resources/images/Planeacion/terminos.png Graphic file (type png)
 <use resources/images/Planeacion/terminos.png>
 Package pdftex.def Info: resources/images/Planeacion/terminos.png  used on input line 111.
 (pdftex.def)             Requested size: 219.4443pt x 110.66315pt.
-<resources/images/Planeacion/nube_palabras.png, id=720, 640.3925pt x 785.93625pt>
+<resources/images/Planeacion/nube_palabras.png, id=722, 640.3925pt x 785.93625pt>
 File: resources/images/Planeacion/nube_palabras.png Graphic file (type png)
 <use resources/images/Planeacion/nube_palabras.png>
 Package pdftex.def Info: resources/images/Planeacion/nube_palabras.png  used on input line 130.
@@ -1000,7 +1000,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 87--93
  []
 
 [17] [18] [19] [20] [21] [22] [23]
-Underfull \hbox (badness 1742) in paragraph at lines 1096--1101
+Underfull \hbox (badness 2512) in paragraph at lines 1095--1098
+[]\OT1/ptm/m/n/10 Miguel2409, ``Sms cloud se-cu-rity tg,'' [][]$https : / / hub .
+ []
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 1095--1098
+\OT1/ptm/m/n/10 docker . com / r / miguel2409 / sms[]cloud[]security[]tg$[][], n.d.,
+ []
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 1101--1106
 []\OT1/ptm/m/n/10 C. Candela-Uribe, L. Sep[]ulveda-Rodr[]^^Pguez,
  []
 
@@ -1016,17 +1026,17 @@ Package rerunfilecheck Info: File `main_sms.out' has not changed.
 (rerunfilecheck)             Checksum: 0669D5230862E8541DC51E32EBFD7149;7638.
  ) 
 Here is how much of TeX's memory you used:
- 15140 strings out of 467867
- 269647 string characters out of 5416882
- 817828 words of memory out of 5000000
- 43495 multiletter control sequences out of 15000+600000
+ 15144 strings out of 467867
+ 269760 string characters out of 5416882
+ 816924 words of memory out of 5000000
+ 43498 multiletter control sequences out of 15000+600000
  672410 words of font info for 110 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,762b,1295s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,762b,1294s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main_sms.pdf (24 pages, 916431 bytes).
+Output written on main_sms.pdf (24 pages, 917529 bytes).
 PDF statistics:
- 904 PDF objects out of 1000 (max. 8388607)
- 290 named destinations out of 1000 (max. 500000)
+ 908 PDF objects out of 1000 (max. 8388607)
+ 291 named destinations out of 1000 (max. 500000)
  346 words of extra memory for PDF output out of 10000 (max. 10000000)
 
