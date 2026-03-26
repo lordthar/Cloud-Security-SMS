@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main_sms"] 1774547088.42042 "main_sms.aux" "main_sms.bbl" "main_sms" 1774547096.10921 0
+["bibtex main_sms"] 1774548038.74918 "main_sms.aux" "main_sms.bbl" "main_sms" 1774548216.35785 0
   "./IEEEtran.bst" 1773526667 60157 7c8250ecf02814ce6ddc0cdbb63df1dd ""
   "./resources/referencias.bib" 1774547044 84970 17d24bf51e86603993447c248fbab73a ""
-  "main_sms.aux" 1774547094 32690 61ac665a686476e0ff7f82f66348a277 "pdflatex"
+  "main_sms.aux" 1774548214 32690 e9e0d71556ea7dafdbbaae4dee7a79e1 "pdflatex"
   (generated)
   "main_sms.bbl"
   "main_sms.blg"
   (rewritten before read)
-["pdflatex"] 1774547089.06488 "d:/Cloud-Security-SMS-main/Cloud-Security-SMS/main_sms.tex" "main_sms.pdf" "main_sms" 1774547096.11096 0
+["pdflatex"] 1774548209.91689 "d:/Cloud-Security-SMS-main/Cloud-Security-SMS/main_sms.tex" "main_sms.pdf" "main_sms" 1774548216.35926 0
   "C:/Users/HuendyCT/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1773788365 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/HuendyCT/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1773639355 13335301 d2b14310a8f6ce228e673bce003065e4 ""
   "C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -22,13 +22,10 @@
   "C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmri8r.tfm" 1136790254 4640 532ca3305aad10cc01d769f3f91f1029 ""
   "C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi8.tfm" 1136765053 1520 eccf95517727cb11801f4f1aee3a21b4 ""
-  "C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi9.tfm" 1136765053 1524 d89e2d087a9828407a196f428428ef4a ""
   "C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr6.tfm" 1136765053 1300 b62933e007d01cfd073f79b963c01526 ""
   "C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr8.tfm" 1136765053 1292 21c1c5bfeaebccffdb478fd231a0997d ""
-  "C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr9.tfm" 1136765053 1292 6b21b9c2c7bebb38aa2273f7ca0fb3af ""
   "C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
-  "C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy9.tfm" 1136765053 1116 25a7bf822c58caf309a702ef79f4afbb ""
   "C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1247596667 30251 6afa5cb1d0204815a708a080681d4674 ""
   "C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1247596667 36281 c355509802a035cadc5f15869451dcee ""
@@ -119,11 +116,11 @@
   "Secciones/05-analisis-y-discusion/00-analisis-y-discusion.tex" 1774418747 4630 1ba9aef4441aeac6708c4773b1c083db ""
   "Secciones/06-amenazas-a-la-validez/00-amenazas-a-la-validez.tex" 1774419283 4193 717ae34b366627eab28fe1d7f37b7398 ""
   "Secciones/07-conclusiones/00-conclusiones.tex" 1774490555 4174 d94064b25cc5f21df3a99417c7a51cc0 ""
-  "d:/Cloud-Security-SMS-main/Cloud-Security-SMS/main_sms.tex" 1774324002 4752 70a5cb8a69089d334182d3f1da5ab1c3 ""
-  "main_sms.aux" 1774547094 32690 61ac665a686476e0ff7f82f66348a277 "pdflatex"
-  "main_sms.bbl" 1774547088 53396 ecfed9c5405c6c7cb8a4207fab942a9b "bibtex main_sms"
-  "main_sms.out" 1774547094 7638 0669d5230862e8541dc51e32ebfd7149 "pdflatex"
-  "main_sms.tex" 1774324002 4752 70a5cb8a69089d334182d3f1da5ab1c3 ""
+  "d:/Cloud-Security-SMS-main/Cloud-Security-SMS/main_sms.tex" 1774548208 5459 fdfe18e30c69fff07de517886c64555c ""
+  "main_sms.aux" 1774548214 32690 e9e0d71556ea7dafdbbaae4dee7a79e1 "pdflatex"
+  "main_sms.bbl" 1774548039 53396 ecfed9c5405c6c7cb8a4207fab942a9b "bibtex main_sms"
+  "main_sms.out" 1774548214 7638 0669d5230862e8541dc51e32ebfd7149 "pdflatex"
+  "main_sms.tex" 1774548208 5459 fdfe18e30c69fff07de517886c64555c ""
   "resources/images/Planeacion/Estrategias_busqueda.png" 1773526667 108418 1307744ba83efe1ac69780fdfee1a90e ""
   "resources/images/Planeacion/Etapa_1.jpeg" 1773526667 51009 000f2aba3b284723bc1c914a8651d3f4 ""
   "resources/images/Planeacion/Planeacion.jpeg" 1773526667 49804 563143c2a91914b1d8c1ccb43ca15b48 ""
