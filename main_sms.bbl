@@ -21,6 +21,21 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
+\bibitem{wef2026_complexity}
+\BIBentryALTinterwordspacing
+{World Economic Forum}, ``Global cybersecurity outlook 2026: The trends
+  reshaping cybersecurity,'' 2026, accessed 2026-04-07. [Online]. Available:
+  \url{https://www.weforum.org/publications/global-cybersecurity-outlook-2026/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{iso27001}
+\BIBentryALTinterwordspacing
+{International Organization for Standardization}, \emph{ISO/IEC 27001:2022
+  Information security, cybersecurity and privacy protection --- Information
+  security management systems --- Requirements}, ISO Std., 2022, accessed:
+  2026-04-07. [Online]. Available: \url{https://www.iso.org/standard/27001}
+\BIBentrySTDinterwordspacing
+
 \bibitem{lallie2025cyberattacks}
 H.~S. Lallie, A.~Thompson, E.~Titis, and P.~Stephens, ``Analysing cyber attacks
   and cyber security vulnerabilities in the university sector,''
@@ -142,6 +157,13 @@ C.~A. Candela-Uribe, L.~E. Sep{\'u}lveda-Rodr{\'i}guez, J.~C. Chavarro-Porras,
   building systematic mapping studies,'' \emph{SoftwareX}, vol.~17, p. 100935,
   2022. [Online]. Available:
   \url{https://www.sciencedirect.com/science/article/pii/S2352711021001710}
+\BIBentrySTDinterwordspacing
+
+\bibitem{mendeley}
+\BIBentryALTinterwordspacing
+{Elsevier}, ``Mendeley reference manager,'' 2026, reference management
+  software. Accessed: 2026-04-07. [Online]. Available:
+  \url{https://www.mendeley.com/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Wohlin-01}
@@ -1095,6 +1117,13 @@ R.~Ahmad, I.~Alsmadi, and W.~Alhamdani, ``Zero-day attack detection: A
 Miguel2409, ``Sms cloud security tg,''
   \url{https://hub.docker.com/r/miguel2409/sms_cloud_security_tg}, n.d., docker
   Hub repository.
+
+\bibitem{wordart}
+\BIBentryALTinterwordspacing
+{WordArt.com}, ``Wordart: Word cloud generator,'' 2026, online word cloud
+  generation tool. Accessed: 2026-04-07. [Online]. Available:
+  \url{https://wordart.com/}
+\BIBentrySTDinterwordspacing
 
 \bibitem{sms-builder-repo}
 \BIBentryALTinterwordspacing

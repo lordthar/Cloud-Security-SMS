@@ -53,8 +53,8 @@ estudios y seleccionar aquellos con el valor más significativo para el SMS.\@
 \bolditalic{Identificación de estudios}: con el fin de asegurar la viabilidad del SMS y por consenso de los autores, se decidió limitar 
 el número de bases de datos a cinco, incluyendo Web Of Science, IEEE Xplore, Springer, ScienceDirect, Taylor \& Francis. En esta parte 
 del proceso, es necesario establecer las palabras clave utilizadas posteriormente en las cadenas de búsqueda de cada una de las bases de 
-datos. Nuevamente utilizamos el modelo PICOC como guía metodológica para identificar términos o frases clave que cumplan este propósito. 
-Refinamos estos términos incluyendo sinónimos (Ver Tabla~\ref{table:picoc_keywords}).
+datos. Nuevamente se utilizó el modelo PICOC como guía metodológica para identificar términos o frases clave que cumplan este propósito. 
+Se refinó estos términos incluyendo sinónimos (Ver Tabla~\ref{table:picoc_keywords}).
 
 % -------- Tabla : Palabras clave del modelo PICOC. ------------
 \begin{table}[htbp]
@@ -80,8 +80,8 @@ Refinamos estos términos incluyendo sinónimos (Ver Tabla~\ref{table:picoc_keyw
 \end{table}
 % --------------------------------------------------------------
 
-Las palabras clave principales que seleccionamos fueron \textit{Cloud Security, Methodology, Technological Tools}. Para ampliar la 
-perspectiva de investigación, utilizamos el operador booleano ``OR'' para agregar sinónimos a las palabras clave principales.
+Las palabras clave principales fueron \textit{Cloud Security, Methodology, Technological Tools}. Para ampliar la 
+perspectiva de investigación, se utilizó el operador booleano ``OR'' para agregar sinónimos a las palabras clave principales.
 Finalmente, el conjunto de palabras clave seleccionadas para la construcción de la cadena de búsqueda se encuentran en la 
 Tabla~\ref{table:database_search_keywords}.
 
@@ -89,7 +89,7 @@ Tabla~\ref{table:database_search_keywords}.
 \begin{table}[htbp]
 	\centering
 	\renewcommand{\arraystretch}{1}  % Increase row height globally
-	\begin{tabular}{p{1.4cm}p{6.4cm}}
+	\begin{tabular}{p{1.4cm}p{4.0cm}}
 		\toprule
 		\textbf{Palabra}  & \textbf{Sinónimos y conceptos relacionados}               \\
 		\midrule
@@ -105,31 +105,25 @@ Tabla~\ref{table:database_search_keywords}.
 \end{table}
 % --------------------------------------------------------------
 
-La Tabla~\ref{table:cadenas_de_busqueda} presenta las cadenas de búsqueda definidas para cada una de las bases de datos consultadas.
+La Tabla~\ref{table:cadena_base} presenta la estrategia de búsqueda base aplicada de manera uniforme en todas las bases de datos 
+seleccionadas, con el fin de mantener uniformidad en el proceso de búsqueda. Esta estrategia permitió asegurar consistencia en la recuperación de estudios primarios y facilitar 
+la trazabilidad del protocolo. La cadena empleada fue:
 
-% --------------- Tabla CADENAS DE Búsqueda-----------------------------------------
-% -------- Tabla : Cadenas de búsqueda por base de datos ------------
-\begin{table*}[htbp]
+\begin{table}[ht]
 	\centering
-	\renewcommand{\arraystretch}{1}  % Increase row height globally
-	\begin{tabular}{p{3.2cm}p{11cm}p{2.5cm}}
-		\toprule
-		\textbf{Base de Datos}            & \textbf{Cadena de Búsqueda}                                                                                                                                                                                        & \textbf{Campos}  \\
-		\midrule
-		\textbf{Web Of Science} 		  & ((``cloud security'' OR ``security controls'' OR ``cybersecurity'') AND (``methodology'' OR ``workflow'' OR ``framework'' OR ``case study'') AND (``technological tools'' OR ``digital infrastructure'')) & Todos los campos \\
-		\addlinespace[0.8em]
-		\textbf{IEEE Xplore}              & ((``cloud security'' OR ``security controls'' OR ``cybersecurity'') AND (``methodology'' OR ``workflow'' OR ``framework'' OR ``case study'') AND (``technological tools'' OR ``digital infrastructure''))  & Todos los campos \\
-		\addlinespace[0.8em]
-		\textbf{Springer}                 & ((``cloud security'' OR ``security controls'' OR ``cybersecurity'') AND (``methodology'' OR ``workflow'' OR ``framework'' OR ``case study'') AND (``technological tools'' OR ``digital infrastructure''))  & Todos los campos \\
-		\addlinespace[0.8em]
-		\textbf{ScienceDirect}            & ((``cloud security'' OR ``security controls'' OR ``cybersecurity'') AND (``methodology'' OR ``workflow'' OR ``framework'' OR ``case study'') AND (``technological tools'' OR ``digital infrastructure''))  & Todos los campos \\
-		\addlinespace[0.8em]
-		\textbf{Taylor \& Francis}        & ((``cloud security'' OR ``security controls'' OR ``cybersecurity'') AND (``methodology'' OR ``workflow'' OR ``framework'' OR ``case study'') AND (``technological tools'' OR ``digital infrastructure''))  & Todos los campos \\
-		\bottomrule
+	\begin{tabular}{>{\centering\arraybackslash}p{0.95\linewidth}}
+		\hline
+		\textbf{Cadena de búsqueda} \\
+		\hline
+		\texttt{((`cloud security'' OR security controls'' OR cybersecurity'')}\\ 
+		\texttt{AND (methodology'' OR workflow'' OR framework'' OR case study'')}\\
+		\texttt{AND (technological tools'' OR digital infrastructure''))} \\
+		\hline
 		\vspace{2pt}
 	\end{tabular}
-	\caption{Cadenas de búsqueda utilizadas en las bases de datos}\label{table:cadenas_de_busqueda}
-\end{table*}
+	\caption{Cadena de búsqueda base aplicada en las bases de datos}\label{table:cadena_base}
+\end{table}
+
 % --------------------------------------------------------------
 
 Para dirigir la búsqueda hacia la intersección de los grupos de términos identificados, se empleó el operador booleano ``AND'', mientras 
@@ -139,12 +133,12 @@ A partir de las palabras clave definidas, se construyó la cadena de búsqueda m
 refinaron los términos con el fin de mejorar la precisión y la recuperación de estudios relevantes. Este proceso heurístico permitió 
 combinar palabras clave, sinónimos y conceptos asociados utilizando operadores booleanos de disyunción y conjunción.
 
-Dado que las bases de datos seleccionadas permiten el uso de una estructura de consulta compatible, se utilizó la misma cadena de búsqueda 
-en todas ellas, garantizando así consistencia en el proceso de recuperación de literatura durante la fase de búsqueda automática. 
-Ver Tabla~\ref{table:cadenas_de_busqueda}.
+Dado que las bases de datos seleccionadas permiten el uso de estructuras de consulta compatible, se utilizó una misma estrategia de
+búsqueda basada en una lógica booleana uniforme en todas ellas. Esto garantizó consistencia en el proceso de recuperación de 
+literatura durante la fase de búsqueda automática.
 
-Después de construidas las cadenas de búsqueda, estas fueron enviadas a cada motor de base de datos. La Tabla~\ref{table:search_results} 
-muestra el conjunto de resultados obtenidos. Identificamos un total de 43043 estudios preliminarmente, siendo Springer la mayor 
+Después de construidas las cadenas de búsqueda, éstas fueron enviadas a cada motor de base de datos. La Tabla~\ref{table:search_results} 
+muestra el conjunto de resultados obtenidos. Identificamos un total de 43.043 estudios preliminarmente, siendo \textit{Springer} la mayor 
 contribuidora, entregando la mayor cantidad de resultados respecto a las demás bases de datos con el \sprp\% de los resultados.
 
 % -------- Tabla : Resultados de las cadenas de búsqueda ------------
@@ -168,20 +162,20 @@ contribuidora, entregando la mayor cantidad de resultados respecto a las demás 
 
 \bolditalic{Selección de estudios}: para refinar los resultados obtenidos hasta este punto, aplicamos los criterios de inclusión y 
 exclusión definidos en la fase de planificación. La Tabla~\ref{table:search_results_exclusion} muestra los resultados de este paso. 
-Después de aplicado dicho filtro, el número total de estudios obtenido fue \itot. Según las diferentes bases de datos consultadas, 
-Springer continúa teniendo la contribución más considerable, con el \isprp\% de los estudios.
+Después de aplicado lso criterios de inclusión y exclusión, el número total de estudios obtenido fue \itot. Según las diferentes 
+bases de datos consultadas, \textit{Springer} continúa teniendo la contribución más considerable, con el \isprp\% de los estudios.
 
 %% Aplicando exclusion duplicada
 
-De los \itot{} estudios seleccionados, se aplicó la exclusión de tres estudios dado que estos eran duplicados. Después de esta depuración, 
-los estudios totales fueron \depTot{}. A partir de este nuevo conjunto de datos, se realizó una revisión con el nombre de 
+De los 1.260 estudios seleccionados, se aplicó la exclusión de tres estudios dado que éstos eran duplicados. Después de esta depuración, 
+los estudios totales fueron 1.257. A partir de este nuevo conjunto de datos, se realizó una revisión con el nombre de 
 \bolditalic{screening}, este procedimiento consiste en verificar el título, resumen y palabras clave de cada estudio para determinar si 
-estos se encuentran circunscritos en el contexto de la investigación, es decir, si están alineados a los objetivos propuestos para el SMS.\@
-El proceso de \textit{screening} nos permitió descartar \screen{} estudios dado que algunos de ellos hacían referencia a metodologías y  
-herramientas tecnológicas a contextos diferentes y otros no estaban alineados con los objetivos de investigación planteados.
+éstos se encuentran en el contexto de la investigación, es decir, si están alineados a los objetivos propuestos para el SMS.\@
+El proceso de \textit{screening} permitió descartar 1.091 estudios dado que algunos hacían referencia a metodologías y  
+herramientas tecnológicas de contextos diferentes y otros no estaban alineados con los objetivos de investigación planteados.
 
-Por lo tanto, concluimos la primera estrategia de búsqueda con un total de \screenTot{} estudios seleccionados. La Figura~\ref{fig:overview} 
-muestra una visión general de las actividades y resultados obtenidos en la estrategia de búsqueda 1.
+Por lo tanto, se terminó la primera estrategia de búsqueda con un total de \screenTot{} estudios seleccionados. La Figura~\ref{fig:overview} 
+muestra una vista general de las actividades y resultados obtenidos en la estrategia de búsqueda 1.
 
 \begin{figure}[htbp]
 	\centering
