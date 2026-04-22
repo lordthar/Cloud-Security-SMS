@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.16)  8 APR 2026 00:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.16)  21 APR 2026 21:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -535,7 +535,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 189--26
 <resources/images/Planeacion/Estrategias_busqueda.png, id=234, 529.98pt x 443.40656pt>
 File: resources/images/Planeacion/Estrategias_busqueda.png Graphic file (type png)
 <use resources/images/Planeacion/Estrategias_busqueda.png>
-Package pdftex.def Info: resources/images/Planeacion/Estrategias_busqueda.png  used on input line 21.
+Package pdftex.def Info: resources/images/Planeacion/Estrategias_busqueda.png  used on input line 20.
 (pdftex.def)             Requested size: 211.98824pt x 177.35948pt.
  [4 <./resources/images/Planeacion/Estrategias_busqueda.png>] (Secciones/04-Metodo-revision/02-Busqueda-de-trabajos/01-estrategia-busqueda-base-datos.tex
 Underfull \hbox (badness 10000) in paragraph at lines 71--71
@@ -1052,13 +1052,13 @@ Package rerunfilecheck Info: File `main_sms.out' has not changed.
 Here is how much of TeX's memory you used:
  15199 strings out of 467867
  270904 string characters out of 5416882
- 813147 words of memory out of 5000000
+ 812143 words of memory out of 5000000
  43546 multiletter control sequences out of 15000+600000
  670387 words of font info for 107 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,79p,762b,1394s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main_sms.pdf (25 pages, 918494 bytes).
+Output written on main_sms.pdf (25 pages, 918483 bytes).
 PDF statistics:
  939 PDF objects out of 1000 (max. 8388607)
  297 named destinations out of 1000 (max. 500000)
