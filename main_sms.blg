@@ -9,7 +9,7 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'wiz_functions' (item size: 4) to 6000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'field_info' (item size: 4) to 14246 items.
+Reallocating 'field_info' (item size: 4) to 14384 items.
 Database file #1: resources/referencias.bib
 Warning--entry type for "wordart" isn't style-file defined
 --line 63 of file resources/referencias.bib
@@ -20,45 +20,45 @@ Warning--entry type for "mendeley" isn't style-file defined
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 
 Done.
-You've used 201 entries,
+You've used 204 entries,
             4087 wiz_defined-function locations,
-            1962 strings with 50394 characters,
-and the built_in function-call counts, 156138 in all, are:
-= -- 13447
-> -- 3589
-< -- 1334
-+ -- 2099
-- -- 782
-* -- 7476
-:= -- 23445
-add.period$ -- 404
-call.type$ -- 201
-change.case$ -- 207
-chr.to.int$ -- 2889
-cite$ -- 201
-duplicate$ -- 11422
-empty$ -- 11404
-format.name$ -- 793
-if$ -- 36313
+            1979 strings with 50981 characters,
+and the built_in function-call counts, 158783 in all, are:
+= -- 13682
+> -- 3637
+< -- 1362
++ -- 2133
+- -- 794
+* -- 7599
+:= -- 23824
+add.period$ -- 410
+call.type$ -- 204
+change.case$ -- 210
+chr.to.int$ -- 2955
+cite$ -- 204
+duplicate$ -- 11608
+empty$ -- 11591
+format.name$ -- 801
+if$ -- 36933
 int.to.chr$ -- 0
-int.to.str$ -- 201
-missing$ -- 1825
-newline$ -- 652
-num.names$ -- 201
-pop$ -- 4011
+int.to.str$ -- 204
+missing$ -- 1849
+newline$ -- 661
+num.names$ -- 204
+pop$ -- 4059
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 12218
+skip$ -- 12428
 stack$ -- 0
-substring$ -- 7905
-swap$ -- 9618
-text.length$ -- 371
+substring$ -- 8090
+swap$ -- 9786
+text.length$ -- 377
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 201
+type$ -- 204
 warning$ -- 0
-while$ -- 675
-width$ -- 204
-write$ -- 2042
+while$ -- 687
+width$ -- 207
+write$ -- 2072
 (There were 2 warnings)

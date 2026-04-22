@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.16)  22 APR 2026 17:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.16)  22 APR 2026 18:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -909,7 +909,7 @@ Package pdftex.def Info: resources/images/Planeacion/SPSs_año.png  used on inpu
 Underfull \vbox (badness 3525) has occurred while \output is active []
 
  [9 <./resources/images/Planeacion/SPSs_preguntas.png> <./resources/images/Planeacion/SPSs_año.png>]
-<resources/images/Planeacion/Topicos_RQs.png, id=702, 812.28468pt x 384.6872pt>
+<resources/images/Planeacion/Topicos_RQs.png, id=705, 812.28468pt x 384.6872pt>
 File: resources/images/Planeacion/Topicos_RQs.png Graphic file (type png)
 <use resources/images/Planeacion/Topicos_RQs.png>
 Package pdftex.def Info: resources/images/Planeacion/Topicos_RQs.png  used on input line 64.
@@ -923,12 +923,12 @@ Underfull \vbox (badness 5189) has occurred while \output is active []
  [10]
 Underfull \vbox (badness 4543) has occurred while \output is active []
 
-<resources/images/Planeacion/Topicos_indices.png, id=707, 583.42969pt x 501.37312pt>
+<resources/images/Planeacion/Topicos_indices.png, id=710, 583.42969pt x 501.37312pt>
 File: resources/images/Planeacion/Topicos_indices.png Graphic file (type png)
 <use resources/images/Planeacion/Topicos_indices.png>
 Package pdftex.def Info: resources/images/Planeacion/Topicos_indices.png  used on input line 79.
 (pdftex.def)             Requested size: 233.36774pt x 200.54568pt.
-<resources/images/Planeacion/Promedio_indices.png, id=709, 496.85625pt x 269.50688pt>
+<resources/images/Planeacion/Promedio_indices.png, id=712, 496.85625pt x 269.50688pt>
 File: resources/images/Planeacion/Promedio_indices.png Graphic file (type png)
 <use resources/images/Planeacion/Promedio_indices.png>
 Package pdftex.def Info: resources/images/Planeacion/Promedio_indices.png  used on input line 94.
@@ -939,19 +939,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [11 <./resources/images/Planeacion/Topicos_RQs.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<resources/images/Planeacion/terminos.png, id=718, 438.8897pt x 221.32687pt>
+<resources/images/Planeacion/terminos.png, id=721, 438.8897pt x 221.32687pt>
 File: resources/images/Planeacion/terminos.png Graphic file (type png)
 <use resources/images/Planeacion/terminos.png>
 Package pdftex.def Info: resources/images/Planeacion/terminos.png  used on input line 111.
 (pdftex.def)             Requested size: 241.39008pt x 121.73013pt.
  [12] [13]
-<resources/images/Planeacion/nube_palabras.png, id=731, 640.3925pt x 785.93625pt>
+<resources/images/Planeacion/nube_palabras.png, id=734, 640.3925pt x 785.93625pt>
 File: resources/images/Planeacion/nube_palabras.png Graphic file (type png)
 <use resources/images/Planeacion/nube_palabras.png>
 Package pdftex.def Info: resources/images/Planeacion/nube_palabras.png  used on input line 130.
 (pdftex.def)             Requested size: 160.09773pt x 196.48358pt.
 ) [14 <./resources/images/Planeacion/Topicos_indices.png> <./resources/images/Planeacion/Promedio_indices.png> <./resources/images/Planeacion/terminos.png> <./resources/images/Planeacion/nube_palabras.png>] (Secciones/04-Metodo-revision/07-reproducibilidad-del-metodo-de-revision/00-reproducibilidad-del-metodo-de-revision.tex)) (Secciones/05-analisis-y-discusion/00-analisis-y-discusion.tex
-<resources/images/Planeacion/taxonomia.png, id=748, 675.27281pt x 523.20468pt>
+<resources/images/Planeacion/taxonomia.png, id=751, 675.27281pt x 523.20468pt>
 File: resources/images/Planeacion/taxonomia.png Graphic file (type png)
 <use resources/images/Planeacion/taxonomia.png>
 Package pdftex.def Info: resources/images/Planeacion/taxonomia.png  used on input line 53.
@@ -1022,17 +1022,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 102--108
  []
 
 [18] [19] [20] [21] [22] [23] [24]
-Underfull \hbox (badness 2512) in paragraph at lines 1117--1120
+Underfull \hbox (badness 2512) in paragraph at lines 1133--1136
 []\OT1/ptm/m/n/10 Miguel2409, ``Sms cloud se-cu-rity tg,'' [][]$https : / / hub .
  []
 
 
-Underfull \hbox (badness 1742) in paragraph at lines 1117--1120
+Underfull \hbox (badness 1742) in paragraph at lines 1133--1136
 \OT1/ptm/m/n/10 docker . com / r / miguel2409 / sms[]cloud[]security[]tg$[][], n.d.,
  []
 
 
-Underfull \hbox (badness 1742) in paragraph at lines 1130--1135
+Underfull \hbox (badness 1742) in paragraph at lines 1146--1151
 []\OT1/ptm/m/n/10 C. Candela-Uribe, L. Sep[]ulveda-Rodr[]^^Pguez,
  []
 
@@ -1050,17 +1050,17 @@ Package rerunfilecheck Info: File `main_sms.out' has not changed.
 (rerunfilecheck)             Checksum: 39160C58BD860531C5A8ED1E6F8740B1;7637.
  ) 
 Here is how much of TeX's memory you used:
- 15199 strings out of 467867
- 270904 string characters out of 5416882
- 812144 words of memory out of 5000000
- 43546 multiletter control sequences out of 15000+600000
+ 15211 strings out of 467867
+ 271191 string characters out of 5416882
+ 812191 words of memory out of 5000000
+ 43555 multiletter control sequences out of 15000+600000
  670387 words of font info for 107 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,762b,1394s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,762b,1390s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main_sms.pdf (25 pages, 918426 bytes).
+Output written on main_sms.pdf (25 pages, 919391 bytes).
 PDF statistics:
- 939 PDF objects out of 1000 (max. 8388607)
- 297 named destinations out of 1000 (max. 500000)
+ 942 PDF objects out of 1000 (max. 8388607)
+ 300 named destinations out of 1000 (max. 500000)
  351 words of extra memory for PDF output out of 10000 (max. 10000000)
 

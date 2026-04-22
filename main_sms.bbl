@@ -503,6 +503,11 @@ J.~Alotaibi, ``Ai-driven intrusion detection and mitigation framework for
   software-defined iot networks,'' \emph{Peer-to-Peer Networking and
   Applications}, vol.~18, p. 321, 2025.
 
+\bibitem{Sharma2023APT}
+A.~Sharma, B.~B. Gupta, and A.~K. Singh, ``Advanced persistent threats (apt):
+  Evolution, anatomy, attribution and countermeasures,'' \emph{Journal of
+  Ambient Intelligence and Humanized Computing}, vol.~14, pp. 9355--9381, 2023.
+
 \bibitem{Ouhssini2024DDoSCloudReview}
 M.~Ouhssini, K.~Afdel, M.~Akouhar, E.~Agherrabi, and A.~Abarda, ``Advancements
   in detecting, preventing, and mitigating ddos attacks in cloud
@@ -640,6 +645,11 @@ P.~Radoglou-Grammatikis, P.~Sarigiannidis, G.~Efstathopoulos, T.~Lagkas,
   A.~Sarigiannidis, V.~Mladenov, and N.~Siaxabanis, ``Defending industrial
   internet of things against modbus/tcp threats: A combined ai-based detection
   and sdn-based mitigation solution,'' \emph{SSRN}, 2022.
+
+\bibitem{Wang2022eBPFIDS}
+S.-Y. Wang and J.-C. Chang, ``Design and implementation of an intrusion
+  detection system by using extended bpf in the linux kernel,'' \emph{Journal
+  of Network and Computer Applications}, vol. 198, p. 103283, 2022.
 
 \bibitem{Kirubavathi2025TransformerDDoS}
 G.~Kirubavathi, I.~R. Sumathi, and J.~Mahalakshmi, ``Detection and mitigation
@@ -829,6 +839,12 @@ W.~Du, D.~Liang, and Y.~Lv, ``Group and reweight: A novel cost-sensitive
   approach to mitigating class imbalance in network traffic classification,''
   \emph{International Journal of Machine Learning and Cybernetics}, vol.~16,
   pp. 7707--7728, 2025.
+
+\bibitem{Alotaibi2025HRLDeepNet}
+F.~M. Alotaibi, ``Hrl-deepnet: A hybrid residual layer deep neural network for
+  cybersecurity policy modeling, structuring, and protecting assets of
+  organizations,'' \emph{Arab Journal for Science and Engineering}, vol.~50,
+  pp. 12\,387--12\,401, 2025.
 
 \bibitem{Rana2024HeatmapAttacks}
 A.~Rana, P.~Rawat, and S.~Vats, ``Heatmap-based deep learning model for network
