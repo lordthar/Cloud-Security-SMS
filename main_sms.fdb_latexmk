@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main_sms"] 1776901396.43878 "main_sms.aux" "main_sms.bbl" "main_sms" 1776901397.0027 0
+["bibtex main_sms"] 1776901396.43878 "main_sms.aux" "main_sms.bbl" "main_sms" 1776980510.29707 0
   "./IEEEtran.bst" 1773526667 60157 7c8250ecf02814ce6ddc0cdbb63df1dd ""
   "./resources/referencias.bib" 1776901395 86393 75e05acb931f676a4b9e1ba94cda1900 ""
-  "main_sms.aux" 1776899302 33457 2aae36bb5f841062428cbbafb629270c "pdflatex"
+  "main_sms.aux" 1776980508 33457 2aae36bb5f841062428cbbafb629270c "pdflatex"
   (generated)
   "main_sms.bbl"
   "main_sms.blg"
   (rewritten before read)
-["pdflatex"] 1776899297.80645 "d:/Cloud-Security-SMS-main/Cloud-Security-SMS/main_sms.tex" "main_sms.pdf" "main_sms" 1776901397.0033 0
+["pdflatex"] 1776980502.83923 "d:/Cloud-Security-SMS-main/Cloud-Security-SMS/main_sms.tex" "main_sms.pdf" "main_sms" 1776980510.29832 0
   "C:/Users/HuendyCT/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1775342461 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/HuendyCT/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1773639355 13335301 d2b14310a8f6ce228e673bce003065e4 ""
   "C:/Users/HuendyCT/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -117,14 +117,14 @@
   "Secciones/04-Metodo-revision/04-extraccion-de-datos/00-extraccion-de-datos.tex" 1776899283 12345 0bf106644b1cca4ce7a356f20ba8f158 ""
   "Secciones/04-Metodo-revision/05-clasificacion-de-estudios/00-clasificacion-de-estudios.tex" 1775612944 54906 df8b29cf600d765be4d0fe359be406d1 ""
   "Secciones/04-Metodo-revision/06-resultados/00-resultados.tex" 1775620206 10533 c5a7b38c73f8c393fd7bbcbe86db62df ""
-  "Secciones/04-Metodo-revision/07-reproducibilidad-del-metodo-de-revision/00-reproducibilidad-del-metodo-de-revision.tex" 1774546919 600 992be4dda739d61a37b2cd937dbcb7e1 ""
+  "Secciones/04-Metodo-revision/07-reproducibilidad-del-metodo-de-revision/00-reproducibilidad-del-metodo-de-revision.tex" 1776980498 596 c00937a26b53b4870c6710ea139b1266 ""
   "Secciones/05-analisis-y-discusion/00-analisis-y-discusion.tex" 1776824811 6245 ee7c8cd42c659c8784152be1755f29e8 ""
   "Secciones/06-amenazas-a-la-validez/00-amenazas-a-la-validez.tex" 1774419283 4193 717ae34b366627eab28fe1d7f37b7398 ""
   "Secciones/07-conclusiones/00-conclusiones.tex" 1775624812 3639 0a58049ff143da18a9f91aa7209fdf29 ""
   "d:/Cloud-Security-SMS-main/Cloud-Security-SMS/main_sms.tex" 1775582110 5462 5fd8b5181a3edfccd622bff518559186 ""
-  "main_sms.aux" 1776899302 33457 2aae36bb5f841062428cbbafb629270c "pdflatex"
+  "main_sms.aux" 1776980508 33457 2aae36bb5f841062428cbbafb629270c "pdflatex"
   "main_sms.bbl" 1776901396 55412 7b040337f2e4c3e6e3b2e538f489ebdb "bibtex main_sms"
-  "main_sms.out" 1776899302 7637 39160c58bd860531c5a8ed1e6f8740b1 "pdflatex"
+  "main_sms.out" 1776980508 7637 39160c58bd860531c5a8ed1e6f8740b1 "pdflatex"
   "main_sms.tex" 1775582110 5462 5fd8b5181a3edfccd622bff518559186 ""
   "resources/images/Planeacion/Estrategias_busqueda.png" 1775601797 58974 a47dfb96b82d9ac11844458db949f383 ""
   "resources/images/Planeacion/Etapa_1.jpeg" 1773526667 51009 000f2aba3b284723bc1c914a8651d3f4 ""
